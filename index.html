@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>SP Programas</title>
+    <title>Meus Programas</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -445,6 +445,30 @@
         .detail-row .icon { flex-shrink: 0; }
         .detail-row .value { flex: 1; }
 
+        /* ===== SUGGESTION CARD ===== */
+        .suggestion-card { border-color: #1e3a5f; }
+        .suggestion-card:hover { border-color: var(--blue); }
+
+        .btn-add-suggestion {
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            color: var(--text);
+            font-size: 1.2rem;
+            font-weight: 700;
+            width: 2rem;
+            height: 2rem;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            transition: all 0.2s;
+        }
+
+        .btn-add-suggestion:hover { background: var(--green); color: var(--bg); border-color: var(--green); }
+        .btn-add-suggestion:disabled { background: var(--surface2); color: var(--text2); cursor: default; font-size: 0.75rem; }
+
         /* ===== RESPONSIVE ===== */
         @media (min-width: 600px) {
             .content { padding: 1rem 2rem; }
@@ -457,7 +481,7 @@
 <!-- HEADER -->
 <div class="header">
     <div class="header-top">
-        <div class="logo">SP <span>Programas</span></div>
+        <div class="logo">Meus <span>Programas</span></div>
         <div class="header-actions">
             <button class="icon-btn" id="searchToggle" title="Buscar">&#128269;</button>
             <button class="icon-btn" id="savedToggle" title="Salvos">&#9733;</button>
@@ -465,11 +489,14 @@
     </div>
     <div class="tabs" id="tabs">
         <button class="tab active" data-tab="all">Tudo</button>
+        <button class="tab" data-tab="novidades">✨ Novidades</button>
         <button class="tab" data-tab="cinema">Cinema</button>
-        <button class="tab" data-tab="restaurante">Restaurantes</button>
-        <button class="tab" data-tab="evento">Eventos</button>
+        <button class="tab" data-tab="musical">Musicais</button>
         <button class="tab" data-tab="show">Shows</button>
+        <button class="tab" data-tab="restaurante">Restaurantes</button>
         <button class="tab" data-tab="bar">Bares</button>
+        <button class="tab" data-tab="sesc">Sesc</button>
+        <button class="tab" data-tab="evento">Eventos</button>
         <button class="tab" data-tab="passeio">Passeios</button>
     </div>
 </div>
@@ -495,9 +522,11 @@
             <select id="formCategory">
                 <option value="restaurante">Restaurante</option>
                 <option value="cinema">Cinema</option>
-                <option value="evento">Evento</option>
+                <option value="musical">Musical</option>
                 <option value="show">Show</option>
                 <option value="bar">Bar</option>
+                <option value="sesc">Sesc</option>
+                <option value="evento">Evento</option>
                 <option value="passeio">Passeio</option>
             </select>
         </div>
@@ -601,18 +630,22 @@ const TAG_SUGGESTIONS = {
     show: ["rock", "sertanejo", "MPB", "pop", "eletronica", "jazz", "samba", "pagode", "rap", "internacional"],
     bar: ["cerveja-artesanal", "coquetel", "vinho", "rooftop", "balada", "ao-vivo", "petiscos", "speakeasy"],
     passeio: ["parque", "museu", "mirante", "historico", "natureza", "compras", "familia", "romantico", "foto"],
+    musical: ["broadway", "nacional", "infantil", "drama", "comedia", "classico", "estreia", "ultima-semana"],
+    sesc: ["teatro", "cinema", "danca", "musica", "esporte", "gastronomia", "gratuito", "oficina", "exposicao"],
 };
 
 // ============================================================
 // CATEGORY META
 // ============================================================
 const CAT_META = {
-    cinema:      { icon: "\uD83C\uDFAC", color: "blue" },
-    restaurante: { icon: "\uD83C\uDF7D\uFE0F", color: "yellow" },
-    evento:      { icon: "\uD83C\uDF89", color: "pink" },
-    show:        { icon: "\uD83C\uDFB5", color: "green" },
-    bar:         { icon: "\uD83C\uDF7A", color: "blue" },
-    passeio:     { icon: "\uD83D\uDEB6", color: "green" },
+    cinema:      { icon: "\uD83C\uDFAC", color: "blue",   label: "Cinema" },
+    restaurante: { icon: "\uD83C\uDF7D\uFE0F", color: "yellow", label: "Restaurante" },
+    evento:      { icon: "\uD83C\uDF89", color: "pink",   label: "Evento" },
+    show:        { icon: "\uD83C\uDFB5", color: "green",  label: "Show" },
+    bar:         { icon: "\uD83C\uDF7A", color: "blue",   label: "Bar" },
+    passeio:     { icon: "\uD83D\uDEB6", color: "green",  label: "Passeio" },
+    musical:     { icon: "\uD83C\uDFAD", color: "pink",   label: "Musical" },
+    sesc:        { icon: "\uD83C\uDFDB\uFE0F", color: "green", label: "Sesc" },
 };
 
 // ============================================================
@@ -650,15 +683,18 @@ function render() {
             groups[item.category].push(item);
         });
 
-        const order = ["cinema", "restaurante", "evento", "show", "bar", "passeio"];
+        const order = ["cinema", "musical", "show", "sesc", "restaurante", "bar", "evento", "passeio"];
         let html = "";
         order.forEach(cat => {
             if (!groups[cat]) return;
             const meta = CAT_META[cat] || {};
-            html += `<div class="section-label">${meta.icon || ""} ${cat.charAt(0).toUpperCase() + cat.slice(1)}s (${groups[cat].length})</div>`;
+            html += `<div class="section-label">${meta.icon || ""} ${meta.label || cat}s (${groups[cat].length})</div>`;
             groups[cat].forEach(item => { html += renderCard(item); });
         });
         el.innerHTML = html;
+    } else if (currentTab === "novidades") {
+        renderNovidades(el);
+        return;
     } else {
         el.innerHTML = filtered.map(renderCard).join("");
     }
@@ -674,6 +710,95 @@ function render() {
     el.querySelectorAll(".card").forEach(card => {
         card.addEventListener("click", () => openDetail(card.dataset.id));
     });
+}
+
+function renderNovidades(el) {
+    if (!suggestions || suggestions.length === 0) {
+        el.innerHTML = `
+            <div class="empty-state">
+                <div class="icon">✨</div>
+                <p>Novidades ainda nao carregadas.</p>
+                <p style="margin-top:0.4rem;font-size:0.85rem;">Atualizado automaticamente seg, qua e sex.</p>
+            </div>`;
+        return;
+    }
+
+    const updatedAt = suggestionsUpdatedAt
+        ? `<p style="text-align:center;color:var(--text2);font-size:0.75rem;margin-bottom:1rem;">Atualizado em ${suggestionsUpdatedAt}</p>`
+        : "";
+
+    const groups = {};
+    suggestions.forEach(s => {
+        if (!groups[s.category]) groups[s.category] = [];
+        groups[s.category].push(s);
+    });
+
+    const order = ["cinema", "musical", "show", "sesc", "restaurante", "bar", "evento", "passeio"];
+    let html = updatedAt;
+    order.forEach(cat => {
+        if (!groups[cat]) return;
+        const meta = CAT_META[cat] || {};
+        html += `<div class="section-label">${meta.icon || ""} ${meta.label || cat}s (${groups[cat].length})</div>`;
+        groups[cat].forEach(s => { html += renderSuggestionCard(s); });
+    });
+    // catch-all for categories not in order
+    Object.keys(groups).forEach(cat => {
+        if (order.includes(cat)) return;
+        const meta = CAT_META[cat] || {};
+        html += `<div class="section-label">${meta.icon || ""} ${meta.label || cat} (${groups[cat].length})</div>`;
+        groups[cat].forEach(s => { html += renderSuggestionCard(s); });
+    });
+
+    el.innerHTML = html;
+
+    el.querySelectorAll(".btn-add-suggestion").forEach(btn => {
+        btn.addEventListener("click", e => {
+            e.stopPropagation();
+            const idx = parseInt(btn.dataset.idx);
+            addSuggestionToList(suggestions[idx]);
+            btn.textContent = "✓ Adicionado";
+            btn.disabled = true;
+        });
+    });
+}
+
+function renderSuggestionCard(s, idx) {
+    const meta = CAT_META[s.category] || {};
+    const realIdx = suggestions.indexOf(s);
+    const tagsHtml = (s.tags || []).map(t =>
+        `<span class="tag" data-color="${meta.color || ''}">${t}</span>`
+    ).join("");
+    let metaItems = [];
+    if (s.address) metaItems.push(`<span>📍 ${s.address}</span>`);
+    if (s.date)    metaItems.push(`<span>📅 ${s.date}</span>`);
+    if (s.source)  metaItems.push(`<span>🔗 ${s.source}</span>`);
+
+    return `
+    <div class="card suggestion-card">
+        <div class="card-top">
+            <div class="card-title">${meta.icon || ""} ${s.name}</div>
+            <button class="btn-add-suggestion" data-idx="${realIdx}" title="Adicionar a minha lista">+</button>
+        </div>
+        ${metaItems.length ? `<div class="card-meta">${metaItems.join("")}</div>` : ""}
+        ${s.desc ? `<div class="card-desc">${s.desc}</div>` : ""}
+        ${tagsHtml ? `<div class="card-tags">${tagsHtml}</div>` : ""}
+    </div>`;
+}
+
+function addSuggestionToList(s) {
+    const newItem = {
+        id: crypto.randomUUID(),
+        category: s.category,
+        name: s.name,
+        address: s.address || "",
+        hours: s.hours || "",
+        date: s.date || "",
+        desc: s.desc || "",
+        tags: s.tags || [],
+        createdAt: Date.now(),
+    };
+    items.unshift(newItem);
+    saveItems(items);
 }
 
 function renderCard(item) {
@@ -1023,6 +1148,21 @@ function getSampleData() {
         },
     ];
 }
+
+// ============================================================
+// SUGGESTIONS (suggestions.json gerado pelo scraper)
+// ============================================================
+let suggestions = [];
+let suggestionsUpdatedAt = null;
+
+fetch("suggestions.json?t=" + Date.now())
+    .then(r => r.json())
+    .then(data => {
+        suggestions = data.items || [];
+        suggestionsUpdatedAt = data.updated_at || null;
+        if (currentTab === "novidades") render();
+    })
+    .catch(() => { suggestions = []; });
 
 // ============================================================
 // INIT
