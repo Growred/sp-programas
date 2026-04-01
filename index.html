@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>SP Programas</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --bg: #0f172a;
+            --surface: #1e293b;
+            --surface2: #334155;
+            --border: #475569;
+            --text: #f1f5f9;
+            --text2: #94a3b8;
+            --accent: #f59e0b;
+            --accent2: #fbbf24;
+            --green: #34d399;
+            --blue: #38bdf8;
+            --pink: #f472b6;
+            --red: #ef4444;
+            --radius: 1rem;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100dvh;
+            padding-bottom: 5rem;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        /* ===== HEADER ===== */
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: var(--bg);
+            border-bottom: 1px solid var(--surface2);
+            padding: 1rem 1rem 0;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.75rem;
+        }
+
+        .logo {
+            font-size: 1.4rem;
+            font-weight: 800;
+            color: var(--accent);
+        }
+
+        .logo span { color: var(--text); }
+
+        .header-actions {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .icon-btn {
+            width: 2.5rem;
+            height: 2.5rem;
+            border-radius: 50%;
+            border: 1px solid var(--surface2);
+            background: var(--surface);
+            color: var(--text2);
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .icon-btn:hover, .icon-btn.active {
+            background: var(--accent);
+            color: var(--bg);
+            border-color: var(--accent);
+        }
+
+        /* ===== TABS ===== */
+        .tabs {
+            display: flex;
+            gap: 0.25rem;
+            overflow-x: auto;
+            scrollbar-width: none;
+            -webkit-overflow-scrolling: touch;
+            padding-bottom: 0;
+        }
+
+        .tabs::-webkit-scrollbar { display: none; }
+
+        .tab {
+            padding: 0.5rem 1rem;
+            border: none;
+            background: none;
+            color: var(--text2);
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+        }
+
+        .tab.active {
+            color: var(--accent);
+            border-bottom-color: var(--accent);
+        }
+
+        /* ===== SEARCH ===== */
+        .search-bar {
+            padding: 0.75rem 1rem;
+            display: none;
+        }
+
+        .search-bar.visible { display: block; }
+
+        .search-bar input {
+            width: 100%;
+            padding: 0.7rem 1rem;
+            border-radius: 9999px;
+            border: 1px solid var(--surface2);
+            background: var(--surface);
+            color: var(--text);
+            font-size: 0.9rem;
+            outline: none;
+        }
+
+        .search-bar input:focus {
+            border-color: var(--accent);
+        }
+
+        .search-bar input::placeholder { color: var(--text2); }
+
+        /* ===== CONTENT ===== */
+        .content {
+            padding: 1rem;
+        }
+
+        .section-label {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text2);
+            margin-bottom: 0.75rem;
+            margin-top: 1rem;
+        }
+
+        .section-label:first-child { margin-top: 0; }
+
+        /* ===== CARDS ===== */
+        .card {
+            background: var(--surface);
+            border: 1px solid var(--surface2);
+            border-radius: var(--radius);
+            padding: 1rem;
+            margin-bottom: 0.6rem;
+            position: relative;
+            transition: border-color 0.2s;
+        }
+
+        .card:active { border-color: var(--accent); }
+
+        .card-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 0.5rem;
+        }
+
+        .card-title {
+            font-size: 1rem;
+            font-weight: 600;
+            line-height: 1.3;
+            flex: 1;
+        }
+
+        .card-bookmark {
+            font-size: 1.3rem;
+            cursor: pointer;
+            color: var(--text2);
+            background: none;
+            border: none;
+            padding: 0;
+            line-height: 1;
+            flex-shrink: 0;
+            transition: color 0.2s;
+        }
+
+        .card-bookmark.saved { color: var(--accent); }
+
+        .card-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.3rem 0.8rem;
+            margin-top: 0.5rem;
+            font-size: 0.8rem;
+            color: var(--text2);
+        }
+
+        .card-desc {
+            margin-top: 0.5rem;
+            font-size: 0.85rem;
+            color: var(--text2);
+            line-height: 1.4;
+        }
+
+        .card-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.3rem;
+            margin-top: 0.6rem;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 0.15rem 0.55rem;
+            border-radius: 9999px;
+            font-size: 0.7rem;
+            font-weight: 600;
+            background: var(--surface2);
+            color: var(--text2);
+        }
+
+        .tag[data-color="yellow"] { background: #78350f; color: var(--accent2); }
+        .tag[data-color="blue"]   { background: #0c4a6e; color: var(--blue); }
+        .tag[data-color="green"]  { background: #064e3b; color: var(--green); }
+        .tag[data-color="pink"]   { background: #831843; color: var(--pink); }
+
+        /* ===== FAB ===== */
+        .fab {
+            position: fixed;
+            bottom: 1.5rem;
+            right: 1.5rem;
+            width: 3.5rem;
+            height: 3.5rem;
+            border-radius: 50%;
+            background: var(--accent);
+            color: var(--bg);
+            font-size: 1.8rem;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 4px 20px rgba(245, 158, 11, 0.4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 200;
+            transition: transform 0.2s;
+        }
+
+        .fab:active { transform: scale(0.9); }
+
+        /* ===== MODAL ===== */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.7);
+            z-index: 300;
+            align-items: flex-end;
+            justify-content: center;
+        }
+
+        .modal-overlay.open { display: flex; }
+
+        .modal {
+            background: var(--surface);
+            border-radius: var(--radius) var(--radius) 0 0;
+            width: 100%;
+            max-width: 500px;
+            max-height: 90dvh;
+            overflow-y: auto;
+            padding: 1.5rem;
+            animation: slideUp 0.3s ease;
+        }
+
+        @keyframes slideUp {
+            from { transform: translateY(100%); }
+            to   { transform: translateY(0); }
+        }
+
+        .modal h2 {
+            font-size: 1.2rem;
+            margin-bottom: 1.2rem;
+            color: var(--accent);
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .form-group label {
+            display: block;
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: var(--text2);
+            margin-bottom: 0.3rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .form-group input,
+        .form-group textarea,
+        .form-group select {
+            width: 100%;
+            padding: 0.65rem 0.8rem;
+            border-radius: 0.5rem;
+            border: 1px solid var(--surface2);
+            background: var(--bg);
+            color: var(--text);
+            font-size: 0.9rem;
+            font-family: inherit;
+            outline: none;
+        }
+
+        .form-group input:focus,
+        .form-group textarea:focus,
+        .form-group select:focus {
+            border-color: var(--accent);
+        }
+
+        .form-group textarea { resize: vertical; min-height: 60px; }
+
+        .tag-input-area {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.3rem;
+            padding: 0.5rem;
+            border-radius: 0.5rem;
+            border: 1px solid var(--surface2);
+            background: var(--bg);
+            min-height: 2.5rem;
+            cursor: text;
+        }
+
+        .tag-input-area:focus-within { border-color: var(--accent); }
+
+        .tag-input-area .tag {
+            cursor: pointer;
+        }
+
+        .tag-input-area input {
+            border: none;
+            background: none;
+            color: var(--text);
+            font-size: 0.85rem;
+            outline: none;
+            flex: 1;
+            min-width: 80px;
+            padding: 0.2rem;
+        }
+
+        .tag-suggestions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.3rem;
+            margin-top: 0.4rem;
+        }
+
+        .tag-suggest-btn {
+            padding: 0.2rem 0.5rem;
+            border-radius: 9999px;
+            font-size: 0.7rem;
+            font-weight: 500;
+            background: var(--surface2);
+            color: var(--text2);
+            border: none;
+            cursor: pointer;
+        }
+
+        .tag-suggest-btn:hover { background: var(--accent); color: var(--bg); }
+
+        .form-actions {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 1.2rem;
+        }
+
+        .btn {
+            flex: 1;
+            padding: 0.75rem;
+            border-radius: 0.5rem;
+            border: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+
+        .btn:active { opacity: 0.8; }
+
+        .btn-primary {
+            background: var(--accent);
+            color: var(--bg);
+        }
+
+        .btn-secondary {
+            background: var(--surface2);
+            color: var(--text);
+        }
+
+        .btn-danger {
+            background: var(--red);
+            color: white;
+            flex: 0.4;
+        }
+
+        /* ===== EMPTY STATE ===== */
+        .empty-state {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: var(--text2);
+        }
+
+        .empty-state .icon {
+            font-size: 2.5rem;
+            margin-bottom: 0.75rem;
+        }
+
+        /* ===== DETAIL MODAL ===== */
+        .detail-modal .card-detail-title {
+            font-size: 1.3rem;
+            font-weight: 700;
+            margin-bottom: 0.75rem;
+        }
+
+        .detail-row {
+            display: flex;
+            gap: 0.5rem;
+            align-items: flex-start;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+            color: var(--text2);
+        }
+
+        .detail-row .icon { flex-shrink: 0; }
+        .detail-row .value { flex: 1; }
+
+        /* ===== RESPONSIVE ===== */
+        @media (min-width: 600px) {
+            .content { padding: 1rem 2rem; }
+            .modal { border-radius: var(--radius); margin-bottom: 2rem; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+    <div class="header-top">
+        <div class="logo">SP <span>Programas</span></div>
+        <div class="header-actions">
+            <button class="icon-btn" id="searchToggle" title="Buscar">&#128269;</button>
+            <button class="icon-btn" id="savedToggle" title="Salvos">&#9733;</button>
+        </div>
+    </div>
+    <div class="tabs" id="tabs">
+        <button class="tab active" data-tab="all">Tudo</button>
+        <button class="tab" data-tab="cinema">Cinema</button>
+        <button class="tab" data-tab="restaurante">Restaurantes</button>
+        <button class="tab" data-tab="evento">Eventos</button>
+        <button class="tab" data-tab="show">Shows</button>
+        <button class="tab" data-tab="bar">Bares</button>
+        <button class="tab" data-tab="passeio">Passeios</button>
+    </div>
+</div>
+
+<!-- SEARCH -->
+<div class="search-bar" id="searchBar">
+    <input type="text" id="searchInput" placeholder="Buscar por nome, tag, local...">
+</div>
+
+<!-- CONTENT -->
+<div class="content" id="content"></div>
+
+<!-- FAB -->
+<button class="fab" id="fabAdd" title="Adicionar programa">+</button>
+
+<!-- ADD/EDIT MODAL -->
+<div class="modal-overlay" id="addModal">
+    <div class="modal">
+        <h2 id="modalTitle">Novo Programa</h2>
+
+        <div class="form-group">
+            <label>Categoria</label>
+            <select id="formCategory">
+                <option value="restaurante">Restaurante</option>
+                <option value="cinema">Cinema</option>
+                <option value="evento">Evento</option>
+                <option value="show">Show</option>
+                <option value="bar">Bar</option>
+                <option value="passeio">Passeio</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>Nome</label>
+            <input type="text" id="formName" placeholder="Ex: Pizzaria Braz">
+        </div>
+
+        <div class="form-group">
+            <label>Endereco</label>
+            <input type="text" id="formAddress" placeholder="Ex: Rua Groenlandia, 440 - Jardins">
+        </div>
+
+        <div class="form-group">
+            <label>Horario</label>
+            <input type="text" id="formHours" placeholder="Ex: Ter-Dom 18h-00h">
+        </div>
+
+        <div class="form-group" id="dateGroup">
+            <label>Data</label>
+            <input type="text" id="formDate" placeholder="Ex: 15/04/2026 ou Ate 30/05">
+        </div>
+
+        <div class="form-group">
+            <label>Descricao</label>
+            <textarea id="formDesc" placeholder="Notas, dicas, o que pedir..."></textarea>
+        </div>
+
+        <div class="form-group">
+            <label>Tags</label>
+            <div class="tag-input-area" id="tagArea">
+                <input type="text" id="tagInput" placeholder="Digite e aperte Enter">
+            </div>
+            <div class="tag-suggestions" id="tagSuggestions"></div>
+        </div>
+
+        <div class="form-actions">
+            <button class="btn btn-secondary" id="btnCancel">Cancelar</button>
+            <button class="btn btn-danger" id="btnDelete" style="display:none">Excluir</button>
+            <button class="btn btn-primary" id="btnSave">Salvar</button>
+        </div>
+    </div>
+</div>
+
+<!-- DETAIL MODAL -->
+<div class="modal-overlay" id="detailModal">
+    <div class="modal detail-modal" id="detailContent"></div>
+</div>
+
+<script>
+// ============================================================
+// DATA LAYER (localStorage)
+// ============================================================
+const STORAGE_KEY = "sp_programas_data";
+const SAVED_KEY = "sp_programas_saved";
+
+function loadItems() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || []; }
+    catch { return []; }
+}
+
+function saveItems(items) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(items));
+}
+
+function loadSaved() {
+    try { return new Set(JSON.parse(localStorage.getItem(SAVED_KEY)) || []); }
+    catch { return new Set(); }
+}
+
+function saveSaved(set) {
+    localStorage.setItem(SAVED_KEY, JSON.stringify([...set]));
+}
+
+let items = loadItems();
+let savedIds = loadSaved();
+
+// Seed sample data if empty
+if (items.length === 0) {
+    items = getSampleData();
+    saveItems(items);
+}
+
+// ============================================================
+// STATE
+// ============================================================
+let currentTab = "all";
+let showSavedOnly = false;
+let searchQuery = "";
+let editingId = null;
+let modalTags = [];
+
+// ============================================================
+// TAG SUGGESTIONS
+// ============================================================
+const TAG_SUGGESTIONS = {
+    restaurante: ["hamburguer", "pizza", "italiano", "japones", "mexicano", "brasileiro", "vegano", "fine-dining", "casual", "delivery", "rodizio", "brunch"],
+    cinema: ["acao", "comedia", "drama", "terror", "ficcao", "animacao", "nacional", "documentario", "estreia", "IMAX", "legendado", "dublado"],
+    evento: ["gratuito", "ao-ar-livre", "cultural", "gastronomico", "feira", "exposicao", "festival", "infantil", "noturno"],
+    show: ["rock", "sertanejo", "MPB", "pop", "eletronica", "jazz", "samba", "pagode", "rap", "internacional"],
+    bar: ["cerveja-artesanal", "coquetel", "vinho", "rooftop", "balada", "ao-vivo", "petiscos", "speakeasy"],
+    passeio: ["parque", "museu", "mirante", "historico", "natureza", "compras", "familia", "romantico", "foto"],
+};
+
+// ============================================================
+// CATEGORY META
+// ============================================================
+const CAT_META = {
+    cinema:      { icon: "\uD83C\uDFAC", color: "blue" },
+    restaurante: { icon: "\uD83C\uDF7D\uFE0F", color: "yellow" },
+    evento:      { icon: "\uD83C\uDF89", color: "pink" },
+    show:        { icon: "\uD83C\uDFB5", color: "green" },
+    bar:         { icon: "\uD83C\uDF7A", color: "blue" },
+    passeio:     { icon: "\uD83D\uDEB6", color: "green" },
+};
+
+// ============================================================
+// RENDER
+// ============================================================
+function render() {
+    const el = document.getElementById("content");
+
+    let filtered = items.filter(item => {
+        if (showSavedOnly && !savedIds.has(item.id)) return false;
+        if (currentTab !== "all" && item.category !== currentTab) return false;
+        if (searchQuery) {
+            const q = searchQuery.toLowerCase();
+            const haystack = [item.name, item.address, item.desc, ...item.tags].join(" ").toLowerCase();
+            if (!haystack.includes(q)) return false;
+        }
+        return true;
+    });
+
+    if (filtered.length === 0) {
+        el.innerHTML = `
+            <div class="empty-state">
+                <div class="icon">${showSavedOnly ? "\u2B50" : "\uD83D\uDDFA\uFE0F"}</div>
+                <p>${showSavedOnly ? "Nenhum programa salvo ainda." : "Nenhum programa encontrado."}</p>
+                <p style="margin-top:0.4rem;font-size:0.85rem;">Toque no <strong>+</strong> para adicionar!</p>
+            </div>`;
+        return;
+    }
+
+    // Group by category if showing "all"
+    if (currentTab === "all") {
+        const groups = {};
+        filtered.forEach(item => {
+            if (!groups[item.category]) groups[item.category] = [];
+            groups[item.category].push(item);
+        });
+
+        const order = ["cinema", "restaurante", "evento", "show", "bar", "passeio"];
+        let html = "";
+        order.forEach(cat => {
+            if (!groups[cat]) return;
+            const meta = CAT_META[cat] || {};
+            html += `<div class="section-label">${meta.icon || ""} ${cat.charAt(0).toUpperCase() + cat.slice(1)}s (${groups[cat].length})</div>`;
+            groups[cat].forEach(item => { html += renderCard(item); });
+        });
+        el.innerHTML = html;
+    } else {
+        el.innerHTML = filtered.map(renderCard).join("");
+    }
+
+    // Attach event listeners
+    el.querySelectorAll(".card-bookmark").forEach(btn => {
+        btn.addEventListener("click", e => {
+            e.stopPropagation();
+            toggleSaved(btn.dataset.id);
+        });
+    });
+
+    el.querySelectorAll(".card").forEach(card => {
+        card.addEventListener("click", () => openDetail(card.dataset.id));
+    });
+}
+
+function renderCard(item) {
+    const meta = CAT_META[item.category] || {};
+    const isSaved = savedIds.has(item.id);
+    const tagsHtml = item.tags.map(t =>
+        `<span class="tag" data-color="${meta.color || ''}">${t}</span>`
+    ).join("");
+
+    let metaItems = [];
+    if (item.address) metaItems.push(`<span>\uD83D\uDCCD ${item.address}</span>`);
+    if (item.hours) metaItems.push(`<span>\uD83D\uDD53 ${item.hours}</span>`);
+    if (item.date) metaItems.push(`<span>\uD83D\uDCC5 ${item.date}</span>`);
+
+    return `
+    <div class="card" data-id="${item.id}">
+        <div class="card-top">
+            <div class="card-title">${meta.icon || ""} ${item.name}</div>
+            <button class="card-bookmark ${isSaved ? 'saved' : ''}" data-id="${item.id}">
+                ${isSaved ? "\u2605" : "\u2606"}
+            </button>
+        </div>
+        ${metaItems.length ? `<div class="card-meta">${metaItems.join("")}</div>` : ""}
+        ${item.desc ? `<div class="card-desc">${item.desc}</div>` : ""}
+        ${tagsHtml ? `<div class="card-tags">${tagsHtml}</div>` : ""}
+    </div>`;
+}
+
+// ============================================================
+// ACTIONS
+// ============================================================
+function toggleSaved(id) {
+    if (savedIds.has(id)) savedIds.delete(id);
+    else savedIds.add(id);
+    saveSaved(savedIds);
+    render();
+}
+
+function openDetail(id) {
+    const item = items.find(i => i.id === id);
+    if (!item) return;
+    const meta = CAT_META[item.category] || {};
+    const isSaved = savedIds.has(item.id);
+
+    const detailContent = document.getElementById("detailContent");
+    const tagsHtml = item.tags.map(t =>
+        `<span class="tag" data-color="${meta.color || ''}">${t}</span>`
+    ).join("");
+
+    detailContent.innerHTML = `
+        <div class="card-detail-title">${meta.icon || ""} ${item.name}</div>
+        ${item.address ? `<div class="detail-row"><span class="icon">\uD83D\uDCCD</span><span class="value">${item.address}</span></div>` : ""}
+        ${item.hours ? `<div class="detail-row"><span class="icon">\uD83D\uDD53</span><span class="value">${item.hours}</span></div>` : ""}
+        ${item.date ? `<div class="detail-row"><span class="icon">\uD83D\uDCC5</span><span class="value">${item.date}</span></div>` : ""}
+        ${item.desc ? `<div class="detail-row"><span class="icon">\uD83D\uDCDD</span><span class="value">${item.desc}</span></div>` : ""}
+        ${tagsHtml ? `<div class="card-tags" style="margin-top:1rem;">${tagsHtml}</div>` : ""}
+        <div class="form-actions" style="margin-top:1.5rem;">
+            <button class="btn btn-secondary" onclick="closeDetail()">Fechar</button>
+            <button class="btn btn-primary" onclick="closeDetail(); openEdit('${item.id}')">Editar</button>
+            <button class="btn ${isSaved ? 'btn-secondary' : 'btn-primary'}" onclick="toggleSaved('${item.id}'); closeDetail(); render();">
+                ${isSaved ? "\u2605 Salvo" : "\u2606 Salvar"}
+            </button>
+        </div>
+    `;
+
+    document.getElementById("detailModal").classList.add("open");
+}
+
+function closeDetail() {
+    document.getElementById("detailModal").classList.remove("open");
+}
+
+// ============================================================
+// ADD / EDIT MODAL
+// ============================================================
+function openAdd() {
+    editingId = null;
+    modalTags = [];
+    document.getElementById("modalTitle").textContent = "Novo Programa";
+    document.getElementById("formCategory").value = currentTab === "all" ? "restaurante" : currentTab;
+    document.getElementById("formName").value = "";
+    document.getElementById("formAddress").value = "";
+    document.getElementById("formHours").value = "";
+    document.getElementById("formDate").value = "";
+    document.getElementById("formDesc").value = "";
+    document.getElementById("btnDelete").style.display = "none";
+    renderModalTags();
+    updateTagSuggestions();
+    document.getElementById("addModal").classList.add("open");
+    document.getElementById("formName").focus();
+}
+
+function openEdit(id) {
+    const item = items.find(i => i.id === id);
+    if (!item) return;
+    editingId = id;
+    modalTags = [...item.tags];
+    document.getElementById("modalTitle").textContent = "Editar Programa";
+    document.getElementById("formCategory").value = item.category;
+    document.getElementById("formName").value = item.name;
+    document.getElementById("formAddress").value = item.address || "";
+    document.getElementById("formHours").value = item.hours || "";
+    document.getElementById("formDate").value = item.date || "";
+    document.getElementById("formDesc").value = item.desc || "";
+    document.getElementById("btnDelete").style.display = "block";
+    renderModalTags();
+    updateTagSuggestions();
+    document.getElementById("addModal").classList.add("open");
+}
+
+function closeAdd() {
+    document.getElementById("addModal").classList.remove("open");
+    editingId = null;
+}
+
+function saveForm() {
+    const name = document.getElementById("formName").value.trim();
+    if (!name) { document.getElementById("formName").focus(); return; }
+
+    const data = {
+        id: editingId || crypto.randomUUID(),
+        category: document.getElementById("formCategory").value,
+        name,
+        address: document.getElementById("formAddress").value.trim(),
+        hours: document.getElementById("formHours").value.trim(),
+        date: document.getElementById("formDate").value.trim(),
+        desc: document.getElementById("formDesc").value.trim(),
+        tags: [...modalTags],
+        createdAt: editingId ? (items.find(i => i.id === editingId)?.createdAt || Date.now()) : Date.now(),
+    };
+
+    if (editingId) {
+        const idx = items.findIndex(i => i.id === editingId);
+        if (idx !== -1) items[idx] = data;
+    } else {
+        items.unshift(data);
+    }
+
+    saveItems(items);
+    closeAdd();
+    render();
+}
+
+function deleteItem() {
+    if (!editingId) return;
+    if (!confirm("Excluir este programa?")) return;
+    items = items.filter(i => i.id !== editingId);
+    savedIds.delete(editingId);
+    saveItems(items);
+    saveSaved(savedIds);
+    closeAdd();
+    render();
+}
+
+// ============================================================
+// TAG INPUT
+// ============================================================
+function renderModalTags() {
+    const area = document.getElementById("tagArea");
+    const input = document.getElementById("tagInput");
+    area.querySelectorAll(".tag").forEach(t => t.remove());
+    modalTags.forEach(tag => {
+        const span = document.createElement("span");
+        span.className = "tag";
+        span.textContent = tag + " \u00D7";
+        span.addEventListener("click", () => {
+            modalTags = modalTags.filter(t => t !== tag);
+            renderModalTags();
+            updateTagSuggestions();
+        });
+        area.insertBefore(span, input);
+    });
+}
+
+function addTag(tag) {
+    tag = tag.trim().toLowerCase().replace(/\s+/g, "-");
+    if (!tag || modalTags.includes(tag)) return;
+    modalTags.push(tag);
+    renderModalTags();
+    updateTagSuggestions();
+    document.getElementById("tagInput").value = "";
+}
+
+function updateTagSuggestions() {
+    const cat = document.getElementById("formCategory").value;
+    const suggestions = (TAG_SUGGESTIONS[cat] || []).filter(t => !modalTags.includes(t));
+    const el = document.getElementById("tagSuggestions");
+    el.innerHTML = suggestions.map(t =>
+        `<button class="tag-suggest-btn" type="button">${t}</button>`
+    ).join("");
+    el.querySelectorAll(".tag-suggest-btn").forEach(btn => {
+        btn.addEventListener("click", () => addTag(btn.textContent));
+    });
+}
+
+// ============================================================
+// EVENT LISTENERS
+// ============================================================
+
+// Tabs
+document.getElementById("tabs").addEventListener("click", e => {
+    if (!e.target.classList.contains("tab")) return;
+    document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+    e.target.classList.add("active");
+    currentTab = e.target.dataset.tab;
+    render();
+});
+
+// Search
+document.getElementById("searchToggle").addEventListener("click", () => {
+    const bar = document.getElementById("searchBar");
+    bar.classList.toggle("visible");
+    if (bar.classList.contains("visible")) {
+        document.getElementById("searchInput").focus();
+    } else {
+        document.getElementById("searchInput").value = "";
+        searchQuery = "";
+        render();
+    }
+});
+
+document.getElementById("searchInput").addEventListener("input", e => {
+    searchQuery = e.target.value;
+    render();
+});
+
+// Saved toggle
+document.getElementById("savedToggle").addEventListener("click", () => {
+    showSavedOnly = !showSavedOnly;
+    document.getElementById("savedToggle").classList.toggle("active", showSavedOnly);
+    render();
+});
+
+// FAB
+document.getElementById("fabAdd").addEventListener("click", openAdd);
+
+// Modal actions
+document.getElementById("btnCancel").addEventListener("click", closeAdd);
+document.getElementById("btnSave").addEventListener("click", saveForm);
+document.getElementById("btnDelete").addEventListener("click", deleteItem);
+
+// Tag input
+document.getElementById("tagInput").addEventListener("keydown", e => {
+    if (e.key === "Enter" || e.key === ",") {
+        e.preventDefault();
+        addTag(e.target.value);
+    }
+    if (e.key === "Backspace" && !e.target.value && modalTags.length) {
+        modalTags.pop();
+        renderModalTags();
+        updateTagSuggestions();
+    }
+});
+
+// Category change updates tag suggestions
+document.getElementById("formCategory").addEventListener("change", updateTagSuggestions);
+
+// Close modals on overlay click
+document.getElementById("addModal").addEventListener("click", e => {
+    if (e.target === e.currentTarget) closeAdd();
+});
+document.getElementById("detailModal").addEventListener("click", e => {
+    if (e.target === e.currentTarget) closeDetail();
+});
+
+// ============================================================
+// SAMPLE DATA
+// ============================================================
+function getSampleData() {
+    return [
+        {
+            id: crypto.randomUUID(),
+            category: "restaurante",
+            name: "Pizzaria Braz",
+            address: "R. Groenlandia, 440 - Jardim America",
+            hours: "Ter-Dom 18h-00h",
+            date: "",
+            desc: "Pizza napolitana top de SP. Pedir a margherita de burrata.",
+            tags: ["pizza", "italiano", "fine-dining"],
+            createdAt: Date.now(),
+        },
+        {
+            id: crypto.randomUUID(),
+            category: "restaurante",
+            name: "Burger Pub",
+            address: "R. Augusta, 1234 - Consolacao",
+            hours: "Seg-Sab 12h-23h",
+            date: "",
+            desc: "Hamburguer artesanal com opcoes de blend especial.",
+            tags: ["hamburguer", "casual", "cerveja-artesanal"],
+            createdAt: Date.now(),
+        },
+        {
+            id: crypto.randomUUID(),
+            category: "cinema",
+            name: "Em cartaz: Missao Impossivel 8",
+            address: "Cinemark JK Iguatemi",
+            hours: "Sessoes: 14h, 17h, 20h30",
+            date: "Estreia 10/04/2026",
+            desc: "IMAX disponivel. Comprar ingresso com antecedencia.",
+            tags: ["acao", "IMAX", "estreia"],
+            createdAt: Date.now(),
+        },
+        {
+            id: crypto.randomUUID(),
+            category: "evento",
+            name: "Feira Gastro SP",
+            address: "Parque Ibirapuera - Portao 3",
+            hours: "10h-20h",
+            date: "12-14/04/2026",
+            desc: "Maior feira gastronomica de SP. Mais de 100 expositores.",
+            tags: ["gastronomico", "ao-ar-livre", "gratuito"],
+            createdAt: Date.now(),
+        },
+        {
+            id: crypto.randomUUID(),
+            category: "show",
+            name: "Jorge Ben Jor",
+            address: "Espaco Unimed - R. Tagipuru, 795",
+            hours: "Abertura 20h | Show 21h30",
+            date: "20/04/2026",
+            desc: "Turnê comemorativa. Setor pista quase esgotado.",
+            tags: ["MPB", "samba"],
+            createdAt: Date.now(),
+        },
+        {
+            id: crypto.randomUUID(),
+            category: "bar",
+            name: "SubAstor",
+            address: "R. Delfina, 163 - Vila Madalena",
+            hours: "Ter-Sab 18h-02h",
+            date: "",
+            desc: "Speakeasy classico de SP. Coqueteis autorais incriveis.",
+            tags: ["coquetel", "speakeasy"],
+            createdAt: Date.now(),
+        },
+        {
+            id: crypto.randomUUID(),
+            category: "passeio",
+            name: "Pinacoteca do Estado",
+            address: "Praca da Luz, 2 - Luz",
+            hours: "Qua-Seg 10h-18h",
+            date: "Exposicao ate 30/05/2026",
+            desc: "Nova exposicao de arte contemporanea brasileira.",
+            tags: ["museu", "cultural", "foto"],
+            createdAt: Date.now(),
+        },
+    ];
+}
+
+// ============================================================
+// INIT
+// ============================================================
+render();
+</script>
+
+</body>
+</html>
