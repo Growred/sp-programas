@@ -1,5 +1,5 @@
 {
-  "updated_at": "01/04/2026 as 11:53",
+  "updated_at": "03/04/2026 as 11:37",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -11,17 +11,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249"
-    },
-    {
-      "name": "Sinatra In Concert",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118618"
     },
     {
       "name": "Trio Amadeus - Jornada Épica do Clássico ao Rock",
@@ -59,153 +48,49 @@
       "link": "https://bileto.sympla.com.br/event/95807"
     },
     {
-      "name": "ARENA STAR LASER",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/107843"
-    },
-    {
-      "name": "QUEEN LEGEND + E. BALBO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/111424"
-    },
-    {
-      "name": "14 Bis",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/115004"
-    },
-    {
-      "name": "Black Álbum Sinfônico",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/116898"
-    },
-    {
-      "name": "Concerto de Páscoa  Orquestra USP Filarmônica e Camila Provenzalle Titinger",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118536"
-    },
-    {
-      "name": "Cícero - 15 anos de Canções de Apartamento",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/112123"
-    },
-    {
-      "name": "Clube da Esquina Tributo com Neto Belotto e Orquestra Paganini",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118616"
-    },
-    {
-      "name": "ELVIS – The Ultimate King Experience with Elvis Andriolo  23 maio  Sábado às 20h",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118696"
-    },
-    {
-      "name": "A Última Sessão de Freud",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118446"
-    },
-    {
-      "name": "MUSEU DAS ILUSÕES - JUNDIAÍ/SP",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/114756"
-    },
-    {
-      "name": "Longa apresenta uma nova faceta da artista, que também está em cartaz com o relançamento da saga 'Crepúsculo'",
+      "name": "O italiano laureado Dario Fo também estará em cartaz, com a peça 'Uma Mãe'; entre as reestreias está 'A Autoestima do Homem Hétero'",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Veja lugares para comemorar o Pessach, a PÃ¡scoa judaica",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Festival de peixes da Ceagesp terÃ¡ bacalhau na Semana Santa",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
       "tags": [
-        "festival"
+        "estreia",
+        "teatro",
+        "italiano"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Babymetal anuncia show Ãºnico em SÃ£o Paulo em novembro",
+      "name": "Veja como chegar ao Monsters Of Rock e horÃ¡rios dos shows",
       "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "rock"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "'Super Mario Galaxy - O Filme' estreia nos cinemas; veja agenda",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "ConheÃ§a endereÃ§os que oferecem cafÃ© e alta coquetelaria",
+      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -226,8 +111,21 @@
       "link": ""
     },
     {
-      "name": "Rapper M.I.A. volta ao Brasil para show em SÃ£o Paulo",
+      "name": "Guns N' Roses faz show em festival; veja agenda da semana",
       "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "ConheÃ§a novas exposiÃ§Ãµes para visitar em SÃ£o Paulo no mÃªs de abril",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -237,18 +135,18 @@
       "link": ""
     },
     {
-      "name": "Somos Rock Festival tem shows de Smash Mouth e Detonautas em SÃ£o Paulo",
-      "category": "show",
-      "desc": "",
+      "name": "Guns N' Roses, Feira do Livro da USP, espetáculo musical com drones, passeios de Páscoa e mais: veja o que fazer em SP",
+      "category": "musical",
+      "desc": "Guns N' Roses, Feira do Livro da USP, espetáculo musical com drones, passeios de Páscoa e mais: veja o que fazer em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "rock",
-        "festival"
+        "feira",
+        "musical"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/02/guns-n-roses-feira-do-livro-da-usp-espetaculo-musical-com-drones-passeios-de-pascoa-e-mais-veja-o-que-fazer-em-sp.ghtml"
     },
     {
       "name": "Drama da Paixão de Santana de Parnaíba chega à 29ª edição com 14 cenários grandiosos e mais de mil participantes",
@@ -273,17 +171,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/03/27/fim-da-turne-de-gilberto-gil-alceu-valenca-bienal-de-arquitetura-rodas-de-samba-e-mais-veja-o-que-fazer-em-sao-paulo.ghtml"
-    },
-    {
-      "name": "Titãs iniciam turnê que comemora 40 anos de 'Cabeça Dinossauro' neste fim de semana em SP",
-      "category": "show",
-      "desc": "Titãs iniciam turnê que comemora 40 anos de 'Cabeça Dinossauro' neste fim de semana em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/03/26/titas-iniciam-turne-que-comemora-40-anos-de-cabeca-dinossauro-neste-fim-de-semana-em-sp.ghtml"
     }
   ]
 }
