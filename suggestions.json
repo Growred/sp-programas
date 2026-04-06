@@ -1,5 +1,5 @@
 {
-  "updated_at": "03/04/2026 as 11:37",
+  "updated_at": "06/04/2026 as 11:49",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -26,17 +26,6 @@
       "link": "https://bileto.sympla.com.br/event/112149"
     },
     {
-      "name": "SINC STRINGS DJ",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/117887"
-    },
-    {
       "name": "MUSEU DAS CULTURAS INDÍGENAS",
       "category": "passeio",
       "desc": "",
@@ -48,6 +37,17 @@
       "link": "https://bileto.sympla.com.br/event/95807"
     },
     {
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71195"
+    },
+    {
       "name": "O italiano laureado Dario Fo também estará em cartaz, com a peça 'Uma Mãe'; entre as reestreias está 'A Autoestima do Homem Hétero'",
       "category": "cinema",
       "desc": "",
@@ -55,8 +55,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "estreia",
         "teatro",
+        "estreia",
         "italiano"
       ],
       "source": "Guia Folha",
