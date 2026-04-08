@@ -1,5 +1,5 @@
 {
-  "updated_at": "06/04/2026 as 11:49",
+  "updated_at": "08/04/2026 as 11:55",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -48,78 +48,195 @@
       "link": "https://bileto.sympla.com.br/event/71195"
     },
     {
-      "name": "O italiano laureado Dario Fo também estará em cartaz, com a peça 'Uma Mãe'; entre as reestreias está 'A Autoestima do Homem Hétero'",
+      "name": "ARENA STAR LASER",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107843"
+    },
+    {
+      "name": "QUEEN LEGEND + E. BALBO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/111424"
+    },
+    {
+      "name": "ELVIS – The Ultimate King Experience with Elvis Andriolo  23 maio  Sábado às 20h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118696"
+    },
+    {
+      "name": "CHOCOTOUR NESTLE 2026",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/114043"
+    },
+    {
+      "name": "MUSEU DAS ILUSÕES - JUNDIAÍ/SP",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/114756"
+    },
+    {
+      "name": "Explore o MAB",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/102987"
+    },
+    {
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618"
+    },
+    {
+      "name": "Bee Gees Alive - Americana/SP",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/115255"
+    },
+    {
+      "name": "Aulas Coletivas KIDS",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/113361"
+    },
+    {
+      "name": "Aulas Individuais",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71486"
+    },
+    {
+      "name": "CHERNOBYL",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116698"
+    },
+    {
+      "name": "Espetáculo parte de livro 'Ideias Para Adiar o Fim do Mundo', que problematiza a relação do humano com a natureza",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja como comprar ingressos na prÃ©-venda para 'O Diabo Veste Prada 2'",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "ExposiÃ§Ã£o sobre 'Toy Story' em SP vai mostrar bastidores dos filmes",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "teatro",
-        "estreia",
+        "exposicao"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "ExposiÃ§Ã£o reÃºne obras de Diego Rivera e Tomie Ohtake",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Poucos restaurantes italianos de SÃ£o Paulo servem pratos de massa com a qualidade do Manduque Massas e MaÃ§Ã£s, essa casa despretensiosa, acomodada discretamente dentro do Mercado de Pinheiros. Das que servem, serÃ¡ difÃ­cil encontrar opÃ§Ãµes com valores tÃ£o em conta quanto lÃ¡.",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
         "italiano"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Veja como chegar ao Monsters Of Rock e horÃ¡rios dos shows",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "rock"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "'Super Mario Galaxy - O Filme' estreia nos cinemas; veja agenda",
-      "category": "cinema",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ConheÃ§a endereÃ§os que oferecem cafÃ© e alta coquetelaria",
-      "category": "bar",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Para quem jÃ¡ teve quase 40 espÃ©cies diferentes Ã  escolha, confesso abestalhada que fiquei decepcionada. AtÃ© porque restaurantes que diversificam a oferta de pescados nÃ£o sÃ£o novidade. O MitsubÃ¡ continua acima da mÃ©dia nesse quesito, mas nÃ£o estÃ¡ sÃ³.",
+      "name": "ConheÃ§a boas opÃ§Ãµes de restaurantes e bares abertos em SP",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Guns N' Roses faz show em festival; veja agenda da semana",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
       "source": "Guia Folha",
       "link": ""
     },
