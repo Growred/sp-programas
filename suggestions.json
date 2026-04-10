@@ -1,5 +1,5 @@
 {
-  "updated_at": "08/04/2026 as 11:55",
+  "updated_at": "10/04/2026 as 11:48",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -70,6 +70,17 @@
       "link": "https://bileto.sympla.com.br/event/111424"
     },
     {
+      "name": "ORQUESTRA DE CÂMARA FRANZ LISZT DE BUDAPESTE",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119031"
+    },
+    {
       "name": "ELVIS – The Ultimate King Experience with Elvis Andriolo  23 maio  Sábado às 20h",
       "category": "evento",
       "desc": "",
@@ -79,6 +90,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118696"
+    },
+    {
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110"
     },
     {
       "name": "CHOCOTOUR NESTLE 2026",
@@ -92,15 +114,15 @@
       "link": "https://bileto.sympla.com.br/event/114043"
     },
     {
-      "name": "MUSEU DAS ILUSÕES - JUNDIAÍ/SP",
-      "category": "passeio",
+      "name": "BadeRna – Um sobrevoo",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/114756"
+      "link": "https://bileto.sympla.com.br/event/117875"
     },
     {
       "name": "Explore o MAB",
@@ -149,29 +171,7 @@
       "link": "https://bileto.sympla.com.br/event/113361"
     },
     {
-      "name": "Aulas Individuais",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/71486"
-    },
-    {
-      "name": "CHERNOBYL",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/116698"
-    },
-    {
-      "name": "Espetáculo parte de livro 'Ideias Para Adiar o Fim do Mundo', que problematiza a relação do humano com a natureza",
+      "name": "História e ficção se cruzam no nacional 'A Conspiração Condor' e no estrangeiro 'O Mago do Kremlin'",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -182,7 +182,7 @@
       "link": ""
     },
     {
-      "name": "Veja como comprar ingressos na prÃ©-venda para 'O Diabo Veste Prada 2'",
+      "name": "Pinturas de Anita Malfatti recontam o modernismo em exposiÃ§Ã£o",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -193,21 +193,19 @@
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o sobre 'Toy Story' em SP vai mostrar bastidores dos filmes",
+      "name": "Marco da vida boÃªmia, bar Filial Ã© reaberto pela segunda vez",
+      "category": "bar",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "'Suspiria', de Dario Argento, retorna aos cinemas em versÃ£o 4K",
       "category": "cinema",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ExposiÃ§Ã£o reÃºne obras de Diego Rivera e Tomie Ohtake",
-      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -230,8 +228,8 @@
       "link": ""
     },
     {
-      "name": "ConheÃ§a boas opÃ§Ãµes de restaurantes e bares abertos em SP",
-      "category": "restaurante",
+      "name": "Tomorrowland Brasil anuncia esquenta com Alok e DJs brasileiros",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -241,15 +239,44 @@
       "link": ""
     },
     {
-      "name": "ConheÃ§a novas exposiÃ§Ãµes para visitar em SÃ£o Paulo no mÃªs de abril",
-      "category": "evento",
+      "name": "Theatro Municipal recebe espetÃ¡culo grÃ¡tis de MPB com orquestra",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "MPB"
+      ],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Festival É Tudo Verdade começa em São Paulo com sessões gratuitas de documentários",
+      "category": "evento",
+      "desc": "Festival É Tudo Verdade começa em São Paulo com sessões gratuitas de documentários",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/09/festival-e-tudo-verdade-comeca-em-sao-paulo-com-sessoes-gratuitas-de-documentarios.ghtml"
+    },
+    {
+      "name": "Comida di Buteco, mostra internacional de documentários, Love Cabaret, SP-Arte, festival árabe: veja o que fazer em SP",
+      "category": "restaurante",
+      "desc": "Comida di Buteco, mostra internacional de documentários, Love Cabaret, SP-Arte, festival árabe: veja o que fazer em SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival",
+        "exposicao"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/09/comida-di-buteco-mostra-internacional-de-documentarios-love-cabaret-sp-arte-festival-arabe-veja-o-que-fazer-em-sp.ghtml"
     },
     {
       "name": "Guns N' Roses, Feira do Livro da USP, espetáculo musical com drones, passeios de Páscoa e mais: veja o que fazer em SP",
@@ -264,30 +291,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/02/guns-n-roses-feira-do-livro-da-usp-espetaculo-musical-com-drones-passeios-de-pascoa-e-mais-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Drama da Paixão de Santana de Parnaíba chega à 29ª edição com 14 cenários grandiosos e mais de mil participantes",
-      "category": "evento",
-      "desc": "Drama da Paixão de Santana de Parnaíba chega à 29ª edição com 14 cenários grandiosos e mais de mil participantes",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/03/30/drama-da-paixao-de-santana-de-parnaiba-chega-a-29a-edicao-com-14-cenarios-grandiosos-e-mais-de-mil-participantes.ghtml"
-    },
-    {
-      "name": "Fim da turnê de Gilberto Gil, Alceu Valença, Bienal de Arquitetura, rodas de samba e mais: veja o que fazer em São Paulo",
-      "category": "show",
-      "desc": "Fim da turnê de Gilberto Gil, Alceu Valença, Bienal de Arquitetura, rodas de samba e mais: veja o que fazer em São Paulo",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "samba"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/03/27/fim-da-turne-de-gilberto-gil-alceu-valenca-bienal-de-arquitetura-rodas-de-samba-e-mais-veja-o-que-fazer-em-sao-paulo.ghtml"
     }
   ]
 }
