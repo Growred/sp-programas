@@ -1,5 +1,5 @@
 {
-  "updated_at": "10/04/2026 as 11:48",
+  "updated_at": "13/04/2026 as 12:02",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -13,6 +13,17 @@
       "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249"
     },
     {
+      "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/117331"
+    },
+    {
       "name": "Trio Amadeus - Jornada Épica do Clássico ao Rock",
       "category": "show",
       "desc": "",
@@ -24,28 +35,6 @@
       ],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/112149"
-    },
-    {
-      "name": "MUSEU DAS CULTURAS INDÍGENAS",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/95807"
-    },
-    {
-      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/71195"
     },
     {
       "name": "ARENA STAR LASER",
@@ -103,6 +92,17 @@
       "link": "https://bileto.sympla.com.br/event/96110"
     },
     {
+      "name": "Orquestra Sinfônica de Piracicaba - Abril",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119099"
+    },
+    {
       "name": "CHOCOTOUR NESTLE 2026",
       "category": "passeio",
       "desc": "",
@@ -123,6 +123,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/117875"
+    },
+    {
+      "name": "MUSEU DAS ILUSÕES - JUNDIAÍ/SP",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/114756"
     },
     {
       "name": "Explore o MAB",
@@ -158,21 +169,8 @@
       "link": "https://bileto.sympla.com.br/event/115255"
     },
     {
-      "name": "Aulas Coletivas KIDS",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "infantil"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/113361"
-    },
-    {
-      "name": "História e ficção se cruzam no nacional 'A Conspiração Condor' e no estrangeiro 'O Mago do Kremlin'",
-      "category": "evento",
+      "name": "31ª edição do evento internacional apresenta filmes de 25 países em exibições gratuitas até 19 de abril; Vivian Ostrovsky é homenageada",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -182,13 +180,15 @@
       "link": ""
     },
     {
-      "name": "Pinturas de Anita Malfatti recontam o modernismo em exposiÃ§Ã£o",
-      "category": "evento",
+      "name": "Pizzaria da Michele, original da ItÃ¡lia, chega a SÃ£o Paulo",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "pizza"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -215,26 +215,26 @@
       "link": ""
     },
     {
-      "name": "Poucos restaurantes italianos de SÃ£o Paulo servem pratos de massa com a qualidade do Manduque Massas e MaÃ§Ã£s, essa casa despretensiosa, acomodada discretamente dentro do Mercado de Pinheiros. Das que servem, serÃ¡ difÃ­cil encontrar opÃ§Ãµes com valores tÃ£o em conta quanto lÃ¡.",
+      "name": "Nas poucas indicaÃ§Ãµes que vi sobre o Taboa antes de conhecÃª-lo, ele estava descrito como um restaurante brasileiro. Uma injustiÃ§a e uma imprecisÃ£o. A injustiÃ§a Ã© quanto Ã  visibilidade: com cozinha de alto nÃ­vel, Ã© um lugar que merece mais destaque. A imprecisÃ£o Ã© quanto Ã  especialidade. De fato o Taboa faz cozinha brasileira. Mas nÃ£o sÃ³.",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Festivais de cultura Ã¡rabe e japonesa terÃ£o comidas tÃ­picas",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "italiano"
+        "japones"
       ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Tomorrowland Brasil anuncia esquenta com Alok e DJs brasileiros",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -272,8 +272,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "festival",
-        "exposicao"
+        "exposicao",
+        "festival"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/09/comida-di-buteco-mostra-internacional-de-documentarios-love-cabaret-sp-arte-festival-arabe-veja-o-que-fazer-em-sp.ghtml"
