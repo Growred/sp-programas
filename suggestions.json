@@ -1,5 +1,5 @@
 {
-  "updated_at": "13/04/2026 as 12:02",
+  "updated_at": "15/04/2026 as 11:55",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -92,7 +92,7 @@
       "link": "https://bileto.sympla.com.br/event/96110"
     },
     {
-      "name": "Orquestra Sinfônica de Piracicaba - Abril",
+      "name": "A Última Sessão de Freud",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -100,7 +100,7 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119099"
+      "link": "https://bileto.sympla.com.br/event/118446"
     },
     {
       "name": "CHOCOTOUR NESTLE 2026",
@@ -169,32 +169,19 @@
       "link": "https://bileto.sympla.com.br/event/115255"
     },
     {
-      "name": "31ª edição do evento internacional apresenta filmes de 25 países em exibições gratuitas até 19 de abril; Vivian Ostrovsky é homenageada",
-      "category": "cinema",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Pizzaria da Michele, original da ItÃ¡lia, chega a SÃ£o Paulo",
+      "name": "Chefs Ivan Ralston e Luiz Filipe Souza receberam a honraria mais alta da premiação; só outras 154 casas têm a distinção",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "pizza"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Marco da vida boÃªmia, bar Filial Ã© reaberto pela segunda vez",
-      "category": "bar",
+      "name": "Kid Abelha faz turnÃª depois de 15 anos; veja como comprar",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -204,13 +191,26 @@
       "link": ""
     },
     {
-      "name": "'Suspiria', de Dario Argento, retorna aos cinemas em versÃ£o 4K",
+      "name": "Berrini vira polo gastronÃ´mico com restaurantes de regiÃµes da China",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Mostra em SP exibirÃ¡ filmes de terror dirigidos por mulheres",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "exposicao"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -226,30 +226,40 @@
       "link": ""
     },
     {
-      "name": "Festivais de cultura Ã¡rabe e japonesa terÃ£o comidas tÃ­picas",
-      "category": "restaurante",
+      "name": "'Shrek, o Musical', com Tiago Abravanel, estreia nesta quarta",
+      "category": "musical",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "japones"
+        "musical",
+        "estreia"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Theatro Municipal recebe espetÃ¡culo grÃ¡tis de MPB com orquestra",
-      "category": "show",
+      "name": "Mixue inaugura primeira loja brasileira com sorvete a partir de R$ 3",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "MPB"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Paula Fernandes anuncia show com participações de Ana Castela, Simone Mendes e Padre Fábio de Melo em SP",
+      "category": "show",
+      "desc": "Paula Fernandes anuncia show com participações de Ana Castela, Simone Mendes e Padre Fábio de Melo em SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/13/paula-fernandes-anuncia-show-com-participacoes-de-ana-castela-simone-mendes-e-padre-fabio-de-melo-em-sp.ghtml"
     },
     {
       "name": "Festival É Tudo Verdade começa em São Paulo com sessões gratuitas de documentários",
@@ -277,20 +287,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/09/comida-di-buteco-mostra-internacional-de-documentarios-love-cabaret-sp-arte-festival-arabe-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Guns N' Roses, Feira do Livro da USP, espetáculo musical com drones, passeios de Páscoa e mais: veja o que fazer em SP",
-      "category": "musical",
-      "desc": "Guns N' Roses, Feira do Livro da USP, espetáculo musical com drones, passeios de Páscoa e mais: veja o que fazer em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira",
-        "musical"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/02/guns-n-roses-feira-do-livro-da-usp-espetaculo-musical-com-drones-passeios-de-pascoa-e-mais-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
