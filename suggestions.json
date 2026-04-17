@@ -1,5 +1,5 @@
 {
-  "updated_at": "15/04/2026 as 11:55",
+  "updated_at": "17/04/2026 as 11:52",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -13,15 +13,15 @@
       "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249"
     },
     {
-      "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
-      "category": "evento",
+      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/117331"
+      "link": "https://bileto.sympla.com.br/event/119183"
     },
     {
       "name": "Trio Amadeus - Jornada Épica do Clássico ao Rock",
@@ -35,6 +35,17 @@
       ],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/112149"
+    },
+    {
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71195"
     },
     {
       "name": "ARENA STAR LASER",
@@ -114,17 +125,6 @@
       "link": "https://bileto.sympla.com.br/event/114043"
     },
     {
-      "name": "BadeRna – Um sobrevoo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/117875"
-    },
-    {
       "name": "MUSEU DAS ILUSÕES - JUNDIAÍ/SP",
       "category": "passeio",
       "desc": "",
@@ -134,6 +134,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/114756"
+    },
+    {
+      "name": "BadeRna – Um sobrevoo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/117875"
     },
     {
       "name": "Explore o MAB",
@@ -158,29 +169,7 @@
       "link": "https://bileto.sympla.com.br/event/118618"
     },
     {
-      "name": "Bee Gees Alive - Americana/SP",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/115255"
-    },
-    {
-      "name": "Chefs Ivan Ralston e Luiz Filipe Souza receberam a honraria mais alta da premiação; só outras 154 casas têm a distinção",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Kid Abelha faz turnÃª depois de 15 anos; veja como comprar",
+      "name": "Evento acontece nos dias 22 e 23 de agosto; pré-venda de ingressos começa nesta sexta (17) para clientes do banco",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -191,8 +180,8 @@
       "link": ""
     },
     {
-      "name": "Berrini vira polo gastronÃ´mico com restaurantes de regiÃµes da China",
-      "category": "restaurante",
+      "name": "Angelina Jolie interpreta cineasta em 'Vidas EntrelaÃ§adas'; veja agenda",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -202,14 +191,25 @@
       "link": ""
     },
     {
-      "name": "Mostra em SP exibirÃ¡ filmes de terror dirigidos por mulheres",
-      "category": "cinema",
+      "name": "ExposiÃ§Ã£o recupera influÃªncia de Ã¡rabes e muÃ§ulmanos na arquitetura",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Mundial do Queijo Brasil mistura competiÃ§Ã£o e feira em SP",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "exposicao"
+        "feira"
       ],
       "source": "Guia Folha",
       "link": ""
@@ -226,16 +226,13 @@
       "link": ""
     },
     {
-      "name": "'Shrek, o Musical', com Tiago Abravanel, estreia nesta quarta",
-      "category": "musical",
+      "name": "Marcelo FalcÃ£o anuncia turnÃª com shows em quatro capitais",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "musical",
-        "estreia"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -251,42 +248,43 @@
       "link": ""
     },
     {
-      "name": "Paula Fernandes anuncia show com participações de Ana Castela, Simone Mendes e Padre Fábio de Melo em SP",
-      "category": "show",
-      "desc": "Paula Fernandes anuncia show com participações de Ana Castela, Simone Mendes e Padre Fábio de Melo em SP",
+      "name": "Zico ganha documentário sobre trajetória dentro e fora dos campos",
+      "category": "evento",
+      "desc": "Zico ganha documentário sobre trajetória dentro e fora dos campos",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/13/paula-fernandes-anuncia-show-com-participacoes-de-ana-castela-simone-mendes-e-padre-fabio-de-melo-em-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/16/zico-ganha-documentario-sobre-trajetoria-dentro-e-fora-dos-campos.ghtml"
     },
     {
-      "name": "Festival É Tudo Verdade começa em São Paulo com sessões gratuitas de documentários",
-      "category": "evento",
-      "desc": "Festival É Tudo Verdade começa em São Paulo com sessões gratuitas de documentários",
+      "name": "Feira de Arte dos Povos Indígenas reúne 100 expositores no Parque Ibirapuera em SP",
+      "category": "show",
+      "desc": "Feira de Arte dos Povos Indígenas reúne 100 expositores no Parque Ibirapuera em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "festival"
+        "feira",
+        "ao-ar-livre"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/09/festival-e-tudo-verdade-comeca-em-sao-paulo-com-sessoes-gratuitas-de-documentarios.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/16/feira-de-arte-dos-povos-indigenas-reune-100-expositores-no-parque-ibirapuera-em-sp.ghtml"
     },
     {
-      "name": "Comida di Buteco, mostra internacional de documentários, Love Cabaret, SP-Arte, festival árabe: veja o que fazer em SP",
-      "category": "restaurante",
-      "desc": "Comida di Buteco, mostra internacional de documentários, Love Cabaret, SP-Arte, festival árabe: veja o que fazer em SP",
+      "name": "Musical do Shrek, Mano Brown, Mamonas Assassinas, exposição de Janis Joplin e adoção de pets: veja o que fazer em SP",
+      "category": "musical",
+      "desc": "Musical do Shrek, Mano Brown, Mamonas Assassinas, exposição de Janis Joplin e adoção de pets: veja o que fazer em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "exposicao",
-        "festival"
+        "musical",
+        "exposicao"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/09/comida-di-buteco-mostra-internacional-de-documentarios-love-cabaret-sp-arte-festival-arabe-veja-o-que-fazer-em-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/16/musical-do-shrek-mano-brown-mamonas-assassinas-exposicao-de-janis-joplin-e-adocao-de-pets-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
