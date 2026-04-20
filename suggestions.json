@@ -1,5 +1,5 @@
 {
-  "updated_at": "17/04/2026 as 11:52",
+  "updated_at": "20/04/2026 as 12:03",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -11,17 +11,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249"
-    },
-    {
-      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119183"
     },
     {
       "name": "Trio Amadeus - Jornada Épica do Clássico ao Rock",
@@ -81,6 +70,17 @@
       "link": "https://bileto.sympla.com.br/event/119031"
     },
     {
+      "name": "TEARS FOR FEARS  25 abril  Sáb 20h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/117659"
+    },
+    {
       "name": "ELVIS – The Ultimate King Experience with Elvis Andriolo  23 maio  Sábado às 20h",
       "category": "evento",
       "desc": "",
@@ -125,15 +125,17 @@
       "link": "https://bileto.sympla.com.br/event/114043"
     },
     {
-      "name": "MUSEU DAS ILUSÕES - JUNDIAÍ/SP",
-      "category": "passeio",
+      "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "teatro"
+      ],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/114756"
+      "link": "https://bileto.sympla.com.br/event/119610"
     },
     {
       "name": "BadeRna – Um sobrevoo",
@@ -147,6 +149,17 @@
       "link": "https://bileto.sympla.com.br/event/117875"
     },
     {
+      "name": "MUSEU DAS ILUSÕES - JUNDIAÍ/SP",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/114756"
+    },
+    {
       "name": "Explore o MAB",
       "category": "evento",
       "desc": "",
@@ -158,18 +171,20 @@
       "link": "https://bileto.sympla.com.br/event/102987"
     },
     {
-      "name": "Sinatra In Concert",
-      "category": "show",
+      "name": "Minhocão fecha à noite e nos fins de semana e pode ser desfrutado como mistura de parque e galeria; Bexiga e Vila Anglo são alternativas",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118618"
+      "tags": [
+        "ao-ar-livre"
+      ],
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "Evento acontece nos dias 22 e 23 de agosto; pré-venda de ingressos começa nesta sexta (17) para clientes do banco",
+      "name": "ExposiÃ§Ã£o no MIS conta sucessos e dores de Janis Joplin",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -180,42 +195,33 @@
       "link": ""
     },
     {
-      "name": "Angelina Jolie interpreta cineasta em 'Vidas EntrelaÃ§adas'; veja agenda",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ExposiÃ§Ã£o recupera influÃªncia de Ã¡rabes e muÃ§ulmanos na arquitetura",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Mundial do Queijo Brasil mistura competiÃ§Ã£o e feira em SP",
+      "name": "Marcelo D2 e Rachel Reis se apresentam em festival em SP",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "feira"
+        "festival"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Nas poucas indicaÃ§Ãµes que vi sobre o Taboa antes de conhecÃª-lo, ele estava descrito como um restaurante brasileiro. Uma injustiÃ§a e uma imprecisÃ£o. A injustiÃ§a Ã© quanto Ã  visibilidade: com cozinha de alto nÃ­vel, Ã© um lugar que merece mais destaque. A imprecisÃ£o Ã© quanto Ã  especialidade. De fato o Taboa faz cozinha brasileira. Mas nÃ£o sÃ³.",
+      "name": "Ãpera que satiriza mito de Orfeu estreia no Theatro SÃ£o Pedro",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Le Freak seria algo como o esquisito, em portuguÃªs. E Ã© mesmo. Tem menu com cara de bistrÃ´ sem ser bistrÃ´. E algo de endereÃ§o secreto mesmo com filas nada discretas em plena avenida SÃ£o LuÃ­s, no centro de SÃ£o Paulo.",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -226,13 +232,16 @@
       "link": ""
     },
     {
-      "name": "Marcelo FalcÃ£o anuncia turnÃª com shows em quatro capitais",
+      "name": "Fim de semana tem mostra sobre sertÃ£o e festival de rap com Febem",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "exposicao",
+        "festival"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -248,6 +257,28 @@
       "link": ""
     },
     {
+      "name": "Por dentro do Evvai e do Tuju, primeiros restaurantes 3 estrelas Michelin da América Latina; experiência pode passar de R$ 3 mil",
+      "category": "restaurante",
+      "desc": "Por dentro do Evvai e do Tuju, primeiros restaurantes 3 estrelas Michelin da América Latina; experiência pode passar de ",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/18/por-dentro-do-evvai-e-do-tuju-primeiros-restaurantes-3-estrelas-michelin-da-america-latina-experiencia-pode-passar-de-r-3-mil.ghtml"
+    },
+    {
+      "name": "Comida Di Buteco em SP tem pratos por R$ 40; veja participantes",
+      "category": "restaurante",
+      "desc": "Comida Di Buteco em SP tem pratos por R$ 40; veja participantes",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/17/comida-di-buteco-em-sp-tem-pratos-por-r-40-veja-participantes.ghtml"
+    },
+    {
       "name": "Zico ganha documentário sobre trajetória dentro e fora dos campos",
       "category": "evento",
       "desc": "Zico ganha documentário sobre trajetória dentro e fora dos campos",
@@ -257,34 +288,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/16/zico-ganha-documentario-sobre-trajetoria-dentro-e-fora-dos-campos.ghtml"
-    },
-    {
-      "name": "Feira de Arte dos Povos Indígenas reúne 100 expositores no Parque Ibirapuera em SP",
-      "category": "show",
-      "desc": "Feira de Arte dos Povos Indígenas reúne 100 expositores no Parque Ibirapuera em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira",
-        "ao-ar-livre"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/16/feira-de-arte-dos-povos-indigenas-reune-100-expositores-no-parque-ibirapuera-em-sp.ghtml"
-    },
-    {
-      "name": "Musical do Shrek, Mano Brown, Mamonas Assassinas, exposição de Janis Joplin e adoção de pets: veja o que fazer em SP",
-      "category": "musical",
-      "desc": "Musical do Shrek, Mano Brown, Mamonas Assassinas, exposição de Janis Joplin e adoção de pets: veja o que fazer em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "musical",
-        "exposicao"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/16/musical-do-shrek-mano-brown-mamonas-assassinas-exposicao-de-janis-joplin-e-adocao-de-pets-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
