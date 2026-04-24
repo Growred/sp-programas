@@ -1,5 +1,5 @@
 {
-  "updated_at": "22/04/2026 as 11:59",
+  "updated_at": "24/04/2026 as 11:56",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -11,6 +11,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249"
+    },
+    {
+      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119183"
     },
     {
       "name": "Trio Amadeus - Jornada Épica do Clássico ao Rock",
@@ -138,6 +149,17 @@
       "link": "https://bileto.sympla.com.br/event/119610"
     },
     {
+      "name": "OFICINA - Explorando as moedas bíblicas",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/103517"
+    },
+    {
       "name": "BadeRna – Um sobrevoo",
       "category": "evento",
       "desc": "",
@@ -149,63 +171,45 @@
       "link": "https://bileto.sympla.com.br/event/117875"
     },
     {
-      "name": "MUSEU DAS ILUSÕES - JUNDIAÍ/SP",
-      "category": "passeio",
+      "name": "Artista é intepretado por Jaafar Jackson, seu próprio sobrinho; também entra em cartaz o Festival de Cinema Europeu Imovision",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/114756"
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "Explore o MAB",
+      "name": "'Dibuk', versÃ£o de peÃ§a judaica sobre amor proibido, estreia nesta semana",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "JoÃ£o Gomes, Mestrinho e Jota.pÃª se apresentam no fim de semana",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/102987"
-    },
-    {
-      "name": "Exibição acontece no dia 24 de abril e será seguida de debate sobre os desdobramentos científicos e sociais da Aids",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Banda Fera NenÃ©m faz shows grÃ¡tis no feriado de Tiradentes",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "CafÃ© Girondino lanÃ§a novo menu-executivo e brunch",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Pixinguinha e Copinha sÃ£o homenageados em shows de choro",
-      "category": "show",
+      "name": "Filmes de 'Top Gun' retornam aos cinemas em maio",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -226,8 +230,8 @@
       "link": ""
     },
     {
-      "name": "'O Diabo Veste Prada 2' terÃ¡ sessÃ£o de gala em cinema de SÃ£o Paulo",
-      "category": "cinema",
+      "name": "PeÃ§a explora amizade que desafia os limites da identidade e do tempo",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -237,15 +241,41 @@
       "link": ""
     },
     {
-      "name": "Mixue inaugura primeira loja brasileira com sorvete a partir de R$ 3",
-      "category": "evento",
+      "name": "'Espelho MÃ¡gico', musical sobre a TV Globo, faz sessÃµes com desconto",
+      "category": "musical",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "musical"
+      ],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Dominguinho, Bangers Open Air, Holi Festival, tour gastronômico, Péricles e Ferrugem: veja o que fazer em SP",
+      "category": "evento",
+      "desc": "Dominguinho, Bangers Open Air, Holi Festival, tour gastronômico, Péricles e Ferrugem: veja o que fazer em SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/23/dominguinho-bangers-open-air-holi-festival-tour-gastronomico-pericles-e-ferrugem-veja-o-que-fazer-em-sp.ghtml"
+    },
+    {
+      "name": "Dia Mundial do Livro: ação no centro de SP distribui mais de mil obras gratuitas",
+      "category": "evento",
+      "desc": "Dia Mundial do Livro: ação no centro de SP distribui mais de mil obras gratuitas",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/22/dia-mundial-do-livro-acao-no-centro-de-sp-distribui-mais-de-mil-obras-gratuitas.ghtml"
     },
     {
       "name": "Horizons 2026 aceita inscrições para evento gratuito sobre inovação e sustentabilidade em SP",
@@ -259,30 +289,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/21/horizons-2026-abre-inscricoes-para-evento-gratuito-sobre-inovacao-e-sustentabilidade-em-sp.ghtml"
-    },
-    {
-      "name": "São Paulo Companhia Jovem de Dança  tem inscrições abertas",
-      "category": "evento",
-      "desc": "São Paulo Companhia Jovem de Dança  tem inscrições abertas",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/21/sao-paulo-companhia-jovem-de-danca-tem-inscricoes-abertas.ghtml"
-    },
-    {
-      "name": "Noite das Livrarias leva eventos gratuitos para São Paulo na quinta, Dia do Livro; veja programação",
-      "category": "evento",
-      "desc": "Noite das Livrarias leva eventos gratuitos para São Paulo na quinta, Dia do Livro; veja programação",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/20/noite-das-livrarias-leva-eventos-gratuitos-para-sao-paulo-na-quinta-dia-do-livro-veja-programacao.ghtml"
     }
   ]
 }
