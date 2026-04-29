@@ -1,5 +1,5 @@
 {
-  "updated_at": "27/04/2026 as 12:19",
+  "updated_at": "29/04/2026 as 12:17",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -37,6 +37,17 @@
       "link": "https://bileto.sympla.com.br/event/112149"
     },
     {
+      "name": "MUSEU DAS CULTURAS INDÍGENAS",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/95807"
+    },
+    {
       "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
       "category": "evento",
       "desc": "",
@@ -48,7 +59,121 @@
       "link": "https://bileto.sympla.com.br/event/71195"
     },
     {
-      "name": "Roteiro reúne 26 boas opções de lugares para experimentar bebidas artesanais e pratos inspirados em Taiwan e Japão",
+      "name": "ARENA STAR LASER",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107843"
+    },
+    {
+      "name": "QUEEN LEGEND + E. BALBO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/111424"
+    },
+    {
+      "name": "ELVIS – The Ultimate King Experience with Elvis Andriolo  23 maio  Sábado às 20h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118696"
+    },
+    {
+      "name": "A Última Sessão de Freud",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118446"
+    },
+    {
+      "name": "Museu da Imaginação",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116303"
+    },
+    {
+      "name": "OFICINA - Explorando as moedas bíblicas",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/103517"
+    },
+    {
+      "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119610"
+    },
+    {
+      "name": "Explore o MAB",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/102987"
+    },
+    {
+      "name": "PARQUE PICO DAS CABRAS",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "ao-ar-livre"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/66566"
+    },
+    {
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618"
+    },
+    {
+      "name": "Espetáculo acontece na Mercado Livre Arena Pacaembu, entre 21 e 23 de agosto; ingressos inteiros variam de R$ 772,50 a R$ 3.247,50",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -70,8 +195,8 @@
       "link": ""
     },
     {
-      "name": "JoÃ£o Gomes, Mestrinho e Jota.pÃª se apresentam no fim de semana",
-      "category": "evento",
+      "name": "Aespa, grupo de k-pop, farÃ¡ show Ãºnico no Brasil em setembro",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -103,8 +228,21 @@
       "link": ""
     },
     {
-      "name": "PeÃ§a explora amizade que desafia os limites da identidade e do tempo",
-      "category": "evento",
+      "name": "Simone Mendes reÃºne grandes nomes do sertanejo em SÃ£o Paulo",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "sertanejo"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Show de Billie Eilish que virou filme 3D de James Cameron estÃ¡ com ingressos Ã  venda",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -114,17 +252,28 @@
       "link": ""
     },
     {
-      "name": "'Espelho MÃ¡gico', musical sobre a TV Globo, faz sessÃµes com desconto",
-      "category": "musical",
-      "desc": "",
+      "name": "Nômade Festival em SP tem Luísa Sonza, João Gomes e Péricles no fim de semana: veja line-up e ingressos",
+      "category": "evento",
+      "desc": "Nômade Festival em SP tem Luísa Sonza, João Gomes e Péricles no fim de semana: veja line-up e ingressos",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "musical"
+        "festival"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/28/nomade-festival-em-sp-tem-luisa-sonza-joao-gomes-e-pericles-no-fim-de-semana-veja-line-up-e-ingressos.ghtml"
+    },
+    {
+      "name": "Cinema em SP amplia sessões adaptadas para pessoas com autismo durante o 'Abril Azul'",
+      "category": "cinema",
+      "desc": "Cinema em SP amplia sessões adaptadas para pessoas com autismo durante o 'Abril Azul'",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/28/cinema-em-sp-amplia-sessoes-adaptadas-para-pessoas-com-autismo-durante-o-abril-azul.ghtml"
     },
     {
       "name": "Musical 'O Diabo Veste Prada' estreia no Brasil em 2027 com Claudia Raia e Myra Ruiz",
@@ -134,39 +283,11 @@
       "date": "",
       "hours": "",
       "tags": [
-        "musical",
-        "estreia"
+        "estreia",
+        "musical"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/26/musical-o-diabo-veste-prada-estreia-no-brasil-em-2027-com-claudia-raia-e-myra-ruiz.ghtml"
-    },
-    {
-      "name": "Paraisópolis recebe festival gratuito com shows, ballet, teatro e gastronomia; veja programação",
-      "category": "show",
-      "desc": "Paraisópolis recebe festival gratuito com shows, ballet, teatro e gastronomia; veja programação",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro",
-        "gratuito",
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/24/paraisopolis-recebe-festival-gratuito-com-shows-ballet-teatro-e-gastronomia-veja-programacao.ghtml"
-    },
-    {
-      "name": "Dominguinho, Bangers Open Air, Holi Festival, tour gastronômico, Péricles e Ferrugem: veja o que fazer em SP",
-      "category": "evento",
-      "desc": "Dominguinho, Bangers Open Air, Holi Festival, tour gastronômico, Péricles e Ferrugem: veja o que fazer em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/23/dominguinho-bangers-open-air-holi-festival-tour-gastronomico-pericles-e-ferrugem-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
