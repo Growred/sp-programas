@@ -1,5 +1,5 @@
 {
-  "updated_at": "29/04/2026 as 12:17",
+  "updated_at": "01/05/2026 as 11:59",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -114,7 +114,7 @@
       "link": "https://bileto.sympla.com.br/event/116303"
     },
     {
-      "name": "OFICINA - Explorando as moedas bíblicas",
+      "name": "AVENTURA CONGELANTE NO PATINAÇÃO NO GELO NO JUNDIAÍ SHOPPING",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -122,7 +122,18 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/103517"
+      "link": "https://bileto.sympla.com.br/event/120117"
+    },
+    {
+      "name": "CHOCOTOUR NESTLE 2026",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/114043"
     },
     {
       "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
@@ -138,7 +149,7 @@
       "link": "https://bileto.sympla.com.br/event/119610"
     },
     {
-      "name": "Explore o MAB",
+      "name": "OFICINA - Explorando as moedas bíblicas",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -146,34 +157,21 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/102987"
+      "link": "https://bileto.sympla.com.br/event/103517"
     },
     {
-      "name": "PARQUE PICO DAS CABRAS",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "ao-ar-livre"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/66566"
-    },
-    {
-      "name": "Sinatra In Concert",
-      "category": "show",
+      "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118618"
+      "link": "https://bileto.sympla.com.br/event/118119"
     },
     {
-      "name": "Espetáculo acontece na Mercado Livre Arena Pacaembu, entre 21 e 23 de agosto; ingressos inteiros variam de R$ 772,50 a R$ 3.247,50",
+      "name": "Piloto Felipe Nasr expande seus limites em uma competição de resistência no primeiro longa brasileiro em Imax",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -184,18 +182,7 @@
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o tem 144 retratos de cartunistas do Brasil",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Aespa, grupo de k-pop, farÃ¡ show Ãºnico no Brasil em setembro",
+      "name": "Deva Premal e Miten interpretam mantras em sÃ¢nscrito em show",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -206,8 +193,19 @@
       "link": ""
     },
     {
-      "name": "Herbert Richers Jr. incorpora LÃºcifer e Caim em peÃ§a de Byron",
+      "name": "Ãcaro Silva farÃ¡ Hamlet em nova temporada da peÃ§a",
       "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja como chegar e dicas para shows do The Weeknd com Anitta",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -228,15 +226,13 @@
       "link": ""
     },
     {
-      "name": "Simone Mendes reÃºne grandes nomes do sertanejo em SÃ£o Paulo",
-      "category": "show",
+      "name": "âNa Sala dos Espelhosâ ganha sessÃµes grÃ¡tis no Theatro Municipal",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "sertanejo"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -252,9 +248,33 @@
       "link": ""
     },
     {
-      "name": "Nômade Festival em SP tem Luísa Sonza, João Gomes e Péricles no fim de semana: veja line-up e ingressos",
+      "name": "Feira do Livro da Rocha reúne autores, shows e ações sociais no Bixiga a partir desta sexta",
+      "category": "show",
+      "desc": "Feira do Livro da Rocha reúne autores, shows e ações sociais no Bixiga a partir desta sexta",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "feira"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/01/feira-do-livro-da-rocha-reune-autores-shows-e-acoes-sociais-no-bixiga-a-partir-desta-sexta.ghtml"
+    },
+    {
+      "name": "Shakira ao vivo: SP tem festas, telões e baladas para ver o show; veja lista",
+      "category": "show",
+      "desc": "Shakira ao vivo: SP tem festas, telões e baladas para ver o show; veja lista",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/01/shakira-ao-vivo-sp-tem-festas-teloes-e-baladas-para-ver-o-show-veja-lista.ghtml"
+    },
+    {
+      "name": "Festas da Shakira, Nômade Festival, The Weeknd com Anitta, Emicida: veja o que fazer em SP",
       "category": "evento",
-      "desc": "Nômade Festival em SP tem Luísa Sonza, João Gomes e Péricles no fim de semana: veja line-up e ingressos",
+      "desc": "Festas da Shakira, Nômade Festival, The Weeknd com Anitta, Emicida: veja o que fazer em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
@@ -262,32 +282,7 @@
         "festival"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/28/nomade-festival-em-sp-tem-luisa-sonza-joao-gomes-e-pericles-no-fim-de-semana-veja-line-up-e-ingressos.ghtml"
-    },
-    {
-      "name": "Cinema em SP amplia sessões adaptadas para pessoas com autismo durante o 'Abril Azul'",
-      "category": "cinema",
-      "desc": "Cinema em SP amplia sessões adaptadas para pessoas com autismo durante o 'Abril Azul'",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/28/cinema-em-sp-amplia-sessoes-adaptadas-para-pessoas-com-autismo-durante-o-abril-azul.ghtml"
-    },
-    {
-      "name": "Musical 'O Diabo Veste Prada' estreia no Brasil em 2027 com Claudia Raia e Myra Ruiz",
-      "category": "musical",
-      "desc": "Musical 'O Diabo Veste Prada' estreia no Brasil em 2027 com Claudia Raia e Myra Ruiz",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia",
-        "musical"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/26/musical-o-diabo-veste-prada-estreia-no-brasil-em-2027-com-claudia-raia-e-myra-ruiz.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/04/30/festas-da-shakira-nomade-festival-the-weeknd-com-anitta-emicida-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
