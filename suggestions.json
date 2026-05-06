@@ -1,5 +1,5 @@
 {
-  "updated_at": "04/05/2026 as 12:20",
+  "updated_at": "06/05/2026 as 12:26",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -37,51 +37,62 @@
       "link": "https://bileto.sympla.com.br/event/112149"
     },
     {
-      "name": "MUSEU DAS CULTURAS INDÍGENAS",
-      "category": "passeio",
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/95807"
+      "link": "https://bileto.sympla.com.br/event/71195"
     },
     {
-      "name": "Casas inauguradas no último ano se juntam a locais como os edifícios Itália, Louvre, Copan e galeria Metrópole, e dão nova cara à via",
-      "category": "passeio",
+      "name": "ARENA STAR LASER",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107843"
     },
     {
-      "name": "Complexo do edifÃ­cio ItÃ¡lia combina gastronomia e vista privilegiada",
-      "category": "restaurante",
+      "name": "QUEEN LEGEND + E. BALBO",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/111424"
     },
     {
-      "name": "Galeria MetrÃ³pole ganha novas lojas, padarias e sorveteria em SP",
-      "category": "passeio",
+      "name": "A Última Sessão de Freud",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118446"
     },
     {
-      "name": "Polo de entretenimento se articula com teatro, literatura e exposiÃ§Ãµes",
+      "name": "AVENTURA CONGELANTE NO PATINAÇÃO NO GELO NO JUNDIAÍ SHOPPING",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120117"
+    },
+    {
+      "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -90,6 +101,122 @@
       "tags": [
         "teatro"
       ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119610"
+    },
+    {
+      "name": "OFICINA - Explorando as moedas bíblicas",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/103517"
+    },
+    {
+      "name": "George Michael Tribute - 12 junho  20h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120236"
+    },
+    {
+      "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118119"
+    },
+    {
+      "name": "PARQUE PICO DAS CABRAS",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "ao-ar-livre"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/66566"
+    },
+    {
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618"
+    },
+    {
+      "name": "Bee Gees Alive - Americana/SP",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/115255"
+    },
+    {
+      "name": "Aiô, Varanda, Terraço Notiê, Lita, Thai Food Shop, P’Lek Bar, Fôrno e Cora estão entre as casas que aparecem pela primeira vez",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "rooftop"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Marco Nanini e Guilherme Weber estreiam em peÃ§a de Beckett",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "'Viva - A Vida Ã© uma Festa' ganha sessÃµes com orquestra em SP",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Rede de cinemas vende cinco ingressos por R$ 55 em promoÃ§Ã£o",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -105,8 +232,8 @@
       "link": ""
     },
     {
-      "name": "Copan vira point com calÃ§adas cheias de visitantes",
-      "category": "evento",
+      "name": "Gabriel Leone faz show do seu primeiro disco no Sesc 14 Bis",
+      "category": "sesc",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -116,7 +243,7 @@
       "link": ""
     },
     {
-      "name": "Show de Billie Eilish que virou filme 3D de James Cameron estÃ¡ com ingressos Ã  venda",
+      "name": "Veja como assistir a Star Wars pela data de lanÃ§amento e pela linha temporal dos filmes",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -127,6 +254,20 @@
       "link": ""
     },
     {
+      "name": "K-pop estreia na Virada Cultural de SP com shows gratuitos do grupo 1VERSE",
+      "category": "show",
+      "desc": "K-pop estreia na Virada Cultural de SP com shows gratuitos do grupo 1VERSE",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "gratuito",
+        "estreia"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/04/k-pop-estreia-na-virada-cultural-de-sp-com-shows-gratuitos-do-grupo-1verse.ghtml"
+    },
+    {
       "name": "Museu da Língua Portuguesa terá  festival gratuito com Letrux, Gaviões da Fiel e feira gastronômica; veja programação",
       "category": "evento",
       "desc": "Museu da Língua Portuguesa terá  festival gratuito com Letrux, Gaviões da Fiel e feira gastronômica; veja programação",
@@ -134,9 +275,9 @@
       "date": "",
       "hours": "",
       "tags": [
+        "gratuito",
         "festival",
-        "feira",
-        "gratuito"
+        "feira"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/02/museu-da-lingua-portuguesa-tera-festival-gratuito-com-letrux-gavioes-da-fiel-e-feira-gastronomica-veja-programacao.ghtml"
@@ -151,19 +292,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/02/usp-recebe-1o-encontro-de-pesquisadores-em-influencias-digitais-entre-4-e-6-de-maio.ghtml"
-    },
-    {
-      "name": "Feira do Livro da Rocha reúne autores, shows e ações sociais no Bixiga a partir desta sexta",
-      "category": "show",
-      "desc": "Feira do Livro da Rocha reúne autores, shows e ações sociais no Bixiga a partir desta sexta",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/01/feira-do-livro-da-rocha-reune-autores-shows-e-acoes-sociais-no-bixiga-a-partir-desta-sexta.ghtml"
     }
   ]
 }
