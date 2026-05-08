@@ -1,5 +1,5 @@
 {
-  "updated_at": "06/05/2026 as 12:26",
+  "updated_at": "08/05/2026 as 12:08",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -22,6 +22,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/119183"
+    },
+    {
+      "name": "Echoes Pink Floyd - PULSE",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120367"
     },
     {
       "name": "Trio Amadeus - Jornada Épica do Clássico ao Rock",
@@ -59,17 +70,6 @@
       "link": "https://bileto.sympla.com.br/event/107843"
     },
     {
-      "name": "QUEEN LEGEND + E. BALBO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/111424"
-    },
-    {
       "name": "A Última Sessão de Freud",
       "category": "evento",
       "desc": "",
@@ -90,6 +90,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/120117"
+    },
+    {
+      "name": "CHOCOTOUR NESTLE 2026",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/114043"
     },
     {
       "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
@@ -114,17 +125,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/103517"
-    },
-    {
-      "name": "George Michael Tribute - 12 junho  20h30",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120236"
     },
     {
       "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
@@ -173,33 +173,7 @@
       "link": "https://bileto.sympla.com.br/event/115255"
     },
     {
-      "name": "Aiô, Varanda, Terraço Notiê, Lita, Thai Food Shop, P’Lek Bar, Fôrno e Cora estão entre as casas que aparecem pela primeira vez",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "rooftop"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Marco Nanini e Guilherme Weber estreiam em peÃ§a de Beckett",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "'Viva - A Vida Ã© uma Festa' ganha sessÃµes com orquestra em SP",
+      "name": "Grupo toca nos dias 18 e 19 de outubro na Sala São Paulo; repertório inclui obras de Brahms, Strauss, Elgar e Tchaikovski",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -210,8 +184,30 @@
       "link": ""
     },
     {
-      "name": "Rede de cinemas vende cinco ingressos por R$ 55 em promoÃ§Ã£o",
-      "category": "cinema",
+      "name": "Beth Goulart volta a SÃ£o Paulo com 'Simplesmente Eu, Clarice Lispector'",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "'A Casa dos Budas Ditosos', com Fernanda Torres, ganha datas extras",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "ExposiÃ§Ã£o em SP incentiva crianÃ§as a jogar bolinhas em alvos",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -232,66 +228,69 @@
       "link": ""
     },
     {
-      "name": "Gabriel Leone faz show do seu primeiro disco no Sesc 14 Bis",
-      "category": "sesc",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Veja como assistir a Star Wars pela data de lanÃ§amento e pela linha temporal dos filmes",
-      "category": "cinema",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "K-pop estreia na Virada Cultural de SP com shows gratuitos do grupo 1VERSE",
-      "category": "show",
-      "desc": "K-pop estreia na Virada Cultural de SP com shows gratuitos do grupo 1VERSE",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito",
-        "estreia"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/04/k-pop-estreia-na-virada-cultural-de-sp-com-shows-gratuitos-do-grupo-1verse.ghtml"
-    },
-    {
-      "name": "Museu da Língua Portuguesa terá  festival gratuito com Letrux, Gaviões da Fiel e feira gastronômica; veja programação",
+      "name": "Feira do Livro da Unesp terÃ¡ tÃ­tulos com 50% de desconto em SP",
       "category": "evento",
-      "desc": "Museu da Língua Portuguesa terá  festival gratuito com Letrux, Gaviões da Fiel e feira gastronômica; veja programação",
+      "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "gratuito",
-        "festival",
         "feira"
       ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/02/museu-da-lingua-portuguesa-tera-festival-gratuito-com-letrux-gavioes-da-fiel-e-feira-gastronomica-veja-programacao.ghtml"
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "USP recebe 1º Encontro de Pesquisadores em Influências Digitais entre 4 e 6 de maio",
-      "category": "evento",
-      "desc": "USP recebe 1º Encontro de Pesquisadores em Influências Digitais entre 4 e 6 de maio",
+      "name": "Festival Taste volta Ã  capital paulista em maio com mais de 30 restaurantes",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Coliseu em São Paulo: exposição imersiva leva público da capital à Roma Antiga com realidade virtual impressionante",
+      "category": "bar",
+      "desc": "Coliseu em São Paulo: exposição imersiva leva público da capital à Roma Antiga com realidade virtual impressionante",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/08/coliseu-em-sao-paulo-exposicao-imersiva-leva-publico-da-capital-a-roma-antiga-com-realidade-virtual-impressionante.ghtml"
+    },
+    {
+      "name": "Virada Cultural 2026: Manu Chao volta a SP para show no Vale do Anhangabaú",
+      "category": "show",
+      "desc": "Virada Cultural 2026: Manu Chao volta a SP para show no Vale do Anhangabaú",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/02/usp-recebe-1o-encontro-de-pesquisadores-em-influencias-digitais-entre-4-e-6-de-maio.ghtml"
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/07/virada-cultural-2026-manu-chao-volta-a-sp-para-show-no-vale-do-anhangabau.ghtml"
+    },
+    {
+      "name": "Festival Samba Sampa, passeios de Dia das Mães, peça com Débora Falabella e turnê de 50 anos de Djavan: veja o que fazer em SP",
+      "category": "show",
+      "desc": "Festival Samba Sampa, passeios de Dia das Mães, peça com Débora Falabella e turnê de 50 anos de Djavan: veja o que fazer",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro",
+        "samba",
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/07/festival-samba-sampa-passeios-de-dia-das-maes-peca-com-debora-falabella-maestro-joao-carlos-martins-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
