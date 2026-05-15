@@ -1,5 +1,5 @@
 {
-  "updated_at": "13/05/2026 as 13:11",
+  "updated_at": "15/05/2026 as 12:52",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -37,6 +37,17 @@
       "link": "https://bileto.sympla.com.br/event/107843"
     },
     {
+      "name": "Broadway Experience",
+      "category": "musical",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120707"
+    },
+    {
       "name": "Os Fora da Curva  31 Julho - Sexta 20h30",
       "category": "evento",
       "desc": "",
@@ -46,6 +57,39 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/120612"
+    },
+    {
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110"
+    },
+    {
+      "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118119"
+    },
+    {
+      "name": "Orquestra Sinfônica de Piracicaba - Maio",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120818"
     },
     {
       "name": "A Última Sessão de Freud",
@@ -70,6 +114,17 @@
       "link": "https://bileto.sympla.com.br/event/120117"
     },
     {
+      "name": "Museu da Língua  Portuguesa",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/90834"
+    },
+    {
       "name": "CHOCOTOUR NESTLE 2026",
       "category": "passeio",
       "desc": "",
@@ -81,15 +136,15 @@
       "link": "https://bileto.sympla.com.br/event/114043"
     },
     {
-      "name": "Museu da Língua  Portuguesa",
-      "category": "passeio",
+      "name": "OFICINA - Explorando as moedas bíblicas",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/90834"
+      "link": "https://bileto.sympla.com.br/event/103517"
     },
     {
       "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
@@ -105,28 +160,6 @@
       "link": "https://bileto.sympla.com.br/event/119610"
     },
     {
-      "name": "OFICINA - Explorando as moedas bíblicas",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/103517"
-    },
-    {
-      "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118119"
-    },
-    {
       "name": "PARQUE PICO DAS CABRAS",
       "category": "passeio",
       "desc": "",
@@ -140,42 +173,7 @@
       "link": "https://bileto.sympla.com.br/event/66566"
     },
     {
-      "name": "Sinatra In Concert",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118618"
-    },
-    {
-      "name": "Bee Gees Alive - Americana/SP",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/115255"
-    },
-    {
-      "name": "Aulas Coletivas KIDS",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "infantil"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/113361"
-    },
-    {
-      "name": "Evento acontece de quarta (13) a sexta (15); programação inclui mesas sobre transição energética, economia e geopolítica",
+      "name": "Prática é legal, segundo Procon; valor compensa o que o cliente deixa de consumir quando leva seu rótulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -186,33 +184,31 @@
       "link": ""
     },
     {
-      "name": "Ceagesp terÃ¡ festival servindo sopas em SÃ£o Paulo atÃ© agosto",
+      "name": "Henry Cavill e Jake Gyllenhaal sÃ£o dupla durona em 'Na Zona Cinzenta'",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "festival"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Festival Primavera Sound anuncia lineup com Gorillaz e The Strokes",
-      "category": "evento",
+      "name": "Musical sobre Diana explora a vida e as emoÃ§Ãµes da princesa britÃ¢nica",
+      "category": "musical",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "festival"
+        "musical"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Breakfast Weekend retorna a SP com combos a partir de R$ 39,90",
+      "name": "Gregorio Duvivier e Mateus Solano fazem peÃ§as grÃ¡tis em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -234,8 +230,8 @@
       "link": ""
     },
     {
-      "name": "Solo 'Edson' reconstitui crime polÃ­tico e enfrenta silÃªncio de 1968",
-      "category": "evento",
+      "name": "Korn faz show de nu metal em SÃ£o Paulo no fim de semana",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -245,8 +241,8 @@
       "link": ""
     },
     {
-      "name": "Festival Taste volta Ã  capital paulista em maio com mais de 30 restaurantes",
-      "category": "restaurante",
+      "name": "Festival SÃ£o JulhÃ£o terÃ¡ shows de JoÃ£o Gomes e Calcinha Preta em SÃ£o Paulo",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -258,41 +254,39 @@
       "link": ""
     },
     {
-      "name": "Virada Cultural 2026 de SP: veja a programação completa do evento",
-      "category": "evento",
-      "desc": "Virada Cultural 2026 de SP: veja a programação completa do evento",
+      "name": "Lafetah apresenta músicas do novo álbum 'Doce Sal' em show neste sábado em SP",
+      "category": "show",
+      "desc": "Lafetah apresenta músicas do novo álbum 'Doce Sal' em show neste sábado em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/09/virada-cultural-2026-de-sp-veja-a-programacao-completa-do-evento.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/15/lafetah-apresenta-musicas-do-novo-album-doce-sal-em-show-neste-sabado-em-sp.ghtml"
     },
     {
-      "name": "Exposição gratuita na Zona Oeste de SP reúne fotógrafos de periferias, Amazônia e liderança indígena para celebrar cultura",
+      "name": "Virada Cultural 2026: Gop Tun, Deekapz, Bogotá, Carabao e mais; veja festas e DJs da programação",
       "category": "evento",
-      "desc": "Exposição gratuita na Zona Oeste de SP reúne fotógrafos de periferias, Amazônia e liderança indígena para celebrar cultu",
+      "desc": "Virada Cultural 2026: Gop Tun, Deekapz, Bogotá, Carabao e mais; veja festas e DJs da programação",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "exposicao"
-      ],
+      "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/08/exposicao-gratuita-na-zona-oeste-de-sp-reune-fotografos-de-periferias-amazonia-e-lideranca-indigena-para-celebrar-cultura.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/15/virada-cultural-2026-gop-tun-deekapz-bogota-carabao-e-mais-veja-festas-e-djs-da-programacao.ghtml"
     },
     {
-      "name": "Virada Cultural terá Masp 24 horas de graça, escolas de samba e circuito ampliado no Centro de SP; veja programação completa",
-      "category": "show",
-      "desc": "Virada Cultural terá Masp 24 horas de graça, escolas de samba e circuito ampliado no Centro de SP; veja programação comp",
+      "name": "Feira do Livro no Pacaembu terá 9 dias, 200 atividades gratuitas e programação com 103 autores como Jeferson Tenório e Carla Madeira",
+      "category": "evento",
+      "desc": "Feira do Livro no Pacaembu terá 9 dias, 200 atividades gratuitas e programação com 103 autores como Jeferson Tenório e C",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "samba"
+        "feira"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/08/virada-cultural-tera-masp-24h-de-graca-escolas-de-samba-e-circuito-ampliado-no-centro-de-sp-veja-programacao-completa.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/14/feira-do-livro-no-pacaembu-tera-9-dias-200-atividades-gratuitas-e-programacao-com-103-autores-como-jeferson-tenorio-e-carla-madeira.ghtml"
     }
   ]
 }
