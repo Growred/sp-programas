@@ -1,5 +1,5 @@
 {
-  "updated_at": "15/05/2026 as 12:52",
+  "updated_at": "18/05/2026 as 14:29",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -11,6 +11,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249"
+    },
+    {
+      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119183"
     },
     {
       "name": "Trio Amadeus - Jornada Épica do Clássico ao Rock",
@@ -26,7 +37,7 @@
       "link": "https://bileto.sympla.com.br/event/112149"
     },
     {
-      "name": "ARENA STAR LASER",
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -34,146 +45,10 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/107843"
+      "link": "https://bileto.sympla.com.br/event/71195"
     },
     {
-      "name": "Broadway Experience",
-      "category": "musical",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120707"
-    },
-    {
-      "name": "Os Fora da Curva  31 Julho - Sexta 20h30",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120612"
-    },
-    {
-      "name": "Museu do Futebol",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/96110"
-    },
-    {
-      "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118119"
-    },
-    {
-      "name": "Orquestra Sinfônica de Piracicaba - Maio",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120818"
-    },
-    {
-      "name": "A Última Sessão de Freud",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118446"
-    },
-    {
-      "name": "AVENTURA CONGELANTE NO PATINAÇÃO NO GELO NO JUNDIAÍ SHOPPING",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120117"
-    },
-    {
-      "name": "Museu da Língua  Portuguesa",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/90834"
-    },
-    {
-      "name": "CHOCOTOUR NESTLE 2026",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/114043"
-    },
-    {
-      "name": "OFICINA - Explorando as moedas bíblicas",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/103517"
-    },
-    {
-      "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119610"
-    },
-    {
-      "name": "PARQUE PICO DAS CABRAS",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "ao-ar-livre"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/66566"
-    },
-    {
-      "name": "Prática é legal, segundo Procon; valor compensa o que o cliente deixa de consumir quando leva seu rótulo",
+      "name": "Exposições sobre Edo Rocha e Paulo Mendes da Rocha trazem panoramas do legado de grandes arquitetos",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -184,65 +59,8 @@
       "link": ""
     },
     {
-      "name": "Henry Cavill e Jake Gyllenhaal sÃ£o dupla durona em 'Na Zona Cinzenta'",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Musical sobre Diana explora a vida e as emoÃ§Ãµes da princesa britÃ¢nica",
-      "category": "musical",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "musical"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Gregorio Duvivier e Mateus Solano fazem peÃ§as grÃ¡tis em SÃ£o Paulo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Comer na Casa Rios Ã© uma aula sobre o que o fogo Ã© capaz. Tanto que o cardÃ¡pio nÃ£o faz distinÃ§Ã£o do que Ã© entrada ou principal. Em vez disso, separa os preparos em lenha, brasa, defumaÃ§Ã£o e grelhados. Na prÃ¡tica, algumas receitas passam por mais de um desses processos.",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Korn faz show de nu metal em SÃ£o Paulo no fim de semana",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Festival SÃ£o JulhÃ£o terÃ¡ shows de JoÃ£o Gomes e Calcinha Preta em SÃ£o Paulo",
-      "category": "show",
+      "name": "Festival grÃ¡tis leva k-pop e comida coreana ao largo da Batata",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -254,6 +72,92 @@
       "link": ""
     },
     {
+      "name": "Unesp celebra 50 anos com feira do livro e palestras grÃ¡tis",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "feira"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Juliana Linhares e Laila Garin cantam histÃ³rias de morte",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "O Ixe revelou-se um lugar eclÃ©tico em termos de sabor. DÃ¡ para ir com aquele amigo que prefere um lanche saudÃ¡vel (caso do beirute de brÃ³colis com homus de abÃ³bora), com aquele outro que prefere combinaÃ§Ãµes ousadas (como o hambÃºrguer de linguiÃ§a e barbecue de goiabada) e com quem curte uma cozinha fusion (Ã© atraente o frango coreano, com toques agridoces e maionese apimentada).",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Poetas pensam o mundo pelo olhar da arte em festival",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "ExposiÃ§Ã£o na Pinacoteca revela processo criativo de Beatriz Milhazes em gravuras",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "'Cardeais do Samba': coleção de livros reúne histórias de cinco nomes que ajudaram a construir o samba paulista",
+      "category": "show",
+      "desc": "'Cardeais do Samba': coleção de livros reúne histórias de cinco nomes que ajudaram a construir o samba paulista",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "samba"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/17/cardeais-do-samba-colecao-de-livros-reune-historias-de-cinco-nomes-que-ajudaram-a-construir-o-samba-paulista.ghtml"
+    },
+    {
+      "name": "Festival cultural em SP tem shows, peças, humor e atrações com Mateus Solano e Gregorio Duvivier de graça",
+      "category": "show",
+      "desc": "Festival cultural em SP tem shows, peças, humor e atrações com Mateus Solano e Gregorio Duvivier de graça",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro",
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/15/festival-cultural-em-sp-tem-shows-pecas-humor-e-atracoes-com-mateus-solano-e-gregorio-duvivier-de-graca.ghtml"
+    },
+    {
       "name": "Lafetah apresenta músicas do novo álbum 'Doce Sal' em show neste sábado em SP",
       "category": "show",
       "desc": "Lafetah apresenta músicas do novo álbum 'Doce Sal' em show neste sábado em SP",
@@ -263,30 +167,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/15/lafetah-apresenta-musicas-do-novo-album-doce-sal-em-show-neste-sabado-em-sp.ghtml"
-    },
-    {
-      "name": "Virada Cultural 2026: Gop Tun, Deekapz, Bogotá, Carabao e mais; veja festas e DJs da programação",
-      "category": "evento",
-      "desc": "Virada Cultural 2026: Gop Tun, Deekapz, Bogotá, Carabao e mais; veja festas e DJs da programação",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/15/virada-cultural-2026-gop-tun-deekapz-bogota-carabao-e-mais-veja-festas-e-djs-da-programacao.ghtml"
-    },
-    {
-      "name": "Feira do Livro no Pacaembu terá 9 dias, 200 atividades gratuitas e programação com 103 autores como Jeferson Tenório e Carla Madeira",
-      "category": "evento",
-      "desc": "Feira do Livro no Pacaembu terá 9 dias, 200 atividades gratuitas e programação com 103 autores como Jeferson Tenório e C",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/14/feira-do-livro-no-pacaembu-tera-9-dias-200-atividades-gratuitas-e-programacao-com-103-autores-como-jeferson-tenorio-e-carla-madeira.ghtml"
     }
   ]
 }
