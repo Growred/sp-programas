@@ -1,5 +1,5 @@
 {
-  "updated_at": "18/05/2026 as 14:29",
+  "updated_at": "20/05/2026 as 13:37",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -13,15 +13,15 @@
       "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249"
     },
     {
-      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP",
-      "category": "passeio",
+      "name": "Echoes Pink Floyd - PULSE",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119183"
+      "link": "https://bileto.sympla.com.br/event/120619"
     },
     {
       "name": "Trio Amadeus - Jornada Épica do Clássico ao Rock",
@@ -48,7 +48,156 @@
       "link": "https://bileto.sympla.com.br/event/71195"
     },
     {
-      "name": "Exposições sobre Edo Rocha e Paulo Mendes da Rocha trazem panoramas do legado de grandes arquitetos",
+      "name": "ARENA STAR LASER",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107843"
+    },
+    {
+      "name": "Red Flame - Tributo ao Simply Red  29 agosto  Sábado 20h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120962"
+    },
+    {
+      "name": "Os Fora da Curva  31 Julho - Sexta 20h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120612"
+    },
+    {
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110"
+    },
+    {
+      "name": "ROXINNER: UMA HOMENAGEM AO ROXETTE  27 Junho  Sábado 21h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120779"
+    },
+    {
+      "name": "PATINAÇÃO NO GELO JUNDIAÍ ON ICE",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120117"
+    },
+    {
+      "name": "Museu da Língua  Portuguesa",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/90834"
+    },
+    {
+      "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119610"
+    },
+    {
+      "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118119"
+    },
+    {
+      "name": "PARQUE PICO DAS CABRAS",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "ao-ar-livre"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/66566"
+    },
+    {
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618"
+    },
+    {
+      "name": "Exibições especiais sonorizam ao vivo filmes dos anos 1980; espetáculos de teatro em cartaz ganham sessões gratuitas no fim de semana",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Evento grÃ¡tis sobre oceanos em SÃ£o Paulo terÃ¡ show de BNegÃ£o",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja onde trocar figurinhas da Copa do Mundo 2026 repetidas",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -59,33 +208,7 @@
       "link": ""
     },
     {
-      "name": "Festival grÃ¡tis leva k-pop e comida coreana ao largo da Batata",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Unesp celebra 50 anos com feira do livro e palestras grÃ¡tis",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Juliana Linhares e Laila Garin cantam histÃ³rias de morte",
+      "name": "Evento grÃ¡tis junta cientistas e populaÃ§Ã£o nos bares de SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -107,20 +230,7 @@
       "link": ""
     },
     {
-      "name": "Poetas pensam o mundo pelo olhar da arte em festival",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ExposiÃ§Ã£o na Pinacoteca revela processo criativo de Beatriz Milhazes em gravuras",
+      "name": "Romy, integrante do The xx, apresenta DJ set na ZigStudio",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -131,42 +241,52 @@
       "link": ""
     },
     {
-      "name": "'Cardeais do Samba': coleção de livros reúne histórias de cinco nomes que ajudaram a construir o samba paulista",
-      "category": "show",
-      "desc": "'Cardeais do Samba': coleção de livros reúne histórias de cinco nomes que ajudaram a construir o samba paulista",
+      "name": "'7 Leituras' comeÃ§a sua ediÃ§Ã£o de 20 anos com peÃ§a adaptada por Hitchcock",
+      "category": "evento",
+      "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "samba"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/17/cardeais-do-samba-colecao-de-livros-reune-historias-de-cinco-nomes-que-ajudaram-a-construir-o-samba-paulista.ghtml"
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "Festival cultural em SP tem shows, peças, humor e atrações com Mateus Solano e Gregorio Duvivier de graça",
+      "name": "Copa com Neymar: Arena Brasileira em SP terá transmissão dos jogos e shows de Anitta, Ivete e Caetano; veja programação",
       "category": "show",
-      "desc": "Festival cultural em SP tem shows, peças, humor e atrações com Mateus Solano e Gregorio Duvivier de graça",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro",
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/15/festival-cultural-em-sp-tem-shows-pecas-humor-e-atracoes-com-mateus-solano-e-gregorio-duvivier-de-graca.ghtml"
-    },
-    {
-      "name": "Lafetah apresenta músicas do novo álbum 'Doce Sal' em show neste sábado em SP",
-      "category": "show",
-      "desc": "Lafetah apresenta músicas do novo álbum 'Doce Sal' em show neste sábado em SP",
+      "desc": "Copa com Neymar: Arena Brasileira em SP terá transmissão dos jogos e shows de Anitta, Ivete e Caetano; veja programação",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/15/lafetah-apresenta-musicas-do-novo-album-doce-sal-em-show-neste-sabado-em-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/19/jogos-da-copa-arena-brasileira-em-sp-tera-transmissao-e-shows-de-anitta-ivete-e-caetano-veja-programacao.ghtml"
+    },
+    {
+      "name": "Museu do Ipiranga ocupa estação de metrô com exposição gratuita e provoca público: 'Dom Pedro I nunca morou aqui'",
+      "category": "bar",
+      "desc": "Museu do Ipiranga ocupa estação de metrô com exposição gratuita e provoca público: 'Dom Pedro I nunca morou aqui'",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/19/museu-do-ipiranga-ocupa-estacao-de-metro-com-exposicao-gratuita-e-provoca-publico-dom-pedro-i-nunca-morou-aqui.ghtml"
+    },
+    {
+      "name": "Mostra de cinema em SP recebe inscrições gratuitas para curtas; exibições acontecem no Cine Belas Artes, MIS e mais",
+      "category": "cinema",
+      "desc": "Mostra de cinema em SP recebe inscrições gratuitas para curtas; exibições acontecem no Cine Belas Artes, MIS e mais",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/18/mostra-de-cinema-em-sp-recebe-inscricoes-gratuitas-para-curtas-exibicoes-acontecem-no-cine-belas-artes-mis-e-mais.ghtml"
     }
   ]
 }
