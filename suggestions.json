@@ -1,5 +1,5 @@
 {
-  "updated_at": "20/05/2026 as 13:37",
+  "updated_at": "22/05/2026 as 13:31",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -11,6 +11,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249"
+    },
+    {
+      "name": "47ª Quermesse do Centenário da Igreja do Calvário",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120982"
     },
     {
       "name": "Echoes Pink Floyd - PULSE",
@@ -70,6 +81,72 @@
       "link": "https://bileto.sympla.com.br/event/120962"
     },
     {
+      "name": "Queen Music Tribute  16 Agosto  Domingo 18h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118059"
+    },
+    {
+      "name": "Tributo Bon Jovi Bavini  Sábado, 12 de setembro às 20h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121192"
+    },
+    {
+      "name": "A Música dos GAMES, com a MOV Orquestra  11 julho  Sábado às 21h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121156"
+    },
+    {
+      "name": "Tributo a Andrea Boccelli  Sexta  10 julho às 20h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121151"
+    },
+    {
+      "name": "K-Pop Odyssey – A Maior Experiência do K-Pop Ao Vivo  Domingo 12 Julho às 17h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121164"
+    },
+    {
+      "name": "ROXINNER: UMA HOMENAGEM AO ROXETTE  18 Julho  Sábado 20h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120779"
+    },
+    {
       "name": "Os Fora da Curva  31 Julho - Sexta 20h30",
       "category": "evento",
       "desc": "",
@@ -92,112 +169,29 @@
       "link": "https://bileto.sympla.com.br/event/96110"
     },
     {
-      "name": "ROXINNER: UMA HOMENAGEM AO ROXETTE  27 Junho  Sábado 21h",
-      "category": "evento",
+      "name": "Além da isenção total, há restaurantes que não fazem cobrança durante dias fixos da semana e que criam condições especiais ao cliente",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120779"
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "PATINAÇÃO NO GELO JUNDIAÍ ON ICE",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120117"
-    },
-    {
-      "name": "Museu da Língua  Portuguesa",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/90834"
-    },
-    {
-      "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119610"
-    },
-    {
-      "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118119"
-    },
-    {
-      "name": "PARQUE PICO DAS CABRAS",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "ao-ar-livre"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/66566"
-    },
-    {
-      "name": "Sinatra In Concert",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118618"
-    },
-    {
-      "name": "Exibições especiais sonorizam ao vivo filmes dos anos 1980; espetáculos de teatro em cartaz ganham sessões gratuitas no fim de semana",
+      "name": "'O Mandaloriano e Grogu', filme de Star Wars, chega aos cinemas",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Evento grÃ¡tis sobre oceanos em SÃ£o Paulo terÃ¡ show de BNegÃ£o",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
       "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Veja onde trocar figurinhas da Copa do Mundo 2026 repetidas",
+      "name": "ExposiÃ§Ã£o explica por que a seleÃ§Ã£o brasileira decidiu trocar cores",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -208,7 +202,7 @@
       "link": ""
     },
     {
-      "name": "Evento grÃ¡tis junta cientistas e populaÃ§Ã£o nos bares de SÃ£o Paulo",
+      "name": "Lilia Cabral interpreta Rita Lee em novo espetÃ¡culo em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -230,63 +224,69 @@
       "link": ""
     },
     {
-      "name": "Romy, integrante do The xx, apresenta DJ set na ZigStudio",
+      "name": "Festival Churrascada em SÃ£o Paulo estÃ¡ com ingressos Ã  venda",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "festival"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "'7 Leituras' comeÃ§a sua ediÃ§Ã£o de 20 anos com peÃ§a adaptada por Hitchcock",
+      "name": "Teatro na Virada Cultural tem Guilherme Weber, Marco Nanini e peÃ§a de Chico Buarque",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "teatro"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Copa com Neymar: Arena Brasileira em SP terá transmissão dos jogos e shows de Anitta, Ivete e Caetano; veja programação",
-      "category": "show",
-      "desc": "Copa com Neymar: Arena Brasileira em SP terá transmissão dos jogos e shows de Anitta, Ivete e Caetano; veja programação",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/19/jogos-da-copa-arena-brasileira-em-sp-tera-transmissao-e-shows-de-anitta-ivete-e-caetano-veja-programacao.ghtml"
-    },
-    {
-      "name": "Museu do Ipiranga ocupa estação de metrô com exposição gratuita e provoca público: 'Dom Pedro I nunca morou aqui'",
-      "category": "bar",
-      "desc": "Museu do Ipiranga ocupa estação de metrô com exposição gratuita e provoca público: 'Dom Pedro I nunca morou aqui'",
+      "name": "Curta rodado em São Paulo ganha prêmio no Festival de Cannes",
+      "category": "evento",
+      "desc": "Curta rodado em São Paulo ganha prêmio no Festival de Cannes",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "exposicao"
+        "festival"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/19/museu-do-ipiranga-ocupa-estacao-de-metro-com-exposicao-gratuita-e-provoca-publico-dom-pedro-i-nunca-morou-aqui.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/21/curta-rodado-em-sao-paulo-ganha-premio-no-festival-de-cannes.ghtml"
     },
     {
-      "name": "Mostra de cinema em SP recebe inscrições gratuitas para curtas; exibições acontecem no Cine Belas Artes, MIS e mais",
-      "category": "cinema",
-      "desc": "Mostra de cinema em SP recebe inscrições gratuitas para curtas; exibições acontecem no Cine Belas Artes, MIS e mais",
+      "name": "Antonio Fagundes remonta em SP comédia inspirada em situações reais do teatro: 'O palco é sagrado'",
+      "category": "evento",
+      "desc": "Antonio Fagundes remonta em SP comédia inspirada em situações reais do teatro: 'O palco é sagrado'",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "exposicao"
+        "teatro"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/18/mostra-de-cinema-em-sp-recebe-inscricoes-gratuitas-para-curtas-exibicoes-acontecem-no-cine-belas-artes-mis-e-mais.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/21/antonio-fagundes-remonta-em-sp-comedia-inspirada-em-situacoes-reais-do-teatro-o-palco-e-sagrado.ghtml"
+    },
+    {
+      "name": "Virada Cultural, Arnaldo Antunes com Marisa Monte, Nando Reis, Igor Guimarães, feira de adoção de pets: veja o que fazer em SP",
+      "category": "evento",
+      "desc": "Virada Cultural, Arnaldo Antunes com Marisa Monte, Nando Reis, Igor Guimarães, feira de adoção de pets: veja o que fazer",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "feira"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/21/virada-cultural-arnaldo-antunes-com-marisa-monte-nando-reis-igor-guimaraes-feira-de-adocao-de-pets-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
