@@ -1,5 +1,5 @@
 {
-  "updated_at": "22/05/2026 as 13:31",
+  "updated_at": "25/05/2026 as 14:07",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -22,30 +22,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/120982"
-    },
-    {
-      "name": "Echoes Pink Floyd - PULSE",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120619"
-    },
-    {
-      "name": "Trio Amadeus - Jornada Épica do Clássico ao Rock",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "rock"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/112149"
     },
     {
       "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
@@ -158,7 +134,29 @@
       "link": "https://bileto.sympla.com.br/event/120612"
     },
     {
-      "name": "Museu do Futebol",
+      "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118119"
+    },
+    {
+      "name": "George Michael Tribute - 12 junho  Sexta 20h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120236"
+    },
+    {
+      "name": "Museu da Língua  Portuguesa",
       "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -166,16 +164,18 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/96110"
+      "link": "https://bileto.sympla.com.br/event/90834"
     },
     {
-      "name": "Além da isenção total, há restaurantes que não fazem cobrança durante dias fixos da semana e que criam condições especiais ao cliente",
-      "category": "restaurante",
+      "name": "Programação da 21ª edição do evento inclui entrada gratuita no Museu do Ipiranga e peças como 'Gota DÁgua' e 'Hamlet, Sonhos Que Virão'",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "teatro"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -202,24 +202,28 @@
       "link": ""
     },
     {
-      "name": "Lilia Cabral interpreta Rita Lee em novo espetÃ¡culo em SÃ£o Paulo",
-      "category": "evento",
+      "name": "Festival Taste terÃ¡ aula do chef Rodrigo Oliveira, do MocotÃ³",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "festival"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "O Ixe revelou-se um lugar eclÃ©tico em termos de sabor. DÃ¡ para ir com aquele amigo que prefere um lanche saudÃ¡vel (caso do beirute de brÃ³colis com homus de abÃ³bora), com aquele outro que prefere combinaÃ§Ãµes ousadas (como o hambÃºrguer de linguiÃ§a e barbecue de goiabada) e com quem curte uma cozinha fusion (Ã© atraente o frango coreano, com toques agridoces e maionese apimentada).",
-      "category": "evento",
+      "name": "O nome sugere e o garÃ§om afirma que a casa entrega a autÃªntica pizza napolitana. Mas mora aÃ­ certo exagero. Se seguido Ã  risca, esse mÃ©todo de produÃ§Ã£o dÃ¡ pouca margem a erros. E a massa da NaâPizza, apesar de gostosa e com boa elasticidade, ainda precisa de acertos.",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "pizza"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -237,17 +241,26 @@
       "link": ""
     },
     {
-      "name": "Teatro na Virada Cultural tem Guilherme Weber, Marco Nanini e peÃ§a de Chico Buarque",
-      "category": "evento",
+      "name": "Arena palmeirense segue invicta para megashows em SÃ£o Paulo",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "teatro"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Sob chuva e frio de 16ºC, público lota Centro de SP no 1º dia da Virada Cultural; cultura do Pará domina madrugada",
+      "category": "bar",
+      "desc": "Sob chuva e frio de 16ºC, público lota Centro de SP no 1º dia da Virada Cultural; cultura do Pará domina madrugada",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/24/sob-chuva-e-frio-de-16oc-publico-lota-centro-de-sp-no-1o-dia-da-virada-cultural-cultura-do-para-domina-madrugada.ghtml"
     },
     {
       "name": "Curta rodado em São Paulo ganha prêmio no Festival de Cannes",
@@ -274,19 +287,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/21/antonio-fagundes-remonta-em-sp-comedia-inspirada-em-situacoes-reais-do-teatro-o-palco-e-sagrado.ghtml"
-    },
-    {
-      "name": "Virada Cultural, Arnaldo Antunes com Marisa Monte, Nando Reis, Igor Guimarães, feira de adoção de pets: veja o que fazer em SP",
-      "category": "evento",
-      "desc": "Virada Cultural, Arnaldo Antunes com Marisa Monte, Nando Reis, Igor Guimarães, feira de adoção de pets: veja o que fazer",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/21/virada-cultural-arnaldo-antunes-com-marisa-monte-nando-reis-igor-guimaraes-feira-de-adocao-de-pets-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
