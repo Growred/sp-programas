@@ -1,5 +1,5 @@
 {
-  "updated_at": "25/05/2026 as 14:07",
+  "updated_at": "27/05/2026 as 14:26",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -13,7 +13,7 @@
       "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249"
     },
     {
-      "name": "47ª Quermesse do Centenário da Igreja do Calvário",
+      "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -21,7 +21,7 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120982"
+      "link": "https://bileto.sympla.com.br/event/118193"
     },
     {
       "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
@@ -79,6 +79,17 @@
       "link": "https://bileto.sympla.com.br/event/121192"
     },
     {
+      "name": "O Que Tem na Cozinha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96122"
+    },
+    {
       "name": "A Música dos GAMES, com a MOV Orquestra  11 julho  Sábado às 21h",
       "category": "evento",
       "desc": "",
@@ -90,17 +101,6 @@
       "link": "https://bileto.sympla.com.br/event/121156"
     },
     {
-      "name": "Tributo a Andrea Boccelli  Sexta  10 julho às 20h30",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/121151"
-    },
-    {
       "name": "K-Pop Odyssey – A Maior Experiência do K-Pop Ao Vivo  Domingo 12 Julho às 17h30",
       "category": "evento",
       "desc": "",
@@ -110,6 +110,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/121164"
+    },
+    {
+      "name": "Tributo a Andrea Boccelli  Sexta  10 julho às 20h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121151"
     },
     {
       "name": "ROXINNER: UMA HOMENAGEM AO ROXETTE  18 Julho  Sábado 20h",
@@ -134,6 +145,17 @@
       "link": "https://bileto.sympla.com.br/event/120612"
     },
     {
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110"
+    },
+    {
       "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
       "category": "evento",
       "desc": "",
@@ -145,42 +167,20 @@
       "link": "https://bileto.sympla.com.br/event/118119"
     },
     {
-      "name": "George Michael Tribute - 12 junho  Sexta 20h30",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120236"
-    },
-    {
-      "name": "Museu da Língua  Portuguesa",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/90834"
-    },
-    {
-      "name": "Programação da 21ª edição do evento inclui entrada gratuita no Museu do Ipiranga e peças como 'Gota DÁgua' e 'Hamlet, Sonhos Que Virão'",
-      "category": "evento",
+      "name": "CTN dá início à agenda que celebra São João na sexta (29); parque Villa-Lobos recebe comidas típicas e shows a partir de sábado (30)",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "teatro"
+        "ao-ar-livre"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "'O Mandaloriano e Grogu', filme de Star Wars, chega aos cinemas",
+      "name": "Cinemark tem combo de ingresso com pipoca por R$ 39,50",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -191,8 +191,8 @@
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o explica por que a seleÃ§Ã£o brasileira decidiu trocar cores",
-      "category": "evento",
+      "name": "Man With a Mission, que toca mÃºsicas de animes, faz show em SP",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -202,15 +202,13 @@
       "link": ""
     },
     {
-      "name": "Festival Taste terÃ¡ aula do chef Rodrigo Oliveira, do MocotÃ³",
-      "category": "restaurante",
+      "name": "Fogo de ChÃ£o oferece cortes suÃ­nos em rodÃ­zio; veja novidades",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "festival"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -228,20 +226,7 @@
       "link": ""
     },
     {
-      "name": "Festival Churrascada em SÃ£o Paulo estÃ¡ com ingressos Ã  venda",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Arena palmeirense segue invicta para megashows em SÃ£o Paulo",
+      "name": "Veja como comprar ingressos para show de Mariah Carey",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -252,41 +237,48 @@
       "link": ""
     },
     {
-      "name": "Sob chuva e frio de 16ºC, público lota Centro de SP no 1º dia da Virada Cultural; cultura do Pará domina madrugada",
-      "category": "bar",
-      "desc": "Sob chuva e frio de 16ºC, público lota Centro de SP no 1º dia da Virada Cultural; cultura do Pará domina madrugada",
+      "name": "Outback relanÃ§a fondue doce e salgada apÃ³s trÃªs anos fora do cardÃ¡pio",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Parada LGBT+ de SP terá shows de Gloria Groove, Pepita e Melody; veja atrações confirmadas",
+      "category": "show",
+      "desc": "Parada LGBT+ de SP terá shows de Gloria Groove, Pepita e Melody; veja atrações confirmadas",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/24/sob-chuva-e-frio-de-16oc-publico-lota-centro-de-sp-no-1o-dia-da-virada-cultural-cultura-do-para-domina-madrugada.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/27/parada-lgbt-de-sp-tera-shows-de-gloria-groove-pepita-e-melody-veja-atracoes-confirmadas.ghtml"
     },
     {
-      "name": "Curta rodado em São Paulo ganha prêmio no Festival de Cannes",
-      "category": "evento",
-      "desc": "Curta rodado em São Paulo ganha prêmio no Festival de Cannes",
+      "name": "Mariah Carey confirma shows de Natal em São Paulo e no Rio em novembro",
+      "category": "show",
+      "desc": "Mariah Carey confirma shows de Natal em São Paulo e no Rio em novembro",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "festival"
-      ],
+      "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/21/curta-rodado-em-sao-paulo-ganha-premio-no-festival-de-cannes.ghtml"
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/26/mariah-carey-fara-show-em-sao-paulo-em-2026.ghtml"
     },
     {
-      "name": "Antonio Fagundes remonta em SP comédia inspirada em situações reais do teatro: 'O palco é sagrado'",
+      "name": "Fernanda Torres volta aos palcos de SP com o monólogo 'A Casa dos Budas Ditosos'",
       "category": "evento",
-      "desc": "Antonio Fagundes remonta em SP comédia inspirada em situações reais do teatro: 'O palco é sagrado'",
+      "desc": "Fernanda Torres volta aos palcos de SP com o monólogo 'A Casa dos Budas Ditosos'",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "teatro"
-      ],
+      "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/21/antonio-fagundes-remonta-em-sp-comedia-inspirada-em-situacoes-reais-do-teatro-o-palco-e-sagrado.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/26/fernanda-torres-volta-aos-palcos-de-sp-com-o-monologo-a-casa-dos-budas-ditosos.ghtml"
     }
   ]
 }
