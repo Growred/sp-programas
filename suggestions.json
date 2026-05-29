@@ -1,5 +1,5 @@
 {
-  "updated_at": "27/05/2026 as 14:26",
+  "updated_at": "29/05/2026 as 13:58",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -22,6 +22,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118193"
+    },
+    {
+      "name": "MUSEU DAS CULTURAS INDÍGENAS",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/95807"
     },
     {
       "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
@@ -101,6 +112,17 @@
       "link": "https://bileto.sympla.com.br/event/121156"
     },
     {
+      "name": "DUELO DE DIVAS – TAYLOR SWIFT X SHANIA TWAIN  02 agosto  Domingo 19h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121497"
+    },
+    {
       "name": "K-Pop Odyssey – A Maior Experiência do K-Pop Ao Vivo  Domingo 12 Julho às 17h30",
       "category": "evento",
       "desc": "",
@@ -145,30 +167,8 @@
       "link": "https://bileto.sympla.com.br/event/120612"
     },
     {
-      "name": "Museu do Futebol",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/96110"
-    },
-    {
-      "name": "DANCING DAYS NIGHT 2026 - 30 ANOS DE FESTA",
+      "name": "Com entrada gratuita, são mais de cem convidados reunidos na praça Charles Miller; festa tem debates sobre literatura, ciência e jornalismo",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118119"
-    },
-    {
-      "name": "CTN dá início à agenda que celebra São João na sexta (29); parque Villa-Lobos recebe comidas típicas e shows a partir de sábado (30)",
-      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -180,105 +180,107 @@
       "link": ""
     },
     {
-      "name": "Cinemark tem combo de ingresso com pipoca por R$ 39,50",
+      "name": "De transporte a alimentaÃ§Ã£o, veja como aproveitar o evento",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Pedro AlmodÃ³var reflete sobre bloqueio criativo em 'Natal Amargo'",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Charlie Brown Jr. e Bruno e Marrone fazem shows em SÃ£o Paulo",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "No TerraÃ§o NotiÃª, as selfies sÃ£o estimuladas por neons que formam expressÃµes como fruto proibido ou sÃ³ nos resta viver. NÃ£o basta a beleza do Theatro Municipal ao fundo. Ã preciso posar ao lado de uma frase cafona ou do sÃ­mbolo do cartÃ£o de crÃ©dito que patrocina o espaÃ§o",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Maroon 5 anuncia shows no Brasil; veja como comprar ingressos",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "PeÃ§a Lado B de 'Hamlet' estreia no cinema desativado do Copan, em SP",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Man With a Mission, que toca mÃºsicas de animes, faz show em SP",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Fogo de ChÃ£o oferece cortes suÃ­nos em rodÃ­zio; veja novidades",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "O nome sugere e o garÃ§om afirma que a casa entrega a autÃªntica pizza napolitana. Mas mora aÃ­ certo exagero. Se seguido Ã  risca, esse mÃ©todo de produÃ§Ã£o dÃ¡ pouca margem a erros. E a massa da NaâPizza, apesar de gostosa e com boa elasticidade, ainda precisa de acertos.",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
       "tags": [
-        "pizza"
+        "estreia"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Veja como comprar ingressos para show de Mariah Carey",
+      "name": "Festa de São Vito, Fundo de Quintal, troca de figurinha da Copa no Ibirapuera e Marilyn Monroe no MIS; veja o que fazer em SP",
       "category": "show",
-      "desc": "",
+      "desc": "Festa de São Vito, Fundo de Quintal, troca de figurinha da Copa no Ibirapuera e Marilyn Monroe no MIS; veja o que fazer ",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/29/festa-de-sao-vito-fundo-de-quintal-troca-de-figurinha-da-copa-no-ibirapuera-e-marilyn-monroe-no-mis-veja-o-que-fazer-em-sp.ghtml"
     },
     {
-      "name": "Outback relanÃ§a fondue doce e salgada apÃ³s trÃªs anos fora do cardÃ¡pio",
+      "name": "Poc Con 2026: maior feira LGBT+ de quadrinhos da América Latina reúne mais de 220 artistas em SP; veja programação",
       "category": "evento",
-      "desc": "",
+      "desc": "Poc Con 2026: maior feira LGBT+ de quadrinhos da América Latina reúne mais de 220 artistas em SP; veja programação",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Parada LGBT+ de SP terá shows de Gloria Groove, Pepita e Melody; veja atrações confirmadas",
-      "category": "show",
-      "desc": "Parada LGBT+ de SP terá shows de Gloria Groove, Pepita e Melody; veja atrações confirmadas",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
+      "tags": [
+        "feira"
+      ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/27/parada-lgbt-de-sp-tera-shows-de-gloria-groove-pepita-e-melody-veja-atracoes-confirmadas.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/28/poc-con-2026-maior-feira-lgbt-de-quadrinhos-da-america-latina-reune-mais-de-220-artistas-em-sp-veja-programacao.ghtml"
     },
     {
-      "name": "Mariah Carey confirma shows de Natal em São Paulo e no Rio em novembro",
-      "category": "show",
-      "desc": "Mariah Carey confirma shows de Natal em São Paulo e no Rio em novembro",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/26/mariah-carey-fara-show-em-sao-paulo-em-2026.ghtml"
-    },
-    {
-      "name": "Fernanda Torres volta aos palcos de SP com o monólogo 'A Casa dos Budas Ditosos'",
+      "name": "Pabllo Vittar e Urias são confirmadas como atrações da Parada LGBT+ de SP",
       "category": "evento",
-      "desc": "Fernanda Torres volta aos palcos de SP com o monólogo 'A Casa dos Budas Ditosos'",
+      "desc": "Pabllo Vittar e Urias são confirmadas como atrações da Parada LGBT+ de SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/26/fernanda-torres-volta-aos-palcos-de-sp-com-o-monologo-a-casa-dos-budas-ditosos.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/28/pabllo-vittar-e-urias-sao-confirmadas-como-atracoes-da-parada-lgbt-de-sp.ghtml"
     }
   ]
 }
