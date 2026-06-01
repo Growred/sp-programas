@@ -1,5 +1,5 @@
 {
-  "updated_at": "29/05/2026 as 13:58",
+  "updated_at": "01/06/2026 as 16:36",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -57,6 +57,17 @@
       "link": "https://bileto.sympla.com.br/event/107843"
     },
     {
+      "name": "“a-ha Experience”   21 Agosto  Sexta 20h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121675"
+    },
+    {
       "name": "Red Flame - Tributo ao Simply Red  29 agosto  Sábado 20h",
       "category": "evento",
       "desc": "",
@@ -90,17 +101,6 @@
       "link": "https://bileto.sympla.com.br/event/121192"
     },
     {
-      "name": "O Que Tem na Cozinha",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/96122"
-    },
-    {
       "name": "A Música dos GAMES, com a MOV Orquestra  11 julho  Sábado às 21h",
       "category": "evento",
       "desc": "",
@@ -110,17 +110,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/121156"
-    },
-    {
-      "name": "DUELO DE DIVAS – TAYLOR SWIFT X SHANIA TWAIN  02 agosto  Domingo 19h",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/121497"
     },
     {
       "name": "K-Pop Odyssey – A Maior Experiência do K-Pop Ao Vivo  Domingo 12 Julho às 17h30",
@@ -167,6 +156,17 @@
       "link": "https://bileto.sympla.com.br/event/120612"
     },
     {
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110"
+    },
+    {
       "name": "Com entrada gratuita, são mais de cem convidados reunidos na praça Charles Miller; festa tem debates sobre literatura, ciência e jornalismo",
       "category": "evento",
       "desc": "",
@@ -191,13 +191,15 @@
       "link": ""
     },
     {
-      "name": "Pedro AlmodÃ³var reflete sobre bloqueio criativo em 'Natal Amargo'",
+      "name": "Mostra Ecofalante tem longa produzido por Leonardo DiCaprio",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "exposicao"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -248,13 +250,26 @@
       "link": ""
     },
     {
-      "name": "Festa de São Vito, Fundo de Quintal, troca de figurinha da Copa no Ibirapuera e Marilyn Monroe no MIS; veja o que fazer em SP",
-      "category": "show",
-      "desc": "Festa de São Vito, Fundo de Quintal, troca de figurinha da Copa no Ibirapuera e Marilyn Monroe no MIS; veja o que fazer ",
+      "name": "Festas juninas em SP: guia reúne as melhores quermesses e os maiores arraiás de 2026",
+      "category": "evento",
+      "desc": "Festas juninas em SP: guia reúne as melhores quermesses e os maiores arraiás de 2026",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/01/festas-juninas-em-sp-guia-reune-as-melhores-quermesses-e-os-maiores-arraias-de-2026.ghtml"
+    },
+    {
+      "name": "Veja o que fazer em SP: Festa de São Vito, Fundo de Quintal, troca de figurinha da Copa, Feira do Livro e Marilyn Monroe no MIS",
+      "category": "evento",
+      "desc": "Veja o que fazer em SP: Festa de São Vito, Fundo de Quintal, troca de figurinha da Copa, Feira do Livro e Marilyn Monroe",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "feira"
+      ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/29/festa-de-sao-vito-fundo-de-quintal-troca-de-figurinha-da-copa-no-ibirapuera-e-marilyn-monroe-no-mis-veja-o-que-fazer-em-sp.ghtml"
     },
@@ -270,17 +285,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/28/poc-con-2026-maior-feira-lgbt-de-quadrinhos-da-america-latina-reune-mais-de-220-artistas-em-sp-veja-programacao.ghtml"
-    },
-    {
-      "name": "Pabllo Vittar e Urias são confirmadas como atrações da Parada LGBT+ de SP",
-      "category": "evento",
-      "desc": "Pabllo Vittar e Urias são confirmadas como atrações da Parada LGBT+ de SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/28/pabllo-vittar-e-urias-sao-confirmadas-como-atracoes-da-parada-lgbt-de-sp.ghtml"
     }
   ]
 }
