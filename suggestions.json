@@ -1,5 +1,5 @@
 {
-  "updated_at": "05/06/2026 as 13:51",
+  "updated_at": "08/06/2026 as 14:48",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -24,6 +24,17 @@
       "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "MUSEU DAS CULTURAS INDÍGENAS",
       "category": "passeio",
       "desc": "",
@@ -46,7 +57,128 @@
       "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Cardápio à la carte ganha destaque em meio a novas tendências de consumo, como o uso de canetas de emagrecimento",
+      "name": "ARENA STAR LASER",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Red Flame - Tributo ao Simply Red  29 agosto  Sábado 20h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120962?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Queen Music Tribute  16 Agosto  Domingo 18h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118059?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O Que Tem na Cozinha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "A Música dos GAMES, com a MOV Orquestra  11 julho  Sábado às 21h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121156?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "K-Pop Odyssey – A Maior Experiência do K-Pop Ao Vivo  Domingo 12 Julho às 17h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121164?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Tributo a Andrea Boccelli  Sexta  10 julho às 20h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121151?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "ROXINNER: UMA HOMENAGEM AO ROXETTE  18 Julho  Sábado 20h",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120779?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Os Fora da Curva  31 Julho - Sexta 20h30",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/120612?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Orquestra Sinfônica de Piracicaba - Junho",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121926?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Programação tem quadrilha, forró, DJ temático e comidas e bebidas típicas também na versão vegana",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "EspetÃ¡culo retrata jornada de exclusÃ£o de migrante nordestino",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -57,8 +189,8 @@
       "link": ""
     },
     {
-      "name": "De jantar a show romÃ¢ntico, veja dez ideias para um encontro especial",
-      "category": "show",
+      "name": "Parada LBGT+ leva Pabllo Vittar Ã  avenida Paulista",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -68,21 +200,21 @@
       "link": ""
     },
     {
-      "name": "'O Bolo do Presidente' e filme do He-Man estreiam nos cinemas",
+      "name": "Feira terÃ¡ palestras de diretores de cinema do Brasil e do exterior",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "estreia"
+        "feira"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "SÃ³ Track Boa tem sets de Boris Brejcha, Kevin De Vries e Max Styler",
-      "category": "evento",
+      "name": "No Tortuga algumas coisas nÃ£o sÃ£o exatamente aquilo que vocÃª espera delas. No nosso caso, comeÃ§ando pela impressÃ£o que tivemos logo na entrada. Era sÃ¡bado Ã  noite e a casa estava vazia. Deixou uma suspeita de que talvez a comida nÃ£o fosse boa.",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -92,18 +224,7 @@
       "link": ""
     },
     {
-      "name": "No TerraÃ§o NotiÃª, as selfies sÃ£o estimuladas por neons que formam expressÃµes como fruto proibido ou sÃ³ nos resta viver. NÃ£o basta a beleza do Theatro Municipal ao fundo. Ã preciso posar ao lado de uma frase cafona ou do sÃ­mbolo do cartÃ£o de crÃ©dito que patrocina o espaÃ§o",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "MST abre sorveteria na Barra Funda, regiÃ£o oeste de SÃ£o Paulo",
+      "name": "NBA House exibe final de basquete dos EUA com homenagem a Schmidt",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -125,6 +246,19 @@
       ],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Feira de vinhos e destilados reúne especialistas, degustações e debates em SP",
+      "category": "evento",
+      "desc": "Feira de vinhos e destilados reúne especialistas, degustações e debates em SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "feira"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/05/feira-de-vinhos-e-destilados-reune-especialistas-degustacoes-e-debates-em-sp.ghtml"
     },
     {
       "name": "Fernanda Torres volta aos palcos, Brasil x EUA, Parada LGBT+ e festas juninas: veja o que fazer em SP",
@@ -149,19 +283,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/04/feira-do-livro-no-pacaembu-entra-na-reta-final-veja-destaques-da-programacao-ate-domingo.ghtml"
-    },
-    {
-      "name": "São Paulo recebe evento gratuito voltado a produtores, cineastas e estudantes de audiovisual; saiba como se inscrever",
-      "category": "evento",
-      "desc": "São Paulo recebe evento gratuito voltado a produtores, cineastas e estudantes de audiovisual; saiba como se inscrever",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/03/sao-paulo-recebe-evento-gratuito-voltado-a-produtores-cineastas-e-estudantes-de-audiovisual-saiba-como-se-inscrever.ghtml"
     }
   ]
 }
