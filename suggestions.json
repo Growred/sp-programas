@@ -1,5 +1,5 @@
 {
-  "updated_at": "08/06/2026 as 14:48",
+  "updated_at": "10/06/2026 as 14:21",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -24,15 +24,15 @@
       "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP",
-      "category": "passeio",
+      "name": "Rubel & Orquestra - Pearl. Casas. Palavras. Beleza.",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/122003?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "MUSEU DAS CULTURAS INDÍGENAS",
@@ -68,28 +68,6 @@
       "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Red Flame - Tributo ao Simply Red  29 agosto  Sábado 20h",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120962?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Queen Music Tribute  16 Agosto  Domingo 18h",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118059?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "O Que Tem na Cozinha",
       "category": "evento",
       "desc": "",
@@ -101,7 +79,55 @@
       "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "A Música dos GAMES, com a MOV Orquestra  11 julho  Sábado às 21h",
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119610?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aulas Coletivas KIDS",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Sardinha e Febras",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -109,10 +135,21 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/121156?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/121642?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "K-Pop Odyssey – A Maior Experiência do K-Pop Ao Vivo  Domingo 12 Julho às 17h30",
+      "name": "Jantar Show Diretamente de Buenos Aires",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "MEU PAI, HAMLET",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -120,10 +157,10 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/121164?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/119745?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Tributo a Andrea Boccelli  Sexta  10 julho às 20h30",
+      "name": "QUASE TODOS",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -131,44 +168,24 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/121151?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "ROXINNER: UMA HOMENAGEM AO ROXETTE  18 Julho  Sábado 20h",
-      "category": "evento",
+      "name": "Musical acompanha desde a infância da paraense até o sucesso artístico; espetáculo 'O Caso Lorena' investiga obsessão por histórias reais de crime",
+      "category": "musical",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120779?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "tags": [
+        "musical"
+      ],
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "Os Fora da Curva  31 Julho - Sexta 20h30",
+      "name": "Ney Matogrosso e Belo se apresentam em SÃ£o Paulo",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/120612?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Orquestra Sinfônica de Piracicaba - Junho",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/121926?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Programação tem quadrilha, forró, DJ temático e comidas e bebidas típicas também na versão vegana",
-      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -178,7 +195,7 @@
       "link": ""
     },
     {
-      "name": "EspetÃ¡culo retrata jornada de exclusÃ£o de migrante nordestino",
+      "name": "BalÃ© ClÃ¡ssico de SÃ£o Petersburgo se apresenta em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -189,25 +206,14 @@
       "link": ""
     },
     {
-      "name": "Parada LBGT+ leva Pabllo Vittar Ã  avenida Paulista",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Feira terÃ¡ palestras de diretores de cinema do Brasil e do exterior",
+      "name": "AnimaÃ§Ã£o infantil 'Bluey' Ã© exibida em cinemas de SP",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "feira"
+        "infantil"
       ],
       "source": "Guia Folha",
       "link": ""
@@ -224,7 +230,7 @@
       "link": ""
     },
     {
-      "name": "NBA House exibe final de basquete dos EUA com homenagem a Schmidt",
+      "name": "Drinques do Caledonia buscam traduzir emoÃ§Ãµes de paÃ­ses",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -235,15 +241,13 @@
       "link": ""
     },
     {
-      "name": "Ãpera italiana escrita sob a sombra do fascismo estreia em SÃ£o Paulo",
+      "name": "PeÃ§as com Maria Ribeiro, Gabriel Braga Nunes e Dan Stulbach voltam a SP",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "estreia"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
