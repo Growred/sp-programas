@@ -1,5 +1,5 @@
 {
-  "updated_at": "10/06/2026 as 14:21",
+  "updated_at": "12/06/2026 as 14:09",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -77,6 +77,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "TECTÔNICA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122187?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Sinatra In Concert",
@@ -160,31 +171,18 @@
       "link": "https://bileto.sympla.com.br/event/119745?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "QUASE TODOS",
-      "category": "evento",
+      "name": "KL Jay, João Gomes e Bateria Um, da Mangueira, também se apresentam; programação inclui ainda eventos com open bar e comida à vontade",
+      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Musical acompanha desde a infância da paraense até o sucesso artístico; espetáculo 'O Caso Lorena' investiga obsessão por histórias reais de crime",
-      "category": "musical",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "musical"
-      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Ney Matogrosso e Belo se apresentam em SÃ£o Paulo",
+      "name": "Bibliotecas municipais vÃ£o distribuir 3.000 Ã¡lbuns gratuitamente",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -195,7 +193,7 @@
       "link": ""
     },
     {
-      "name": "BalÃ© ClÃ¡ssico de SÃ£o Petersburgo se apresenta em SÃ£o Paulo",
+      "name": "Steven Spielberg revela a existÃªncia de extraterrestres em 'Dia D'",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -206,20 +204,18 @@
       "link": ""
     },
     {
-      "name": "AnimaÃ§Ã£o infantil 'Bluey' Ã© exibida em cinemas de SP",
-      "category": "cinema",
+      "name": "Ingressos para nova peÃ§a de Felipe Hirsch estÃ£o Ã  venda",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "infantil"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "No Tortuga algumas coisas nÃ£o sÃ£o exatamente aquilo que vocÃª espera delas. No nosso caso, comeÃ§ando pela impressÃ£o que tivemos logo na entrada. Era sÃ¡bado Ã  noite e a casa estava vazia. Deixou uma suspeita de que talvez a comida nÃ£o fosse boa.",
+      "name": "Com 65 anos de Ã³timos serviÃ§os prestados Ã  gastronomia carioca, a churrascaria MajÃ³rica exibe em sua fachada uma placa de patrimÃ´nio cultural da cidade, mas nÃ£o costuma aparecer em rankings e premiaÃ§Ãµes que condecoram os melhores restaurantes do Rio. Uma baita injustiÃ§a.",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -230,7 +226,7 @@
       "link": ""
     },
     {
-      "name": "Drinques do Caledonia buscam traduzir emoÃ§Ãµes de paÃ­ses",
+      "name": "CCXP 2026 terÃ¡ painel com Elijah Wood, de 'O Senhor dos AnÃ©is'",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -241,7 +237,7 @@
       "link": ""
     },
     {
-      "name": "PeÃ§as com Maria Ribeiro, Gabriel Braga Nunes e Dan Stulbach voltam a SP",
+      "name": "Veja onde pedir coxinha, tÃ¡bua de frios e atÃ© doces temÃ¡ticos para assistir aos jogos em casa",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -252,41 +248,39 @@
       "link": ""
     },
     {
-      "name": "Feira de vinhos e destilados reúne especialistas, degustações e debates em SP",
+      "name": "Veja o que fazer em SP: Copa do Mundo, troca de figurinhas, Ney Matogrosso, Raça Negra, Daniel e Fábio Jr para namorados",
       "category": "evento",
-      "desc": "Feira de vinhos e destilados reúne especialistas, degustações e debates em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/05/feira-de-vinhos-e-destilados-reune-especialistas-degustacoes-e-debates-em-sp.ghtml"
-    },
-    {
-      "name": "Fernanda Torres volta aos palcos, Brasil x EUA, Parada LGBT+ e festas juninas: veja o que fazer em SP",
-      "category": "evento",
-      "desc": "Fernanda Torres volta aos palcos, Brasil x EUA, Parada LGBT+ e festas juninas: veja o que fazer em SP",
+      "desc": "Veja o que fazer em SP: Copa do Mundo, troca de figurinhas, Ney Matogrosso, Raça Negra, Daniel e Fábio Jr para namorado",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/05/fernanda-torres-volta-aos-palcos-brasil-x-eua-parada-lgbt-e-festas-juninas-veja-o-que-fazer-em-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/12/veja-o-que-fazer-em-sp-copa-do-mundo-troca-de-figurinhas-ney-matogrosso-raca-negra-daniel-e-fabio-jr-para-namorados.ghtml"
     },
     {
-      "name": "Feira do Livro no Pacaembu entra na reta final; veja destaques da programação até domingo",
-      "category": "evento",
-      "desc": "Feira do Livro no Pacaembu entra na reta final; veja destaques da programação até domingo",
+      "name": "Arena Globo oferece programação gratuita para fãs de futebol no Parque Ibirapuera durante a Copa",
+      "category": "show",
+      "desc": "Arena Globo oferece programação gratuita para fãs de futebol no Parque Ibirapuera durante a Copa",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "feira"
+        "ao-ar-livre"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/04/feira-do-livro-no-pacaembu-entra-na-reta-final-veja-destaques-da-programacao-ate-domingo.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/11/arena-globo-oferece-programacao-gratuita-para-fas-de-futebol-no-parque-ibirapuera-durante-a-copa-do-mundo.ghtml"
+    },
+    {
+      "name": "Copa 2026: Arena Brasileira em SP terá transmissão de jogos e shows; Ivete e Péricles inauguram o espaço, veja programação",
+      "category": "show",
+      "desc": "Copa 2026: Arena Brasileira em SP terá transmissão de jogos e shows; Ivete e Péricles inauguram o espaço, veja programaç",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/11/copa-2026-arena-brasileira-em-sp-tera-transmissao-de-jogos-e-shows-ivete-e-pericles-inauguram-o-espaco-veja-programacao.ghtml"
     }
   ]
 }
