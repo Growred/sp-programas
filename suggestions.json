@@ -1,5 +1,5 @@
 {
-  "updated_at": "12/06/2026 as 14:09",
+  "updated_at": "15/06/2026 as 16:17",
   "items": [
     {
       "name": "Kit Digital Turma da Monica Scrapbook",
@@ -22,17 +22,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Rubel & Orquestra - Pearl. Casas. Palavras. Beleza.",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122003?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "MUSEU DAS CULTURAS INDÍGENAS",
@@ -138,17 +127,6 @@
       "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Sardinha e Febras",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/121642?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Jantar Show Diretamente de Buenos Aires",
       "category": "show",
       "desc": "",
@@ -160,7 +138,7 @@
       "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "MEU PAI, HAMLET",
+      "name": "QUASE TODOS",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -168,11 +146,46 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119745?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "KL Jay, João Gomes e Bateria Um, da Mangueira, também se apresentam; programação inclui ainda eventos com open bar e comida à vontade",
-      "category": "bar",
+      "name": "O AVESSO DA PELE",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "QUANDO EU ERA MULHER com Mariana Rosa",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119915?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Opções em todas as regiões da cidade trazem jogos ao vivo em telões, rodada grátis de chope e shows",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "gratuito"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "ConheÃ§a novos restaurantes e sorveterias que valem a visita em SP",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -182,7 +195,7 @@
       "link": ""
     },
     {
-      "name": "Bibliotecas municipais vÃ£o distribuir 3.000 Ã¡lbuns gratuitamente",
+      "name": "TrajetÃ³ria do Brasil em Copas do Mundo Ã© tema de exposiÃ§Ãµes em SP",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -193,19 +206,8 @@
       "link": ""
     },
     {
-      "name": "Steven Spielberg revela a existÃªncia de extraterrestres em 'Dia D'",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Ingressos para nova peÃ§a de Felipe Hirsch estÃ£o Ã  venda",
-      "category": "evento",
+      "name": "Sandra SÃ¡ faz shows grÃ¡tis em tributo a Elza Soares em SÃ£o Paulo",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -226,7 +228,7 @@
       "link": ""
     },
     {
-      "name": "CCXP 2026 terÃ¡ painel com Elijah Wood, de 'O Senhor dos AnÃ©is'",
+      "name": "PeÃ§a de Eri Johnson oferece 50% de desconto para casais",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -237,7 +239,7 @@
       "link": ""
     },
     {
-      "name": "Veja onde pedir coxinha, tÃ¡bua de frios e atÃ© doces temÃ¡ticos para assistir aos jogos em casa",
+      "name": "CCXP 2026 terÃ¡ painel com Elijah Wood, de 'O Senhor dos AnÃ©is'; veja como comprar",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -246,6 +248,19 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Onde assistir à estreia do Brasil na Copa em São Paulo: veja bares, museus e até cinema",
+      "category": "cinema",
+      "desc": "Onde assistir à estreia do Brasil na Copa em São Paulo: veja bares, museus e até cinema",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/13/onde-assistir-a-estreia-do-brasil-na-copa-em-sao-paulo-veja-bares-museus-e-ate-cinema.ghtml"
     },
     {
       "name": "Veja o que fazer em SP: Copa do Mundo, troca de figurinhas, Ney Matogrosso, Raça Negra, Daniel e Fábio Jr para namorados",
@@ -270,17 +285,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/11/arena-globo-oferece-programacao-gratuita-para-fas-de-futebol-no-parque-ibirapuera-durante-a-copa-do-mundo.ghtml"
-    },
-    {
-      "name": "Copa 2026: Arena Brasileira em SP terá transmissão de jogos e shows; Ivete e Péricles inauguram o espaço, veja programação",
-      "category": "show",
-      "desc": "Copa 2026: Arena Brasileira em SP terá transmissão de jogos e shows; Ivete e Péricles inauguram o espaço, veja programaç",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/11/copa-2026-arena-brasileira-em-sp-tera-transmissao-de-jogos-e-shows-ivete-e-pericles-inauguram-o-espaco-veja-programacao.ghtml"
     }
   ]
 }
