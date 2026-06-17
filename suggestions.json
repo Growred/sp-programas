@@ -1,17 +1,6 @@
 {
-  "updated_at": "15/06/2026 as 16:17",
+  "updated_at": "17/06/2026 as 14:26",
   "items": [
-    {
-      "name": "Kit Digital Turma da Monica Scrapbook",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://www.sympla.com.br/evento/kit-digital-turma-da-monica-scrapbook/2063249?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
       "category": "evento",
@@ -22,6 +11,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "MUSEU DAS CULTURAS INDÍGENAS",
@@ -66,17 +66,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "TECTÔNICA",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122187?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Sinatra In Concert",
@@ -160,6 +149,17 @@
       "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Amado Timóteo - Espetáculo de dança",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122466?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "QUANDO EU ERA MULHER com Mariana Rosa",
       "category": "evento",
       "desc": "",
@@ -171,48 +171,52 @@
       "link": "https://bileto.sympla.com.br/event/119915?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Opções em todas as regiões da cidade trazem jogos ao vivo em telões, rodada grátis de chope e shows",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ConheÃ§a novos restaurantes e sorveterias que valem a visita em SP",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "TrajetÃ³ria do Brasil em Copas do Mundo Ã© tema de exposiÃ§Ãµes em SP",
+      "name": "Narrativa acompanha homem retido em aeroporto à espera de documento que definirá seu destino; temporada estreia neste sábado (20)",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "estreia"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Sandra SÃ¡ faz shows grÃ¡tis em tributo a Elza Soares em SÃ£o Paulo",
+      "name": "Lionel Richie volta a SÃ£o Paulo para show Ãºnico em dezembro",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "BalÃ© da Cidade estreia coreografias inÃ©ditas no Theatro Municipal",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Regina CasÃ© estreia peÃ§a em SP em julho; ingressos estÃ£o Ã  venda",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -228,7 +232,7 @@
       "link": ""
     },
     {
-      "name": "PeÃ§a de Eri Johnson oferece 50% de desconto para casais",
+      "name": "Outback volta a oferecer rodÃ­zio de pratos e chope Ã  vontade",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -239,7 +243,7 @@
       "link": ""
     },
     {
-      "name": "CCXP 2026 terÃ¡ painel com Elijah Wood, de 'O Senhor dos AnÃ©is'; veja como comprar",
+      "name": "TrajetÃ³ria do Brasil em Copas do Mundo Ã© tema de exposiÃ§Ãµes em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -248,43 +252,6 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
-    },
-    {
-      "name": "Onde assistir à estreia do Brasil na Copa em São Paulo: veja bares, museus e até cinema",
-      "category": "cinema",
-      "desc": "Onde assistir à estreia do Brasil na Copa em São Paulo: veja bares, museus e até cinema",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/13/onde-assistir-a-estreia-do-brasil-na-copa-em-sao-paulo-veja-bares-museus-e-ate-cinema.ghtml"
-    },
-    {
-      "name": "Veja o que fazer em SP: Copa do Mundo, troca de figurinhas, Ney Matogrosso, Raça Negra, Daniel e Fábio Jr para namorados",
-      "category": "evento",
-      "desc": "Veja o que fazer em SP: Copa do Mundo, troca de figurinhas, Ney Matogrosso, Raça Negra, Daniel e Fábio Jr para namorado",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/12/veja-o-que-fazer-em-sp-copa-do-mundo-troca-de-figurinhas-ney-matogrosso-raca-negra-daniel-e-fabio-jr-para-namorados.ghtml"
-    },
-    {
-      "name": "Arena Globo oferece programação gratuita para fãs de futebol no Parque Ibirapuera durante a Copa",
-      "category": "show",
-      "desc": "Arena Globo oferece programação gratuita para fãs de futebol no Parque Ibirapuera durante a Copa",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "ao-ar-livre"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/11/arena-globo-oferece-programacao-gratuita-para-fas-de-futebol-no-parque-ibirapuera-durante-a-copa-do-mundo.ghtml"
     }
   ]
 }
