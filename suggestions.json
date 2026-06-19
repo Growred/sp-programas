@@ -1,5 +1,5 @@
 {
-  "updated_at": "17/06/2026 as 14:26",
+  "updated_at": "19/06/2026 as 14:12",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -57,6 +57,17 @@
       "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Led Zeppelin in Concert Por Nova Orquestra - São Paulo",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122414?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "O Que Tem na Cozinha",
       "category": "evento",
       "desc": "",
@@ -88,6 +99,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu da Língua  Portuguesa",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
@@ -138,17 +160,6 @@
       "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "O AVESSO DA PELE",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Amado Timóteo - Espetáculo de dança",
       "category": "evento",
       "desc": "",
@@ -160,32 +171,19 @@
       "link": "https://bileto.sympla.com.br/event/122466?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "QUANDO EU ERA MULHER com Mariana Rosa",
+      "name": "Com a chegada do inverno, lista traz 21 endereços especializados no preparo da sopa oriental; roteiro traz clássicos e casas recém-abertas",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119915?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Narrativa acompanha homem retido em aeroporto à espera de documento que definirá seu destino; temporada estreia neste sábado (20)",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia"
-      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Lionel Richie volta a SÃ£o Paulo para show Ãºnico em dezembro",
-      "category": "show",
+      "name": "Kura Urbana inaugura espaÃ§o cultural na avenida SÃ£o JoÃ£o, em SP",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -195,33 +193,42 @@
       "link": ""
     },
     {
-      "name": "BalÃ© da Cidade estreia coreografias inÃ©ditas no Theatro Municipal",
+      "name": "'Toy Story 5' chega aos cinemas com reflexÃ£o sobre a infÃ¢ncia moderna",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Krispy Kreme abre loja na avenida Paulista em julho",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "estreia"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Regina CasÃ© estreia peÃ§a em SP em julho; ingressos estÃ£o Ã  venda",
-      "category": "evento",
+      "name": "Ã a dona quem traz os peixes que vÃ£o parar nos pratos, simples e gostosos, do Velhas Piratas. Eu ainda nÃ£o sabia disso quando passei na frente numa segunda-feira, dia em que boa parte dos restaurantes da cidade estÃ£o fechados, e decidi parar atraÃ­da pelos pratos anunciados na lousa da calÃ§ada.",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "estreia"
+        "feira"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Com 65 anos de Ã³timos serviÃ§os prestados Ã  gastronomia carioca, a churrascaria MajÃ³rica exibe em sua fachada uma placa de patrimÃ´nio cultural da cidade, mas nÃ£o costuma aparecer em rankings e premiaÃ§Ãµes que condecoram os melhores restaurantes do Rio. Uma baita injustiÃ§a.",
+      "name": "Santa CecÃ­lia ganha trÃªs novas cafeterias e se consolida no setor",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -232,8 +239,8 @@
       "link": ""
     },
     {
-      "name": "Outback volta a oferecer rodÃ­zio de pratos e chope Ã  vontade",
-      "category": "evento",
+      "name": "Anime Friends anuncia shows de pop japonÃªs e elenco da sÃ©rie 'Cybercop'; saiba como comprar",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -243,15 +250,42 @@
       "link": ""
     },
     {
-      "name": "TrajetÃ³ria do Brasil em Copas do Mundo Ã© tema de exposiÃ§Ãµes em SÃ£o Paulo",
-      "category": "evento",
-      "desc": "",
+      "name": "Zeca Pagodinho, Alcione, Jorge Aragão, WME, festival de cinema e exposição do Pelé: veja o que fazer em SP",
+      "category": "cinema",
+      "desc": "Zeca Pagodinho, Alcione, Jorge Aragão, WME, festival de cinema e exposição do Pelé: veja o que fazer em SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival",
+        "exposicao"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/19/zeca-pagodinho-alcione-jorge-aragao-wme-festival-de-cinema-e-exposicao-do-pele-veja-o-que-fazer-em-sp.ghtml"
+    },
+    {
+      "name": "Governo de SP cria rede estadual para integrar trilhas de longo curso e incentivar turismo sustentável",
+      "category": "passeio",
+      "desc": "Governo de SP cria rede estadual para integrar trilhas de longo curso e incentivar turismo sustentável",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/16/governo-de-sp-cria-rede-estadual-para-integrar-trilhas-de-longo-curso-e-incentivar-turismo-sustentavel.ghtml"
+    },
+    {
+      "name": "Onde assistir à estreia do Brasil na Copa em São Paulo: veja bares, museus e até cinema",
+      "category": "cinema",
+      "desc": "Onde assistir à estreia do Brasil na Copa em São Paulo: veja bares, museus e até cinema",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/13/onde-assistir-a-estreia-do-brasil-na-copa-em-sao-paulo-veja-bares-museus-e-ate-cinema.ghtml"
     }
   ]
 }
