@@ -1,5 +1,5 @@
 {
-  "updated_at": "22/06/2026 as 15:50",
+  "updated_at": "24/06/2026 as 13:21",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -57,17 +57,6 @@
       "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Led Zeppelin in Concert Por Nova Orquestra - São Paulo",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122414?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "O Que Tem na Cozinha",
       "category": "evento",
       "desc": "",
@@ -88,6 +77,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "MARO - SO MUCH HAS CHANGED",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121158?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Museu do Futebol",
@@ -160,18 +160,34 @@
       "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Amado Timóteo - Espetáculo de dança",
+      "name": "Santo Riso em São Paulo - Humor para a família",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "infantil"
+      ],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122466?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/122777?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Com a chegada do inverno, lista traz 21 endereços especializados no preparo da sopa oriental; roteiro traz clássicos e casas recém-abertas",
+      "name": "Venda de ingressos começa na próxima quinta-feira (25); sessões serão no Teatro Faap, a partir de 13 de agosto",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro",
+        "feira"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Leia resumo e saiba onde ver as sÃ©ries da saga 'Game of Thrones'",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -182,29 +198,20 @@
       "link": ""
     },
     {
-      "name": "Kura Urbana inaugura espaÃ§o cultural na avenida SÃ£o JoÃ£o, em SP",
+      "name": "Livro 'Coisa de Rico' vira peÃ§a de teatro em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "teatro"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "'Toy Story 5' chega aos cinemas com reflexÃ£o sobre a infÃ¢ncia moderna",
-      "category": "cinema",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Krispy Kreme abre loja na avenida Paulista em julho",
+      "name": "Time Out Market anuncia unidade em SP, primeira na AmÃ©rica do Sul",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -228,21 +235,8 @@
       "link": ""
     },
     {
-      "name": "Festival da Folha celebra a gastronomia de inverno em restaurantes da regiÃ£o serrana de quatro estados",
-      "category": "restaurante",
-      "desc": "Sabores da Montanha acontece em cidades de SÃ£o Paulo, Rio de Janeiro, Minas Gerais e Rio Grande do Sul",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Anime Friends anuncia shows de pop japonÃªs e elenco da sÃ©rie 'Cybercop'; saiba como comprar",
-      "category": "show",
+      "name": "Japan House realiza evento sobre cafÃ© com oficinas e experiÃªncias de prova na avenida Paulista",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -250,6 +244,30 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Mooca ganha parque com Ã¡reas de lazer, academia ao ar livre e Ã¡rvore centenÃ¡ria",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "ao-ar-livre"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Documentário traz depoimentos dos herdeiros da contracultura e entrevista filhos de Gil, Caetano, Rita Lee e mais",
+      "category": "evento",
+      "desc": "Documentário traz depoimentos dos herdeiros da contracultura e entrevista filhos de Gil, Caetano, Rita Lee e mais",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/22/documentario-traz-depoimentos-dos-herdeiros-da-contracultura-e-entrevista-filhos-de-gil-caetano-rita-lee-e-mais.ghtml"
     },
     {
       "name": "Zeca Pagodinho, Alcione, Jorge Aragão, WME, festival de cinema e exposição do Pelé: veja o que fazer em SP",
@@ -275,19 +293,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/16/governo-de-sp-cria-rede-estadual-para-integrar-trilhas-de-longo-curso-e-incentivar-turismo-sustentavel.ghtml"
-    },
-    {
-      "name": "Onde assistir à estreia do Brasil na Copa em São Paulo: veja bares, museus e até cinema",
-      "category": "cinema",
-      "desc": "Onde assistir à estreia do Brasil na Copa em São Paulo: veja bares, museus e até cinema",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/13/onde-assistir-a-estreia-do-brasil-na-copa-em-sao-paulo-veja-bares-museus-e-ate-cinema.ghtml"
     }
   ]
 }
