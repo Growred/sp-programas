@@ -1,5 +1,5 @@
 {
-  "updated_at": "24/06/2026 as 13:21",
+  "updated_at": "26/06/2026 as 13:10",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -24,17 +24,6 @@
       "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "MUSEU DAS CULTURAS INDÍGENAS",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
       "category": "evento",
       "desc": "",
@@ -57,6 +46,17 @@
       "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "MUSEU DAS CULTURAS INDÍGENAS",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "O Que Tem na Cozinha",
       "category": "evento",
       "desc": "",
@@ -66,6 +66,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "CONCERTO Alessandra Carvalho, Rodolfo Giugliani & Antônio Luiz Barker",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122973?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Sinatra In Concert",
@@ -160,34 +171,46 @@
       "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Santo Riso em São Paulo - Humor para a família",
-      "category": "evento",
+      "name": "Mostra reúne obras dos artistas Aston, NeneSurreal e Mariana Calle; público pode jogar em mesas de futebol de botão durante a visita",
+      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "infantil"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122777?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Venda de ingressos começa na próxima quinta-feira (25); sessões serão no Teatro Faap, a partir de 13 de agosto",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro",
-        "feira"
+        "exposicao"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Leia resumo e saiba onde ver as sÃ©ries da saga 'Game of Thrones'",
+      "name": "Turma da MÃ´nica Ã© tema de desfile no SambÃ³dromo do Anhembi",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "samba"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Milly Alcock Ã© heroÃ­na rebelde em 'Supergirl', que estreia nos cinemas",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "EstaÃ§Ãµes de metrÃ´ em SÃ£o Paulo distribuem Ã¡lbuns de figurinha",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -198,20 +221,7 @@
       "link": ""
     },
     {
-      "name": "Livro 'Coisa de Rico' vira peÃ§a de teatro em SÃ£o Paulo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Time Out Market anuncia unidade em SP, primeira na AmÃ©rica do Sul",
+      "name": "Ã primeira garfada, a Casa MagnÃ³lia jÃ¡ deixa claro que suas versÃµes nÃ£o se comparam Ã s que sÃ£o originalmente servidas hÃ¡ anos, dÃ©cadas, por seus concorrentes. O gorduroso rissole de camarÃ£o (R$ 14 a unidade), por exemplo, me fez lembrar com saudades dos que sÃ£o majestosamente servidos no Rancho PortuguÃªs, a poucos metros dali, ou no balcÃ£o dâO Caranguejo, em Copacabana.",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -222,20 +232,7 @@
       "link": ""
     },
     {
-      "name": "Ã a dona quem traz os peixes que vÃ£o parar nos pratos, simples e gostosos, do Velhas Piratas. Eu ainda nÃ£o sabia disso quando passei na frente numa segunda-feira, dia em que boa parte dos restaurantes da cidade estÃ£o fechados, e decidi parar atraÃ­da pelos pratos anunciados na lousa da calÃ§ada.",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Japan House realiza evento sobre cafÃ© com oficinas e experiÃªncias de prova na avenida Paulista",
+      "name": "TaÃ­s Araujo farÃ¡ nova temporada de 'Mudando de Pele' em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -259,40 +256,40 @@
       "link": ""
     },
     {
-      "name": "Documentário traz depoimentos dos herdeiros da contracultura e entrevista filhos de Gil, Caetano, Rita Lee e mais",
-      "category": "evento",
-      "desc": "Documentário traz depoimentos dos herdeiros da contracultura e entrevista filhos de Gil, Caetano, Rita Lee e mais",
+      "name": "Coreógrafo de Michael Jackson dá aula em SP, relembra bastidores com o cantor e emociona alunos",
+      "category": "show",
+      "desc": "Coreógrafo de Michael Jackson dá aula em SP, relembra bastidores com o cantor e emociona alunos",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/22/documentario-traz-depoimentos-dos-herdeiros-da-contracultura-e-entrevista-filhos-de-gil-caetano-rita-lee-e-mais.ghtml"
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/26/coreografo-de-michael-jackson-da-aula-em-sp-relembra-bastidores-com-o-cantor-e-emociona-alunos.ghtml"
     },
     {
-      "name": "Zeca Pagodinho, Alcione, Jorge Aragão, WME, festival de cinema e exposição do Pelé: veja o que fazer em SP",
-      "category": "cinema",
-      "desc": "Zeca Pagodinho, Alcione, Jorge Aragão, WME, festival de cinema e exposição do Pelé: veja o que fazer em SP",
+      "name": "Festival gourmet, shows de Paralamas do Sucesso, Kid Abelha, estreia de Minions e gibis acessíveis de Mauricio de Sousa: veja o que fazer em SP",
+      "category": "show",
+      "desc": "Festival gourmet, shows de Paralamas do Sucesso, Kid Abelha, estreia de Minions e gibis acessíveis de Mauricio de Sousa:",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "exposicao",
+        "estreia",
         "festival"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/19/zeca-pagodinho-alcione-jorge-aragao-wme-festival-de-cinema-e-exposicao-do-pele-veja-o-que-fazer-em-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/26/festival-gourmet-shows-de-paralamas-do-sucesso-kid-abelha-estreia-de-minions-e-gibis-acessiveis-de-mauricio-de-sousa-veja-o-que-fazer-em-sp.ghtml"
     },
     {
-      "name": "Governo de SP cria rede estadual para integrar trilhas de longo curso e incentivar turismo sustentável",
-      "category": "passeio",
-      "desc": "Governo de SP cria rede estadual para integrar trilhas de longo curso e incentivar turismo sustentável",
+      "name": "Letícia Fialho celebra um ano do álbum ‘Revoada Baile Canção’ com show e convidados especiais em SP",
+      "category": "show",
+      "desc": "Letícia Fialho celebra um ano do álbum ‘Revoada Baile Canção’ com show e convidados especiais em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/16/governo-de-sp-cria-rede-estadual-para-integrar-trilhas-de-longo-curso-e-incentivar-turismo-sustentavel.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/24/leticia-fialho-celebra-um-ano-do-album-revoada-baile-cancao-com-show-e-convidados-especiais-em-sp.ghtml"
     }
   ]
 }
