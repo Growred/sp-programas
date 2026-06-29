@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/06/2026 as 13:10",
+  "updated_at": "29/06/2026 as 14:50",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -11,28 +11,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "ARENA STAR LASER",
@@ -57,7 +35,7 @@
       "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "O Que Tem na Cozinha",
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -65,7 +43,7 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "CONCERTO Alessandra Carvalho, Rodolfo Giugliani & Antônio Luiz Barker",
@@ -90,17 +68,6 @@
       "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "MARO - SO MUCH HAS CHANGED",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/121158?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Museu do Futebol",
       "category": "passeio",
       "desc": "",
@@ -123,19 +90,6 @@
       "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "CARTAS PARA UM TEMPO QUE NÃO É AGORA - Peça Podcast",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119610?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Aulas Coletivas KIDS",
       "category": "evento",
       "desc": "",
@@ -147,6 +101,17 @@
       ],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aulas Individuais",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71486?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Jantar Show Diretamente de Buenos Aires",
@@ -171,34 +136,56 @@
       "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Mostra reúne obras dos artistas Aston, NeneSurreal e Mariana Calle; público pode jogar em mesas de futebol de botão durante a visita",
-      "category": "bar",
+      "name": "Proibido Para Menores de 18 Anos no TEATRO ESTÚDIO",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "exposicao"
+        "teatro"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122615?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Turma da MÃ´nica Ã© tema de desfile no SambÃ³dromo do Anhembi",
-      "category": "show",
+      "name": "OUTRA REVOLUÇÃO DOS BICHOS no Teatro Estúdio",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "samba"
+        "teatro"
       ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/110581?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "BRANCO ANCESTRAL",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/113208?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Até 2 de agosto, evento celebra receitas feitas com produtos de regiões serranas e dá desconto para assinantes premium do jornal",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Milly Alcock Ã© heroÃ­na rebelde em 'Supergirl', que estreia nos cinemas",
-      "category": "cinema",
+      "name": "Serra GaÃºcha estreia no Sabores da Montanha com casas de Gramado",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -210,8 +197,19 @@
       "link": ""
     },
     {
-      "name": "EstaÃ§Ãµes de metrÃ´ em SÃ£o Paulo distribuem Ã¡lbuns de figurinha",
+      "name": "ExposiÃ§Ã£o grÃ¡tis exibe imagens de fotÃ³grafas da Folha em SÃ£o Paulo",
       "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Museu Afro Brasil entrelaÃ§a futebol e cultura negra em exposiÃ§Ã£o",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -243,17 +241,28 @@
       "link": ""
     },
     {
-      "name": "Mooca ganha parque com Ã¡reas de lazer, academia ao ar livre e Ã¡rvore centenÃ¡ria",
-      "category": "passeio",
+      "name": "Turma da MÃ´nica Ã© tema de desfile grÃ¡tis no SambÃ³dromo do Anhembi; veja ingressos",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "ao-ar-livre"
+        "samba"
       ],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Banco de bronze em homenagem aos 90 anos de Mauricio de Sousa é inaugurado na Avenida Paulista",
+      "category": "evento",
+      "desc": "Banco de bronze em homenagem aos 90 anos de Mauricio de Sousa é inaugurado na Avenida Paulista",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/27/banco-de-bronze-em-homenagem-aos-90-anos-de-mauricio-de-sousa-e-inaugurado-na-avenida-paulista.ghtml"
     },
     {
       "name": "Coreógrafo de Michael Jackson dá aula em SP, relembra bastidores com o cantor e emociona alunos",
@@ -274,22 +283,11 @@
       "date": "",
       "hours": "",
       "tags": [
-        "estreia",
-        "festival"
+        "festival",
+        "estreia"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/26/festival-gourmet-shows-de-paralamas-do-sucesso-kid-abelha-estreia-de-minions-e-gibis-acessiveis-de-mauricio-de-sousa-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Letícia Fialho celebra um ano do álbum ‘Revoada Baile Canção’ com show e convidados especiais em SP",
-      "category": "show",
-      "desc": "Letícia Fialho celebra um ano do álbum ‘Revoada Baile Canção’ com show e convidados especiais em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/24/leticia-fialho-celebra-um-ano-do-album-revoada-baile-cancao-com-show-e-convidados-especiais-em-sp.ghtml"
     }
   ]
 }
