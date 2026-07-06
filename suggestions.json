@@ -1,5 +1,5 @@
 {
-  "updated_at": "03/07/2026 as 12:55",
+  "updated_at": "06/07/2026 as 14:23",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -35,17 +35,6 @@
       "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Museu do Futebol",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "TECTÔNICA",
       "category": "evento",
       "desc": "",
@@ -55,17 +44,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/122187?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Museu da Língua  Portuguesa",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "La Bomba de Tiempo",
@@ -79,6 +57,41 @@
       "link": "https://bileto.sympla.com.br/event/123217?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aulas Coletivas KIDS",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aulas Individuais",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71486?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Jantar Show Diretamente de Buenos Aires",
       "category": "show",
       "desc": "",
@@ -88,28 +101,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "QUASE TODOS",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Aristo Sham",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Amado Timóteo - Espetáculo de dança",
@@ -175,22 +166,32 @@
       "link": "https://bileto.sympla.com.br/event/120671?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Roteiro traz peças, filmes, mostras, atrações interativas e brincadeiras temáticas da Copa do Mundo com opções que vão de bebês a adolescentes",
+      "name": "BRANCO ANCESTRAL",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/113208?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Roteiro traz peÃ§as, filmes, mostras, atraÃ§Ãµes interativas e brincadeiras temÃ¡ticas da Copa do Mundo com opÃ§Ãµes que vÃ£o de bebÃªs a adolescentes",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "teatro",
         "exposicao"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Banda New Order faz show em SP em novembro; veja ingressos",
-      "category": "show",
+      "name": "Tari abre na Vila Madalena com menu autoral de sabores delicados",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -200,20 +201,31 @@
       "link": ""
     },
     {
-      "name": "Minions libertam monstros em novo filme; confira as estreias de cinema",
+      "name": "Festival da Folha permite passeio por produÃ§Ã£o da Mantiqueira",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "'Cidade de Deus' e 'Boi Neon' tÃªm sessÃµes grÃ¡tis na Cinemateca",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "estreia"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Jogo de 'Black Mirror' coloca participante para usar robÃ´ com IA",
+      "name": "Aos moldes das casas-irmÃ£s que ficam nas redondezas, a Adega Santiago, Taberna 474 e a Casa Europa, a caÃ§ula serve receitas bem-executadas e feitas com ingredientes de qualidade, sem grandes surpresas.",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -224,18 +236,7 @@
       "link": ""
     },
     {
-      "name": "O Koya 88 Ã© um lugar para confiar na experiÃªncia. VocÃª vai provar receitas que nunca viu, feitas com ingredientes que provavelmente nÃ£o conhece, num ambiente barulhento e de luz tÃ£o baixa que pouco dÃ¡ para enxergar o que chega Ã  mesa. Pelo menos Ã© assim depois das 21h. E certamente o jantar entrarÃ¡ para a sua lista das vivÃªncias gastronÃ´micas mais legais.",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "'O Diabo Veste Prada 2' tem exibiÃ§Ãµes gratuitas em SP",
+      "name": "Veja como aproveitar promoÃ§Ãµes e receitas para o Dia do Chocolate",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -246,23 +247,31 @@
       "link": ""
     },
     {
-      "name": "Estreias de teatro em SÃ£o Paulo discutem violÃªncia domÃ©stica por Ã¢ngulos diferentes",
-      "category": "evento",
+      "name": "HistÃ³ria do Museu Afro e de Emanoel Araujo, seu fundador, se misturam em exposiÃ§Ã£o",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "teatro",
-        "estreia"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Veja o que fazer em SP: Anime Friends, festival de drag queens, jogo do Brasil em clima de praia, show de Mano Brown e Mamma Mia",
-      "category": "show",
-      "desc": "Veja o que fazer em SP: Anime Friends, festival de drag queens, jogo do Brasil em clima de praia, show de Mano Brown e M",
+      "name": "'Coro do papa' faz apresentações gratuitas na Catedral da Sé, neste domingo, e na Sala São Paulo, no dia 14",
+      "category": "evento",
+      "desc": "'Coro do papa' faz apresentações gratuitas na Catedral da Sé, neste domingo, e na Sala São Paulo, no dia 14",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/05/coro-do-papa-faz-apresentacoes-gratuitas-na-catedral-da-se-neste-domingo-e-na-sala-sao-paulo-no-dia-14.ghtml"
+    },
+    {
+      "name": "De Cidade Tiradentes para a Escócia: artista que já trabalhou no farol vai representar o Brasil no maior festival de artes cênicas do mundo",
+      "category": "evento",
+      "desc": "De Cidade Tiradentes para a Escócia: artista que já trabalhou no farol vai representar o Brasil no maior festival de art",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
@@ -270,29 +279,18 @@
         "festival"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/03/veja-o-que-fazer-em-sp-anime-friends-festival-de-drag-queens-jogo-do-brasil-em-clima-de-praia-show-de-mano-brown-e-mamma-mia.ghtml"
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/05/de-cidade-tiradentes-para-a-escocia-artista-que-ja-trabalhou-no-farol-vai-representar-o-brasil-no-maior-festival-de-artes-cenicas-do-mundo.ghtml"
     },
     {
-      "name": "Campeões regionais do 'Comida di Buteco' disputam título nacional; resultado sai dia 8 de julho",
-      "category": "restaurante",
-      "desc": "Campeões regionais do 'Comida di Buteco' disputam título nacional; resultado sai dia 8 de julho",
+      "name": "Rodrigo Teaser faz viagem pela história do Rei do Pop com tributo a Michael Jackson em SP",
+      "category": "evento",
+      "desc": "Rodrigo Teaser faz viagem pela história do Rei do Pop com tributo a Michael Jackson em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/01/campeoes-regionais-do-comida-di-buteco-disputam-titulo-nacional-resultado-sai-dia-8-de-julho.ghtml"
-    },
-    {
-      "name": "Casa 1 realiza virada cultural com 36 horas de programação gratuita, shows, cinema e oficinas",
-      "category": "cinema",
-      "desc": "Casa 1 realiza virada cultural com 36 horas de programação gratuita, shows, cinema e oficinas",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/06/30/casa-1-realiza-virada-cultural-com-36-horas-de-programacao-gratuita-shows-cinema-e-oficinas.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/03/michael-jackson-show-sp-rodrigo-teaser-tributo.ghtml"
     }
   ]
 }
