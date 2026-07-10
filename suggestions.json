@@ -1,5 +1,5 @@
 {
-  "updated_at": "08/07/2026 as 12:20",
+  "updated_at": "10/07/2026 as 13:10",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -46,21 +46,8 @@
       "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Seleção mostra onde encontrar folhetins como 'O Rei do Gado' e a 'Paraíso' original; autor morreu aos 95 anos",
+      "name": "'O Convite' é comédia que faz rir e chorar; 'A Morte do Demônio: Em Chamas' e o brasileiro 'Herança de Narcisa' são novidades de terror",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Marcelo Rubens Paiva faz show em tributo a Bob Dylan em SÃ£o Paulo",
-      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -70,34 +57,8 @@
       "link": ""
     },
     {
-      "name": "Liniker se despede do disco 'Caju' no Nubank Parque, em SÃ£o Paulo",
+      "name": "Museu da ImigraÃ§Ã£o inaugura exposiÃ§Ã£o sobre Margarida Pandolfo",
       "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "ao-ar-livre"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "PUC terÃ¡ feira do livro prÃ³pria em setembro com descontos de 40%",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Aos moldes das casas-irmÃ£s que ficam nas redondezas, a Adega Santiago, Taberna 474 e a Casa Europa, a caÃ§ula serve receitas bem-executadas e feitas com ingredientes de qualidade, sem grandes surpresas.",
-      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -118,7 +79,7 @@
       "link": ""
     },
     {
-      "name": "De pÃª-efe de frango a bobÃ³ de camarÃ£o, veja onde encomendar marmitas congeladas em SP",
+      "name": "Grupo Corpo volta a SÃ£o Paulo em agosto com 'Piracema' e 'Lecuona'",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -127,6 +88,55 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Aos moldes das casas-irmÃ£s que ficam nas redondezas, a Adega Santiago, Taberna 474 e a Casa Europa, a caÃ§ula serve receitas bem-executadas e feitas com ingredientes de qualidade, sem grandes surpresas.",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Festival JapÃ£o tem comida, artes marciais e cultura pop em SÃ£o Paulo",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja lista de novelas de Benedito Ruy Barbosa, com 'Renascer' e 'SinhÃ¡ MoÃ§a'",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Shows de Liniker, Belo, festival gastronômico italiano, festa julina no Horto e live-action de 'Moana' no cinema: veja o que fazer em SP",
+      "category": "cinema",
+      "desc": "Shows de Liniker, Belo, festival gastronômico italiano, festa julina no Horto e live-action de 'Moana' no cinema: veja o",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival",
+        "italiano"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/09/shows-de-liniker-belo-festival-gastronomico-italiano-festa-julina-no-horto-e-live-action-de-moana-no-cinema-veja-o-que-fazer-em-sp.ghtml"
     },
     {
       "name": "Belo, IZA, João Gomes, Marisa Monte e Thiaguinho: Arena Brasileira tem shows até 19 de julho no Ibirapuera",
@@ -149,19 +159,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/05/coro-do-papa-faz-apresentacoes-gratuitas-na-catedral-da-se-neste-domingo-e-na-sala-sao-paulo-no-dia-14.ghtml"
-    },
-    {
-      "name": "De Cidade Tiradentes para a Escócia: artista que já trabalhou no farol vai representar o Brasil no maior festival de artes cênicas do mundo",
-      "category": "evento",
-      "desc": "De Cidade Tiradentes para a Escócia: artista que já trabalhou no farol vai representar o Brasil no maior festival de art",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/05/de-cidade-tiradentes-para-a-escocia-artista-que-ja-trabalhou-no-farol-vai-representar-o-brasil-no-maior-festival-de-artes-cenicas-do-mundo.ghtml"
     }
   ]
 }
