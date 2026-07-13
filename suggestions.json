@@ -1,17 +1,6 @@
 {
-  "updated_at": "10/07/2026 as 13:10",
+  "updated_at": "13/07/2026 as 13:22",
   "items": [
-    {
-      "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/117331?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
       "category": "evento",
@@ -46,75 +35,173 @@
       "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "'O Convite' é comédia que faz rir e chorar; 'A Morte do Demônio: Em Chamas' e o brasileiro 'Herança de Narcisa' são novidades de terror",
+      "name": "ARENA STAR LASER",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Museu da ImigraÃ§Ã£o inaugura exposiÃ§Ã£o sobre Margarida Pandolfo",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Arlete Salles fala sobre morte e envelhecimento em monÃ³logo",
+      "name": "La Bomba de Tiempo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123217?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Grupo Corpo volta a SÃ£o Paulo em agosto com 'Piracema' e 'Lecuona'",
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aulas Coletivas KIDS",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aulas Individuais",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71486?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Aos moldes das casas-irmÃ£s que ficam nas redondezas, a Adega Santiago, Taberna 474 e a Casa Europa, a caÃ§ula serve receitas bem-executadas e feitas com ingredientes de qualidade, sem grandes surpresas.",
+      "name": "Jantar Show Diretamente de Buenos Aires",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Amado Timóteo - Espetáculo de dança",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122466?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O AVESSO DA PELE",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Broadway Cabaret Night",
+      "category": "musical",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123738?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Santo Riso em São Paulo - Humor para a família",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122777?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Proibido Para Menores de 18 Anos no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122615?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Sidarta no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/121960?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Roteiro traz endereços do estilo americano, com massa ultrafina, e italiano com massa retangular alta que lembra focaccia",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "italiano"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Festival JapÃ£o tem comida, artes marciais e cultura pop em SÃ£o Paulo",
+      "name": "ConheÃ§a as pizzas neonapolitana e napolitana, que dominaram a cena",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "festival"
+        "pizza"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Veja lista de novelas de Benedito Ruy Barbosa, com 'Renascer' e 'SinhÃ¡ MoÃ§a'",
+      "name": "MonÃ³logo ranzinza de Hugo Possolo marca 35 anos dos ParlapatÃµes",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -123,6 +210,69 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Cantora Alcione Ã© tema de exposiÃ§Ã£o no Museu das Favelas",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Do caldinho de feijÃ£o de boas-vindas ao cafÃ© coado na mesa, Ã© um prazer fazer uma refeiÃ§Ã£o no Jiquitaia. A comida Ã© gostosa, os pratos sÃ£o bem servidos, e o ambiente Ã© elegante sem intimidar.",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja onde comer a tradicional pizza paulistana, abundante em queijo",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "pizza"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Mostra em SÃ£o Paulo reÃºne projetos vencedores do prÃªmio World Press Photo 2026",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "O que fazer em SP nas férias: exposições interativas, zoológico, parques e peças para crianças",
+      "category": "passeio",
+      "desc": "O que fazer em SP nas férias: exposições interativas, zoológico, parques e peças para crianças",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil",
+        "teatro",
+        "ao-ar-livre"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/11/o-que-fazer-em-sp-nas-ferias-exposicoes-interativas-zoologico-parques-e-pecas-para-criancas.ghtml"
     },
     {
       "name": "Shows de Liniker, Belo, festival gastronômico italiano, festa julina no Horto e live-action de 'Moana' no cinema: veja o que fazer em SP",
@@ -132,8 +282,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "festival",
-        "italiano"
+        "italiano",
+        "festival"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/09/shows-de-liniker-belo-festival-gastronomico-italiano-festa-julina-no-horto-e-live-action-de-moana-no-cinema-veja-o-que-fazer-em-sp.ghtml"
@@ -148,17 +298,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/07/belo-iza-joao-gomes-marisa-monte-e-thiaguinho-arena-brasileira-tem-shows-ate-19-de-julho-no-ibirapuera.ghtml"
-    },
-    {
-      "name": "'Coro do papa' faz apresentações gratuitas na Catedral da Sé, neste domingo, e na Sala São Paulo, no dia 14",
-      "category": "evento",
-      "desc": "'Coro do papa' faz apresentações gratuitas na Catedral da Sé, neste domingo, e na Sala São Paulo, no dia 14",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/05/coro-do-papa-faz-apresentacoes-gratuitas-na-catedral-da-se-neste-domingo-e-na-sala-sao-paulo-no-dia-14.ghtml"
     }
   ]
 }
