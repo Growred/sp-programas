@@ -1,6 +1,17 @@
 {
-  "updated_at": "13/07/2026 as 13:22",
+  "updated_at": "15/07/2026 as 12:13",
   "items": [
+    {
+      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP (Infos na descrição)",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
       "category": "evento",
@@ -11,6 +22,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Led Zeppelin in Concert Por Nova Orquestra - São Paulo",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122414?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
@@ -24,185 +46,32 @@
       "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "MUSEU DAS CULTURAS INDÍGENAS",
+      "name": "Britânico faz quatro apresentações no estádio Morumbis; uma delas, no sábado, já está esgotada",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Parque inflÃ¡vel da Turma da MÃ´nica Ã© inaugurado em SÃ£o Paulo",
       "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "ARENA STAR LASER",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "La Bomba de Tiempo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123217?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Sinatra In Concert",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Aulas Coletivas KIDS",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
       "tags": [
-        "infantil"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Aulas Individuais",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/71486?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Jantar Show Diretamente de Buenos Aires",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Amado Timóteo - Espetáculo de dança",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122466?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "O AVESSO DA PELE",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Broadway Cabaret Night",
-      "category": "musical",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123738?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Santo Riso em São Paulo - Humor para a família",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "infantil"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122777?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Proibido Para Menores de 18 Anos no TEATRO ESTÚDIO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122615?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Sidarta no TEATRO ESTÚDIO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/121960?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Roteiro traz endereços do estilo americano, com massa ultrafina, e italiano com massa retangular alta que lembra focaccia",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "italiano"
+        "ao-ar-livre"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "ConheÃ§a as pizzas neonapolitana e napolitana, que dominaram a cena",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "pizza"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "MonÃ³logo ranzinza de Hugo Possolo marca 35 anos dos ParlapatÃµes",
-      "category": "evento",
+      "name": "ConheÃ§a filmes e sÃ©ries que refletem sobre o amor moderno",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -212,8 +81,8 @@
       "link": ""
     },
     {
-      "name": "Cantora Alcione Ã© tema de exposiÃ§Ã£o no Museu das Favelas",
-      "category": "show",
+      "name": "EdifÃ­cio Rolim recebe experiÃªncia de terror inspirada em filme",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -234,28 +103,26 @@
       "link": ""
     },
     {
-      "name": "Veja onde comer a tradicional pizza paulistana, abundante em queijo",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "pizza"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Mostra em SÃ£o Paulo reÃºne projetos vencedores do prÃªmio World Press Photo 2026",
+      "name": "Festival terÃ¡ peÃ§as de DÃ©bora Falabella, Gianecchini e Vera Holtz",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "exposicao"
+        "festival"
       ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "DocumentÃ¡rios dirigidos por mulheres registram polÃ­tica recente do Brasil",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -267,8 +134,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "infantil",
         "teatro",
+        "infantil",
         "ao-ar-livre"
       ],
       "source": "G1 Guia SP",
@@ -282,8 +149,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "italiano",
-        "festival"
+        "festival",
+        "italiano"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/09/shows-de-liniker-belo-festival-gastronomico-italiano-festa-julina-no-horto-e-live-action-de-moana-no-cinema-veja-o-que-fazer-em-sp.ghtml"
