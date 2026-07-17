@@ -1,17 +1,6 @@
 {
-  "updated_at": "15/07/2026 as 12:13",
+  "updated_at": "17/07/2026 as 12:08",
   "items": [
-    {
-      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP (Infos na descrição)",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
       "category": "evento",
@@ -46,53 +35,143 @@
       "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Britânico faz quatro apresentações no estádio Morumbis; uma delas, no sábado, já está esgotada",
+      "name": "MUSEU DAS CULTURAS INDÍGENAS",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "La Bomba de Tiempo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123217?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Parque inflÃ¡vel da Turma da MÃ´nica Ã© inaugurado em SÃ£o Paulo",
-      "category": "passeio",
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "MICHAEL JACKSON SINFÔNICO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124038?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cícero - 15 anos de Canções de Apartamento",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123857?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aulas Coletivas KIDS",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "ao-ar-livre"
+        "infantil"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "ConheÃ§a filmes e sÃ©ries que refletem sobre o amor moderno",
-      "category": "cinema",
+      "name": "Jantar Show Diretamente de Buenos Aires",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "EdifÃ­cio Rolim recebe experiÃªncia de terror inspirada em filme",
-      "category": "cinema",
+      "name": "Amado Timóteo - Espetáculo de dança",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122466?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Do caldinho de feijÃ£o de boas-vindas ao cafÃ© coado na mesa, Ã© um prazer fazer uma refeiÃ§Ã£o no Jiquitaia. A comida Ã© gostosa, os pratos sÃ£o bem servidos, e o ambiente Ã© elegante sem intimidar.",
+      "name": "Broadway Cabaret Night",
+      "category": "musical",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123738?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O AVESSO DA PELE",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Santo Riso em São Paulo - Humor para a família",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122777?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Receitas partem do olhar da chef para a comida de países como Nigéria, Angola, Moçambique e Senegal; casa fica no complexo Mata São Paulo",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -103,20 +182,7 @@
       "link": ""
     },
     {
-      "name": "Festival terÃ¡ peÃ§as de DÃ©bora Falabella, Gianecchini e Vera Holtz",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "DocumentÃ¡rios dirigidos por mulheres registram polÃ­tica recente do Brasil",
+      "name": "PeÃ§a acompanha lÃ­der de seita que usa carisma para atrair jovens",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -125,6 +191,91 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Bar Brahma abre unidade de 650 mÂ² que retoma tradiÃ§Ã£o do samba",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "samba"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Marisa Monte encerra turnÃª 'Phonica' com orquestra em SP",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Um aviso escrito no cardÃ¡pio do Cannoli do Calimano deu uma pista: \"NÃ£o alteramos ingredientes. Quer inventar? Abra sua pizzaria\". A sinceridade e o apego Ã s receitas pareceram um Ã³timo pressÃ¡gio.",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "pizza"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Christopher Nolan conduz jornada Ã©pica em 'A Odisseia'; veja estreias",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Astro do pop Harry Styles traz a SP 'Kiss All the Time, Disco Occasionally', seu Ãºltimo trabalho",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Harry Styles, Karol Conká, 'A Odisseia' no cinema e Arraiá da Quebrada: veja o que fazer em SP",
+      "category": "cinema",
+      "desc": "Harry Styles, Karol Conká, 'A Odisseia' no cinema e Arraiá da Quebrada: veja o que fazer em SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/17/harry-styles-karol-conka-a-odisseia-no-cinema-e-arraia-da-quebrada-veja-o-que-fazer-em-sp.ghtml"
+    },
+    {
+      "name": "Alcione celebra 50 anos de carreira com exposição que 'massageia alma' no Museu das Favelas",
+      "category": "evento",
+      "desc": "Alcione celebra 50 anos de carreira com exposição que 'massageia alma' no Museu das Favelas",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/16/alcione-celebra-50-anos-de-carreira-com-exposicao-que-massageia-alma-no-museu-das-favelas.ghtml"
     },
     {
       "name": "O que fazer em SP nas férias: exposições interativas, zoológico, parques e peças para crianças",
@@ -134,37 +285,12 @@
       "date": "",
       "hours": "",
       "tags": [
-        "teatro",
         "infantil",
-        "ao-ar-livre"
+        "ao-ar-livre",
+        "teatro"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/11/o-que-fazer-em-sp-nas-ferias-exposicoes-interativas-zoologico-parques-e-pecas-para-criancas.ghtml"
-    },
-    {
-      "name": "Shows de Liniker, Belo, festival gastronômico italiano, festa julina no Horto e live-action de 'Moana' no cinema: veja o que fazer em SP",
-      "category": "cinema",
-      "desc": "Shows de Liniker, Belo, festival gastronômico italiano, festa julina no Horto e live-action de 'Moana' no cinema: veja o",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival",
-        "italiano"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/09/shows-de-liniker-belo-festival-gastronomico-italiano-festa-julina-no-horto-e-live-action-de-moana-no-cinema-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Belo, IZA, João Gomes, Marisa Monte e Thiaguinho: Arena Brasileira tem shows até 19 de julho no Ibirapuera",
-      "category": "show",
-      "desc": "Belo, IZA, João Gomes, Marisa Monte e Thiaguinho: Arena Brasileira tem shows até 19 de julho no Ibirapuera",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/07/belo-iza-joao-gomes-marisa-monte-e-thiaguinho-arena-brasileira-tem-shows-ate-19-de-julho-no-ibirapuera.ghtml"
     }
   ]
 }
