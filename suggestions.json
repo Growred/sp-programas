@@ -1,5 +1,5 @@
 {
-  "updated_at": "17/07/2026 as 12:08",
+  "updated_at": "20/07/2026 as 13:04",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -33,17 +33,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "MUSEU DAS CULTURAS INDÍGENAS",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Museu do Futebol",
@@ -90,17 +79,6 @@
       "link": "https://bileto.sympla.com.br/event/124038?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Cícero - 15 anos de Canções de Apartamento",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123857?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Aulas Coletivas KIDS",
       "category": "evento",
       "desc": "",
@@ -125,17 +103,6 @@
       "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Amado Timóteo - Espetáculo de dança",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122466?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Broadway Cabaret Night",
       "category": "musical",
       "desc": "",
@@ -158,20 +125,51 @@
       "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Santo Riso em São Paulo - Humor para a família",
+      "name": "Aristo Sham",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "infantil"
-      ],
+      "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122777?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Receitas partem do olhar da chef para a comida de países como Nigéria, Angola, Moçambique e Senegal; casa fica no complexo Mata São Paulo",
+      "name": "Zaccai Curtis",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123301?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "QUASE TODOS",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Receitas são cobertas por confetes, marshmallow e têm formatos excêntricos; preparos alcançaram até 900 mil visualizções no TikTok",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Bela Gil inaugura restaurante de cozinha africana Preta Maria",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -182,25 +180,14 @@
       "link": ""
     },
     {
-      "name": "PeÃ§a acompanha lÃ­der de seita que usa carisma para atrair jovens",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Bar Brahma abre unidade de 650 mÂ² que retoma tradiÃ§Ã£o do samba",
-      "category": "show",
+      "name": "Musical 'Tick Tick...Boom!' faz Ãºltimas sessÃµes no fim de semana",
+      "category": "musical",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "samba"
+        "musical"
       ],
       "source": "Guia Folha",
       "link": ""
