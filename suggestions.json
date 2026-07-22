@@ -1,5 +1,5 @@
 {
-  "updated_at": "20/07/2026 as 13:04",
+  "updated_at": "22/07/2026 as 12:23",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -68,17 +68,6 @@
       "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "MICHAEL JACKSON SINFÔNICO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124038?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Aulas Coletivas KIDS",
       "category": "evento",
       "desc": "",
@@ -103,17 +92,6 @@
       "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Broadway Cabaret Night",
-      "category": "musical",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123738?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "O AVESSO DA PELE",
       "category": "evento",
       "desc": "",
@@ -125,15 +103,15 @@
       "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Aristo Sham",
-      "category": "evento",
+      "name": "Broadway Cabaret Night",
+      "category": "musical",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/123738?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Zaccai Curtis",
@@ -147,6 +125,17 @@
       "link": "https://bileto.sympla.com.br/event/123301?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Aristo Sham",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "QUASE TODOS",
       "category": "evento",
       "desc": "",
@@ -158,7 +147,40 @@
       "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Receitas são cobertas por confetes, marshmallow e têm formatos excêntricos; preparos alcançaram até 900 mil visualizções no TikTok",
+      "name": "Por acaso - Sandra de Sá & Paulo Miklos - Talk Show",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124136?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Por Acaso  -  Sued Nunes & Luciana Mello -  Talk Show",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124137?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Atriz está em cartaz nos cinemas com papel duplo em 'Herança de Narcisa'; filme de Clarissa Appelt e Daniel Dias venceu prêmio por voto popular",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "AizomÃª e o MocotÃ³ abrem unidades na regiÃ£o sul com novos cardÃ¡pios",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -169,8 +191,8 @@
       "link": ""
     },
     {
-      "name": "Bela Gil inaugura restaurante de cozinha africana Preta Maria",
-      "category": "restaurante",
+      "name": "Deborah Colker revisita repertÃ³rio de sua companhia em espetÃ¡culo",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -180,21 +202,8 @@
       "link": ""
     },
     {
-      "name": "Musical 'Tick Tick...Boom!' faz Ãºltimas sessÃµes no fim de semana",
-      "category": "musical",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "musical"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Marisa Monte encerra turnÃª 'Phonica' com orquestra em SP",
-      "category": "evento",
+      "name": "ChitÃ£ozinho e XororÃ³ anunciam show em outubro em SÃ£o Paulo",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -217,20 +226,7 @@
       "link": ""
     },
     {
-      "name": "Christopher Nolan conduz jornada Ã©pica em 'A Odisseia'; veja estreias",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Astro do pop Harry Styles traz a SP 'Kiss All the Time, Disco Occasionally', seu Ãºltimo trabalho",
+      "name": "Com Gorillaz e The Strokes, Primavera Sound anuncia valores",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -239,6 +235,30 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Bairro da Liberdade vira epicentro de guloseimas coloridas criadas para viralizar nas redes",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Festival Filmes Incríveis abre edição de 2026 com sessão especial de 'No Good Men' no Cine Belas Artes",
+      "category": "cinema",
+      "desc": "Festival Filmes Incríveis abre edição de 2026 com sessão especial de 'No Good Men' no Cine Belas Artes",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/20/festival-filmes-incriveis-abre-edicao-de-2026-com-sessao-especial-de-no-good-men-no-cine-belas-artes.ghtml"
     },
     {
       "name": "Harry Styles, Karol Conká, 'A Odisseia' no cinema e Arraiá da Quebrada: veja o que fazer em SP",
@@ -263,21 +283,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/16/alcione-celebra-50-anos-de-carreira-com-exposicao-que-massageia-alma-no-museu-das-favelas.ghtml"
-    },
-    {
-      "name": "O que fazer em SP nas férias: exposições interativas, zoológico, parques e peças para crianças",
-      "category": "passeio",
-      "desc": "O que fazer em SP nas férias: exposições interativas, zoológico, parques e peças para crianças",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "infantil",
-        "ao-ar-livre",
-        "teatro"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/11/o-que-fazer-em-sp-nas-ferias-exposicoes-interativas-zoologico-parques-e-pecas-para-criancas.ghtml"
     }
   ]
 }
