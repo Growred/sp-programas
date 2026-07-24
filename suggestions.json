@@ -1,17 +1,6 @@
 {
-  "updated_at": "22/07/2026 as 12:23",
+  "updated_at": "24/07/2026 as 12:17",
   "items": [
-    {
-      "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
     {
       "name": "Led Zeppelin in Concert Por Nova Orquestra - São Paulo",
       "category": "show",
@@ -22,6 +11,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/122414?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "MUSEU DAS CULTURAS INDÍGENAS",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
@@ -44,6 +44,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu da Língua  Portuguesa",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "La Bomba de Tiempo",
@@ -147,17 +158,6 @@
       "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Por acaso - Sandra de Sá & Paulo Miklos - Talk Show",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124136?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Por Acaso  -  Sued Nunes & Luciana Mello -  Talk Show",
       "category": "show",
       "desc": "",
@@ -169,41 +169,45 @@
       "link": "https://bileto.sympla.com.br/event/124137?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Atriz está em cartaz nos cinemas com papel duplo em 'Herança de Narcisa'; filme de Clarissa Appelt e Daniel Dias venceu prêmio por voto popular",
+      "name": "Após encerrar atividades na Vila Olímpia, restaurante do chef Saulo Jennings retorna com menu que inclui peixes amazônicos assados inteiros",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "'Pequenas Criaturas', com Carolina Dieckmann, estreia nos cinemas",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "estreia"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "AizomÃª e o MocotÃ³ abrem unidades na regiÃ£o sul com novos cardÃ¡pios",
-      "category": "evento",
+      "name": "Chef italiano Rodolfo de Santis volta ao Itaim Bibi em nova tratoria",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "italiano"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Deborah Colker revisita repertÃ³rio de sua companhia em espetÃ¡culo",
+      "name": "MarÃ­lia MendonÃ§a serÃ¡ tema de exposiÃ§Ã£o no MIS em outubro",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ChitÃ£ozinho e XororÃ³ anunciam show em outubro em SÃ£o Paulo",
-      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -226,7 +230,7 @@
       "link": ""
     },
     {
-      "name": "Com Gorillaz e The Strokes, Primavera Sound anuncia valores",
+      "name": "MIS faz audiÃ§Ã£o grÃ¡tis de novo Ã¡lbum de Charli XCX em SP",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -237,7 +241,7 @@
       "link": ""
     },
     {
-      "name": "Bairro da Liberdade vira epicentro de guloseimas coloridas criadas para viralizar nas redes",
+      "name": "AizomÃª e o MocotÃ³ abrem unidades na regiÃ£o sul da capital com novidades no cardÃ¡pio",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -246,6 +250,32 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Show de Martinho da Vila e Mart'nália, Claudia Ohana de volta aos palcos e Festa das Cerejeiras do Parque do Carmo: veja o que fazer em SP",
+      "category": "show",
+      "desc": "Show de Martinho da Vila e Mart'nália, Claudia Ohana de volta aos palcos e Festa das Cerejeiras do Parque do Carmo: veja",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "ao-ar-livre"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/24/show-de-martinho-da-vila-e-martnalia-claudia-ohana-de-volta-aos-palcos-e-festa-das-cerejeiras-do-parque-do-carmo-veja-o-que-fazer-em-sp.ghtml"
+    },
+    {
+      "name": "Por que fãs assistem ao mesmo musical dezenas de vezes? Emoção, surpresa e sensação de pertencimento explicam fenômeno",
+      "category": "musical",
+      "desc": "Por que fãs assistem ao mesmo musical dezenas de vezes? Emoção, surpresa e sensação de pertencimento explicam fenômeno",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "musical"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/23/por-que-fas-assistem-ao-mesmo-musical-dezenas-de-vezes-emocao-surpresa-e-sensacao-de-pertencimento-explicam-fenomeno.ghtml"
     },
     {
       "name": "Festival Filmes Incríveis abre edição de 2026 com sessão especial de 'No Good Men' no Cine Belas Artes",
@@ -259,30 +289,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/20/festival-filmes-incriveis-abre-edicao-de-2026-com-sessao-especial-de-no-good-men-no-cine-belas-artes.ghtml"
-    },
-    {
-      "name": "Harry Styles, Karol Conká, 'A Odisseia' no cinema e Arraiá da Quebrada: veja o que fazer em SP",
-      "category": "cinema",
-      "desc": "Harry Styles, Karol Conká, 'A Odisseia' no cinema e Arraiá da Quebrada: veja o que fazer em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/17/harry-styles-karol-conka-a-odisseia-no-cinema-e-arraia-da-quebrada-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Alcione celebra 50 anos de carreira com exposição que 'massageia alma' no Museu das Favelas",
-      "category": "evento",
-      "desc": "Alcione celebra 50 anos de carreira com exposição que 'massageia alma' no Museu das Favelas",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/16/alcione-celebra-50-anos-de-carreira-com-exposicao-que-massageia-alma-no-museu-das-favelas.ghtml"
     }
   ]
 }
