@@ -1,5 +1,5 @@
 {
-  "updated_at": "24/07/2026 as 12:17",
+  "updated_at": "27/07/2026 as 13:38",
   "items": [
     {
       "name": "Led Zeppelin in Concert Por Nova Orquestra - São Paulo",
@@ -35,17 +35,6 @@
       "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Museu do Futebol",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Museu da Língua  Portuguesa",
       "category": "passeio",
       "desc": "",
@@ -55,17 +44,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "La Bomba de Tiempo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123217?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Sinatra In Concert",
@@ -103,17 +81,6 @@
       "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "O AVESSO DA PELE",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Broadway Cabaret Night",
       "category": "musical",
       "desc": "",
@@ -125,7 +92,7 @@
       "link": "https://bileto.sympla.com.br/event/123738?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Zaccai Curtis",
+      "name": "O AVESSO DA PELE",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -133,7 +100,7 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123301?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/107254?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Aristo Sham",
@@ -145,6 +112,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Por Acaso   -             Jadsa & Tássia Reis    -       Talk Show",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124138?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "QUASE TODOS",
@@ -169,8 +147,19 @@
       "link": "https://bileto.sympla.com.br/event/124137?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Após encerrar atividades na Vila Olímpia, restaurante do chef Saulo Jennings retorna com menu que inclui peixes amazônicos assados inteiros",
-      "category": "restaurante",
+      "name": "Douglas de Lima em São Paulo - Vida de Crente Casado",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124177?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cidade tem unidades públicas e privadas com acervos expecializados em gibis e fotografia, além de espaço para estudo e trabalho",
+      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -180,8 +169,32 @@
       "link": ""
     },
     {
-      "name": "'Pequenas Criaturas', com Carolina Dieckmann, estreia nos cinemas",
-      "category": "cinema",
+      "name": "Com show de Tom ZÃ©, festival debate arte e direitos humanos",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Folha Prova elege melhores geleias de morango vendidas em mercados",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Bianca Bin Ã© terapeuta de SÃ©rgio GuizÃ© em peÃ§a que estreia em SP",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -193,20 +206,7 @@
       "link": ""
     },
     {
-      "name": "Chef italiano Rodolfo de Santis volta ao Itaim Bibi em nova tratoria",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "italiano"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "MarÃ­lia MendonÃ§a serÃ¡ tema de exposiÃ§Ã£o no MIS em outubro",
+      "name": "Parrilla nÃ£o pode ser boa. Tem de ser muito boa. Porque Ã© nela que a gente pensa quando bate o desejo de comer uma carne memorÃ¡vel. E porque ali os cortes vÃªm sozinhos no prato e custam caro. EntÃ£o, se houver algum risco de o preparo ser apenas mediano, vale olhar para outras possibilidades do cardÃ¡pio em busca de uma refeiÃ§Ã£o saborosa e de custo-benefÃ­cio mais amigÃ¡vel.",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -217,20 +217,7 @@
       "link": ""
     },
     {
-      "name": "Um aviso escrito no cardÃ¡pio do Cannoli do Calimano deu uma pista: \"NÃ£o alteramos ingredientes. Quer inventar? Abra sua pizzaria\". A sinceridade e o apego Ã s receitas pareceram um Ã³timo pressÃ¡gio.",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "pizza"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "MIS faz audiÃ§Ã£o grÃ¡tis de novo Ã¡lbum de Charli XCX em SP",
+      "name": "ConheÃ§a bibliotecas temÃ¡ticas de SP, com acervos de poesia e ciÃªncia",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -241,7 +228,7 @@
       "link": ""
     },
     {
-      "name": "AizomÃª e o MocotÃ³ abrem unidades na regiÃ£o sul da capital com novidades no cardÃ¡pio",
+      "name": "Camila Pitanga e Bete Coelho sÃ£o a mesma pessoa em 'Lia Lia', peÃ§a com sessÃµes grÃ¡tis",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -252,9 +239,20 @@
       "link": ""
     },
     {
-      "name": "Show de Martinho da Vila e Mart'nália, Claudia Ohana de volta aos palcos e Festa das Cerejeiras do Parque do Carmo: veja o que fazer em SP",
-      "category": "show",
-      "desc": "Show de Martinho da Vila e Mart'nália, Claudia Ohana de volta aos palcos e Festa das Cerejeiras do Parque do Carmo: veja",
+      "name": "Em 1º monólogo, Felipe Hintze discute violência, erotização e estigmas contra corpos gordos",
+      "category": "evento",
+      "desc": "Em 1º monólogo, Felipe Hintze discute violência, erotização e estigmas contra corpos gordos",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/26/em-1o-monologo-felipe-hintze-discute-violencia-erotizacao-e-estigmas-contra-corpos-gordos.ghtml"
+    },
+    {
+      "name": "Parque Ceret, na Zona Leste de SP, recebe Copa do Brasil de Futebol 7 Society, com mais de 1,5 mil atletas",
+      "category": "passeio",
+      "desc": "Parque Ceret, na Zona Leste de SP, recebe Copa do Brasil de Futebol 7 Society, com mais de 1,5 mil atletas",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
@@ -262,25 +260,12 @@
         "ao-ar-livre"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/24/show-de-martinho-da-vila-e-martnalia-claudia-ohana-de-volta-aos-palcos-e-festa-das-cerejeiras-do-parque-do-carmo-veja-o-que-fazer-em-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/24/parque-ceret-na-zona-leste-de-sp-recebe-copa-do-brasil-de-futebol-7-society-com-mais-de-15-mil-atletas.ghtml"
     },
     {
-      "name": "Por que fãs assistem ao mesmo musical dezenas de vezes? Emoção, surpresa e sensação de pertencimento explicam fenômeno",
-      "category": "musical",
-      "desc": "Por que fãs assistem ao mesmo musical dezenas de vezes? Emoção, surpresa e sensação de pertencimento explicam fenômeno",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "musical"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/23/por-que-fas-assistem-ao-mesmo-musical-dezenas-de-vezes-emocao-surpresa-e-sensacao-de-pertencimento-explicam-fenomeno.ghtml"
-    },
-    {
-      "name": "Festival Filmes Incríveis abre edição de 2026 com sessão especial de 'No Good Men' no Cine Belas Artes",
-      "category": "cinema",
-      "desc": "Festival Filmes Incríveis abre edição de 2026 com sessão especial de 'No Good Men' no Cine Belas Artes",
+      "name": "Festival de Inverno de Campos do Jordão forma músicos há mais de 50 anos; professora viveu a transformação como aluna",
+      "category": "evento",
+      "desc": "Festival de Inverno de Campos do Jordão forma músicos há mais de 50 anos; professora viveu a transformação como aluna",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
@@ -288,7 +273,7 @@
         "festival"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/20/festival-filmes-incriveis-abre-edicao-de-2026-com-sessao-especial-de-no-good-men-no-cine-belas-artes.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/24/festival-de-inverno-de-campos-do-jordao-forma-musicos-ha-mais-de-50-anos-professora-viveu-a-transformacao-como-aluna.ghtml"
     }
   ]
 }
