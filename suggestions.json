@@ -1,6 +1,17 @@
 {
-  "updated_at": "27/07/2026 as 13:38",
+  "updated_at": "29/07/2026 as 12:59",
   "items": [
+    {
+      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP (Infos na descrição)",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
     {
       "name": "Led Zeppelin in Concert Por Nova Orquestra - São Paulo",
       "category": "show",
@@ -33,6 +44,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O Que Tem na Cozinha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Museu da Língua  Portuguesa",
@@ -114,17 +136,6 @@
       "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Por Acaso   -             Jadsa & Tássia Reis    -       Talk Show",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124138?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "QUASE TODOS",
       "category": "evento",
       "desc": "",
@@ -136,18 +147,7 @@
       "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Por Acaso  -  Sued Nunes & Luciana Mello -  Talk Show",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124137?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Douglas de Lima em São Paulo - Vida de Crente Casado",
+      "name": "MAZAL TOV - Quando a Vida Sorri",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -155,34 +155,23 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124177?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/123148?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Cidade tem unidades públicas e privadas com acervos expecializados em gibis e fotografia, além de espaço para estudo e trabalho",
-      "category": "bar",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Com show de Tom ZÃ©, festival debate arte e direitos humanos",
+      "name": "Cantor se apresenta na sexta-feira, 25 de setembro; venda geral de ingressos começa nesta quinta (30), às 10h, na Eventim",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "festival"
+        "feira"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Folha Prova elege melhores geleias de morango vendidas em mercados",
+      "name": "Salas de Imax no Brasil exibem 'A Odisseia' com imagens cortadas",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -193,15 +182,24 @@
       "link": ""
     },
     {
-      "name": "Bianca Bin Ã© terapeuta de SÃ©rgio GuizÃ© em peÃ§a que estreia em SP",
-      "category": "show",
+      "name": "Cisne Negro Cia de DanÃ§a apresenta 'O Quebra-Nozes' em dezembro",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "estreia"
-      ],
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Festa das Cerejeiras celebra flores e cultura do JapÃ£o em SÃ£o Paulo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -217,7 +215,7 @@
       "link": ""
     },
     {
-      "name": "ConheÃ§a bibliotecas temÃ¡ticas de SP, com acervos de poesia e ciÃªncia",
+      "name": "CafÃ© temporÃ¡rio inspirado na sÃ©rie 'Friends' Ã© aberto em Pinheiros",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -228,7 +226,7 @@
       "link": ""
     },
     {
-      "name": "Camila Pitanga e Bete Coelho sÃ£o a mesma pessoa em 'Lia Lia', peÃ§a com sessÃµes grÃ¡tis",
+      "name": "Folha Prova elege melhores geleias de morango vendidas em mercados de SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
