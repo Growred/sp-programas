@@ -1,6 +1,17 @@
 {
-  "updated_at": "31/07/2026 as 12:54",
+  "updated_at": "03/08/2026 as 13:40",
   "items": [
+    {
+      "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
     {
       "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP (Infos na descrição)",
       "category": "passeio",
@@ -46,7 +57,7 @@
       "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
+      "name": "ARENA STAR LASER",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -54,18 +65,7 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Museu da Língua  Portuguesa",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Sinatra In Concert",
@@ -79,6 +79,17 @@
       "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "DELVON LAMARR ORGAN TRIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Aulas Coletivas KIDS",
       "category": "evento",
       "desc": "",
@@ -90,28 +101,6 @@
       ],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Aulas Individuais",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/71486?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Jantar Show Diretamente de Buenos Aires",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119896?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Broadway Cabaret Night",
@@ -158,20 +147,40 @@
       "link": "https://bileto.sympla.com.br/event/124136?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Entre as atrações, crianças podem participar de missão de resgate do Baby Smurf em espaço que fica no bairro da Saúde",
+      "name": "MAZAL TOV - Quando a Vida Sorri",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "infantil"
-      ],
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123148?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Com abertura da centésima edição neste sábado (1º), celebração ocupa o bairro do Bexiga, na região central, até o fim de agosto",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Henrique e Juliano cantam sucessos da carreira em show em SÃ£o Paulo",
+      "name": "Novo 'Vingadores' e fim de 'Duna' chegam aos cinemas ainda em 2026",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "BTS, Aespa e Iron Maiden fazem shows em SP no segundo semestre",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -182,24 +191,15 @@
       "link": ""
     },
     {
-      "name": "Tom Holland e Zendaya voltam ao comeÃ§o em novo 'Homem-Aranha'",
+      "name": "Agenda de teatro tem peÃ§a sobre Tarsila do Amaral e festivais",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Festa das Cerejeiras celebra flores e cultura do JapÃ£o em SÃ£o Paulo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
+      "tags": [
+        "teatro"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -215,18 +215,20 @@
       "link": ""
     },
     {
-      "name": "ApÃ³s hiato, JÃ£o faz apresentaÃ§Ã£o Ãºnica do disco 'MemÃ³rias PÃ³stumas'",
-      "category": "evento",
+      "name": "'Meu Filho Ã© um Musical' retrata sucesso de Paulo Gustavo",
+      "category": "musical",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "musical"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Folha Prova elege melhores geleias de morango vendidas em mercados de SÃ£o Paulo",
+      "name": "Cirque du Soleil volta ao Brasil em agosto com nova montagem e visual de espetÃ¡culo 'AlegrÃ­a'",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
