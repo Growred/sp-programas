@@ -1,5 +1,5 @@
 {
-  "updated_at": "03/08/2026 as 13:40",
+  "updated_at": "05/08/2026 as 12:50",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -68,6 +68,17 @@
       "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Echoes: O melhor do Pink Floyd",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Sinatra In Concert",
       "category": "show",
       "desc": "",
@@ -90,6 +101,17 @@
       "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Cícero - 15 anos de Canções de Apartamento",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123857?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Aulas Coletivas KIDS",
       "category": "evento",
       "desc": "",
@@ -103,15 +125,15 @@
       "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Broadway Cabaret Night",
-      "category": "musical",
+      "name": "Aulas Individuais",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123738?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/71486?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Aristo Sham",
@@ -125,15 +147,17 @@
       "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "QUASE TODOS",
+      "name": "O NOME DO TANGO no Teatro Estúdio",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "teatro"
+      ],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119511?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/125019?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Por acaso - Sandra Sá & Paulo Miklos - Talk Show",
@@ -147,18 +171,7 @@
       "link": "https://bileto.sympla.com.br/event/124136?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "MAZAL TOV - Quando a Vida Sorri",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123148?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Com abertura da centésima edição neste sábado (1º), celebração ocupa o bairro do Bexiga, na região central, até o fim de agosto",
+      "name": "Evento acontece de 19 a 21 de março no autódromo de Interlagos, em SP; artistas que compõem o lineup ainda não foram divulgados",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -169,7 +182,20 @@
       "link": ""
     },
     {
-      "name": "Novo 'Vingadores' e fim de 'Duna' chegam aos cinemas ainda em 2026",
+      "name": "Belo, Pixote e Rodriguinho fazem show de pagode dos anos 1990",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "samba"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "'TÃºmulo dos Vagalumes', do Studio Ghibli, volta aos cinemas em agosto",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -180,32 +206,21 @@
       "link": ""
     },
     {
-      "name": "BTS, Aespa e Iron Maiden fazem shows em SP no segundo semestre",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Agenda de teatro tem peÃ§a sobre Tarsila do Amaral e festivais",
+      "name": "Angel Ferreira estreia 'Sidarta', peÃ§a inspirada em Buda, em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "teatro"
+        "estreia"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Apesar dos mais de mil quilÃ´metros de litoral fluminense, Ã© uma raridade encontrar restaurantes de frutos do mar com bom custo-benefÃ­cio no Rio. DifÃ­cil comer peixe fresco ou um prato Ã  base de moluscos ou crustÃ¡ceos por menos de trÃªs dÃ­gitos. O Polvo Marisqueria consegue esse feito em algumas opÃ§Ãµes, com destaque para o menu-executivo.",
-      "category": "restaurante",
+      "name": "O Tau Cozinha nÃ£o cai na armadilha de muitos veganos e vegetarianos. E esta Ã© uma de suas principais qualidades: a aposta no potencial dos vegetais sem que eles precisem parecer o que nÃ£o sÃ£o. Um cogumelo Ã© um cogumelo, uma cebola Ã© uma cebola, e nÃ£o Ã© preciso apelar para sabores que lembrem bacon ou presunto para que eles conquistem o paladar.",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -215,14 +230,14 @@
       "link": ""
     },
     {
-      "name": "'Meu Filho Ã© um Musical' retrata sucesso de Paulo Gustavo",
-      "category": "musical",
+      "name": "Pussycat Dolls faz show no Nubank Parque, em SÃ£o Paulo, em outubro",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "musical"
+        "ao-ar-livre"
       ],
       "source": "Guia Folha",
       "link": ""
@@ -239,6 +254,32 @@
       "link": ""
     },
     {
+      "name": "Festival da Cultura Coreana chega à 19ª edição no Bom Retiro com expectativa de 100 mil visitantes e atração internacional",
+      "category": "evento",
+      "desc": "Festival da Cultura Coreana chega à 19ª edição no Bom Retiro com expectativa de 100 mil visitantes e atração internacion",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/05/festival-da-cultura-coreana-chega-a-19a-edicao-no-bom-retiro-com-expectativa-de-100-mil-visitantes-e-atracao-internacional.ghtml"
+    },
+    {
+      "name": "Tiê faz show gratuito no Theatro Municipal de SP durante premiação dedicada ao combate à corrupção",
+      "category": "show",
+      "desc": "Tiê faz show gratuito no Theatro Municipal de SP durante premiação dedicada ao combate à corrupção",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "gratuito"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/04/tie-faz-show-gratuito-no-theatro-municipal-de-sp-durante-premiacao-dedicada-ao-combate-a-corrupcao.ghtml"
+    },
+    {
       "name": "Veja o que fazer em SP: show de Guilherme Arantes, peça de Paulo Betti, stand up comedy e maestro João Carlos Martins",
       "category": "show",
       "desc": "Veja o que fazer em SP: show de Guilherme Arantes, peça de Paulo Betti, stand up comedy e maestro João Carlos Martins",
@@ -250,30 +291,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/31/veja-o-que-fazer-em-sp-show-de-guilherme-arantes-peca-de-paulo-betti-stand-up-comedy-e-maestro-joao-carlos-martins.ghtml"
-    },
-    {
-      "name": "Em 1º monólogo, Felipe Hintze discute violência, erotização e estigmas contra corpos gordos",
-      "category": "evento",
-      "desc": "Em 1º monólogo, Felipe Hintze discute violência, erotização e estigmas contra corpos gordos",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/26/em-1o-monologo-felipe-hintze-discute-violencia-erotizacao-e-estigmas-contra-corpos-gordos.ghtml"
-    },
-    {
-      "name": "Parque Ceret, na Zona Leste de SP, recebe Copa do Brasil de Futebol 7 Society, com mais de 1,5 mil atletas",
-      "category": "passeio",
-      "desc": "Parque Ceret, na Zona Leste de SP, recebe Copa do Brasil de Futebol 7 Society, com mais de 1,5 mil atletas",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "ao-ar-livre"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/24/parque-ceret-na-zona-leste-de-sp-recebe-copa-do-brasil-de-futebol-7-society-com-mais-de-15-mil-atletas.ghtml"
     }
   ]
 }
