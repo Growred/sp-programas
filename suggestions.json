@@ -1,5 +1,5 @@
 {
-  "updated_at": "05/08/2026 as 12:50",
+  "updated_at": "07/08/2026 as 11:43",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -57,6 +57,17 @@
       "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "ARENA STAR LASER",
       "category": "evento",
       "desc": "",
@@ -77,6 +88,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu da Língua  Portuguesa",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Sinatra In Concert",
@@ -147,32 +169,8 @@
       "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "O NOME DO TANGO no Teatro Estúdio",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/125019?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Por acaso - Sandra Sá & Paulo Miklos - Talk Show",
+      "name": "Inspirado no SXSW, importante vitrine global de tendências, evento ocupa 20 palcos com 750 palestras no Ibirapuera entre 9 e 16 de agosto",
       "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124136?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Evento acontece de 19 a 21 de março no autódromo de Interlagos, em SP; artistas que compõem o lineup ainda não foram divulgados",
-      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -182,20 +180,20 @@
       "link": ""
     },
     {
-      "name": "Belo, Pixote e Rodriguinho fazem show de pagode dos anos 1990",
-      "category": "show",
+      "name": "Da feijoada ao sushi, restaurantes servem menus para o Dia dos Pais",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "samba"
+        "japones"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "'TÃºmulo dos Vagalumes', do Studio Ghibli, volta aos cinemas em agosto",
+      "name": "Terror que discute a obsessÃ£o por emagrecimento entra em cartaz",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -206,20 +204,18 @@
       "link": ""
     },
     {
-      "name": "Angel Ferreira estreia 'Sidarta', peÃ§a inspirada em Buda, em SÃ£o Paulo",
-      "category": "evento",
+      "name": "DÃªze vem de CaraÃ­va para disputar lugar no topo da gastronomia de SP",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "estreia"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "O Tau Cozinha nÃ£o cai na armadilha de muitos veganos e vegetarianos. E esta Ã© uma de suas principais qualidades: a aposta no potencial dos vegetais sem que eles precisem parecer o que nÃ£o sÃ£o. Um cogumelo Ã© um cogumelo, uma cebola Ã© uma cebola, e nÃ£o Ã© preciso apelar para sabores que lembrem bacon ou presunto para que eles conquistem o paladar.",
+      "name": "O Tau Cozinha nÃ£o cai na armadilha de muitos veganos e vegetarianos. E esta Ã© uma de suas principais qualidades: a aposta no potencial dos vegetais sem que eles precisem parecer o que nÃ£o sÃ£o. Um cogumelo Ã© um cogumelo, uma cebola Ã© uma cebola, e nÃ£o Ã© preciso apelar para sabores como bacon ou presunto para que eles conquistem o paladar.",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -230,20 +226,7 @@
       "link": ""
     },
     {
-      "name": "Pussycat Dolls faz show no Nubank Parque, em SÃ£o Paulo, em outubro",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "ao-ar-livre"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Cirque du Soleil volta ao Brasil em agosto com nova montagem e visual de espetÃ¡culo 'AlegrÃ­a'",
+      "name": "Xuxa anuncia data extra da turnÃª 'O Ãltimo Voo da Nave' na capital",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -254,43 +237,55 @@
       "link": ""
     },
     {
-      "name": "Festival da Cultura Coreana chega à 19ª edição no Bom Retiro com expectativa de 100 mil visitantes e atração internacional",
+      "name": "Lollapalooza 2027 abre venda de passaporte para os trÃªs dias do festival; veja valores",
       "category": "evento",
-      "desc": "Festival da Cultura Coreana chega à 19ª edição no Bom Retiro com expectativa de 100 mil visitantes e atração internacion",
+      "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
         "festival"
       ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/05/festival-da-cultura-coreana-chega-a-19a-edicao-no-bom-retiro-com-expectativa-de-100-mil-visitantes-e-atracao-internacional.ghtml"
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "Tiê faz show gratuito no Theatro Municipal de SP durante premiação dedicada ao combate à corrupção",
-      "category": "show",
-      "desc": "Tiê faz show gratuito no Theatro Municipal de SP durante premiação dedicada ao combate à corrupção",
+      "name": "Como Bia Soull transformou a experiência com prostituição em álbum sobre desejo, tabus e liberdade",
+      "category": "evento",
+      "desc": "Como Bia Soull transformou a experiência com prostituição em álbum sobre desejo, tabus e liberdade",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/07/como-bia-soull-transformou-a-experiencia-com-prostituicao-em-album-sobre-desejo-tabus-e-liberdade.ghtml"
+    },
+    {
+      "name": "Artista plástico Alex Flemming leva exposição sobre o fim do mundo às ruínas de prédio histórico no Centro de SP",
+      "category": "evento",
+      "desc": "Artista plástico Alex Flemming leva exposição sobre o fim do mundo às ruínas de prédio histórico no Centro de SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "gratuito"
+        "exposicao"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/04/tie-faz-show-gratuito-no-theatro-municipal-de-sp-durante-premiacao-dedicada-ao-combate-a-corrupcao.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/07/artista-plastico-alex-flemming-leva-exposicao-sobre-o-fim-do-mundo-as-ruinas-de-predio-historico-no-centro-de-sp.ghtml"
     },
     {
-      "name": "Veja o que fazer em SP: show de Guilherme Arantes, peça de Paulo Betti, stand up comedy e maestro João Carlos Martins",
-      "category": "show",
-      "desc": "Veja o que fazer em SP: show de Guilherme Arantes, peça de Paulo Betti, stand up comedy e maestro João Carlos Martins",
+      "name": "Veja o que fazer em SP: Nando Reis, São Julhão, peça de Sérgio Guizé e Bianca Bin, homenagem a Rita Lee e festival para fãs de gatinhos",
+      "category": "evento",
+      "desc": "Veja o que fazer em SP: Nando Reis, São Julhão, peça de Sérgio Guizé e Bianca Bin, homenagem a Rita Lee e festival para ",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "teatro"
+        "teatro",
+        "festival"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/07/31/veja-o-que-fazer-em-sp-show-de-guilherme-arantes-peca-de-paulo-betti-stand-up-comedy-e-maestro-joao-carlos-martins.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/07/veja-o-que-fazer-em-sp-nando-reis-sao-julhao-peca-de-sergio-guize-e-bianca-bin-homenagem-a-rita-lee-e-festival-para-fas-de-gatinhos.ghtml"
     }
   ]
 }
