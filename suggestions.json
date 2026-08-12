@@ -1,5 +1,5 @@
 {
-  "updated_at": "10/08/2026 as 11:45",
+  "updated_at": "12/08/2026 as 11:43",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -46,19 +46,21 @@
       "link": "https://bileto.sympla.com.br/event/122414?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Churrasco dos países vizinhos usam grelhas e cortes de carnes diferentes da tradição brasileira; casas prezam por contrafilé, ancho e chorizo",
-      "category": "evento",
+      "name": "Nova apresentação ocorre em 18 de novembro no Nubank Parque com valores que variam de R$ 395 a R$ 9.995 na modalidade inteira",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "ao-ar-livre"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Festival SP2B reÃºne mais de 40 shows grÃ¡tis no Ibirapuera",
-      "category": "show",
+      "name": "Ja Rule e Ludmilla sÃ£o atraÃ§Ãµes do Suhai Festival Interlagos",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -70,101 +72,98 @@
       "link": ""
     },
     {
-      "name": "Terapeuta Esther Perel reflete sobre vÃ­nculos humanos no festival",
-      "category": "show",
+      "name": "NÃºcleo Experimental leva tragÃ©dia grega a presÃ­dio da ditadura em SP",
+      "category": "evento",
       "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "'Amanhecer', 'Harry Potter' e 'La La Land' voltam aos cinemas",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Ã um dos pratos mais emblemÃ¡ticos do Chon Kou: literalmente um ninho de batata palha caseira com lulas, camarÃ£o, frango, carne e legumes em molho de soja. Sobre isso tudo, alguns ovos de codorna cozidos. Fica muito bonitinho. E Ã© gostoso.",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Bean to Bar Chocolate Week reÃºne cursos e feira de chocolates",
+      "category": "bar",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "feira"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Outback lanÃ§a tÃ¡buas que combinam a tradicional costela com massas e vegetais",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "italiano"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Osesp faz concerto com trilhas de grandes filmes brasileiros: 'O Auto da Compadecida', 'Carandiru' e 'O Agente Secreto' estão na lista",
+      "category": "cinema",
+      "desc": "Osesp faz concerto com trilhas de grandes filmes brasileiros: 'O Auto da Compadecida', 'Carandiru' e 'O Agente Secreto' ",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/12/osesp-faz-concerto-com-trilhas-de-grandes-filmes-brasileiros-o-auto-da-compadecida-carandiru-e-o-agente-secreto-estao-na-lista.ghtml"
+    },
+    {
+      "name": "Festival Filmes Incríveis encerra 3ª edição na quarta com novo longa de Gus Van Sant seguido de coquetel no Cine Belas Artes",
+      "category": "cinema",
+      "desc": "Festival Filmes Incríveis encerra 3ª edição na quarta com novo longa de Gus Van Sant seguido de coquetel no Cine Belas A",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
         "festival"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/11/festival-filmes-incriveis-encerra-3a-edicao-na-quarta-com-novo-longa-de-gus-van-sant-seguido-de-coquetel-no-cine-belas-artes.ghtml"
     },
     {
-      "name": "No SP2B, Ana Paula Renault fala sobre impulsionar histÃ³rias",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "No The Story of Beef Hot-Pot, no bairro AclimaÃ§Ã£o (regiÃ£o central da cidade), alÃ©m do nome pouco convencional para um restaurante, chama a atenÃ§Ã£o a quantidade de ingredientes do cardÃ¡pio. Entre os cogumelos, hÃ¡ opÃ§Ãµes de shitake a orelha de pau.",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ConheÃ§a cinco obras fundamentais para entender a arte Joan MirÃ³",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Alessandra LeÃ£o canta Alceu ValenÃ§a em show gratuito no vÃ£o do Masp, em SÃ£o Paulo",
+      "name": "Fenômeno argentino Milo J faz shows em São Paulo em setembro",
       "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Como Bia Soull transformou a experiência com prostituição em álbum sobre desejo, tabus e liberdade",
-      "category": "evento",
-      "desc": "Como Bia Soull transformou a experiência com prostituição em álbum sobre desejo, tabus e liberdade",
+      "desc": "Fenômeno argentino Milo J faz shows em São Paulo em setembro",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/07/como-bia-soull-transformou-a-experiencia-com-prostituicao-em-album-sobre-desejo-tabus-e-liberdade.ghtml"
-    },
-    {
-      "name": "Artista plástico Alex Flemming leva exposição sobre o fim do mundo às ruínas de prédio histórico no Centro de SP",
-      "category": "evento",
-      "desc": "Artista plástico Alex Flemming leva exposição sobre o fim do mundo às ruínas de prédio histórico no Centro de SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/07/artista-plastico-alex-flemming-leva-exposicao-sobre-o-fim-do-mundo-as-ruinas-de-predio-historico-no-centro-de-sp.ghtml"
-    },
-    {
-      "name": "Veja o que fazer em SP: Nando Reis, São Julhão, peça de Sérgio Guizé e Bianca Bin, homenagem a Rita Lee e festival para fãs de gatinhos",
-      "category": "evento",
-      "desc": "Veja o que fazer em SP: Nando Reis, São Julhão, peça de Sérgio Guizé e Bianca Bin, homenagem a Rita Lee e festival para ",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro",
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/07/veja-o-que-fazer-em-sp-nando-reis-sao-julhao-peca-de-sergio-guize-e-bianca-bin-homenagem-a-rita-lee-e-festival-para-fas-de-gatinhos.ghtml"
+      "link": "https://g1.globo.com/noticia/2026/08/10/fenomeno-argentino-milo-j-faz-shows-em-sao-paulo-em-setembro.ghtml"
     }
   ]
 }
