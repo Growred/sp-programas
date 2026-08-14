@@ -1,5 +1,5 @@
 {
-  "updated_at": "12/08/2026 as 11:43",
+  "updated_at": "14/08/2026 as 11:41",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -35,7 +35,40 @@
       "link": "https://bileto.sympla.com.br/event/117331?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Led Zeppelin in Concert Por Nova Orquestra - São Paulo",
+      "name": "MUSEU DAS CULTURAS INDÍGENAS",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Echoes: O melhor do Pink Floyd",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu da Língua  Portuguesa",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Sinatra In Concert",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -43,36 +76,104 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122414?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Nova apresentação ocorre em 18 de novembro no Nubank Parque com valores que variam de R$ 395 a R$ 9.995 na modalidade inteira",
-      "category": "passeio",
+      "name": "DELVON LAMARR ORGAN TRIO",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "ao-ar-livre"
-      ],
-      "source": "Guia Folha",
-      "link": ""
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Ja Rule e Ludmilla sÃ£o atraÃ§Ãµes do Suhai Festival Interlagos",
+      "name": "Cícero - 15 anos de Canções de Apartamento",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123857?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aulas Coletivas KIDS",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "festival"
+        "infantil"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "NÃºcleo Experimental leva tragÃ©dia grega a presÃ­dio da ditadura em SP",
+      "name": "Aulas Individuais",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71486?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aristo Sham",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O Nome do Tango no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125019?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Zaccai Curtis",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123301?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Hadassa o Musical",
+      "category": "musical",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "musical"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124247?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Evento acontece no shopping Pátio Higienópolis, na região central da cidade, em 29 de agosto; repertório reúne clássicos de Bach e Beethoven",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -83,8 +184,30 @@
       "link": ""
     },
     {
-      "name": "'Amanhecer', 'Harry Potter' e 'La La Land' voltam aos cinemas",
-      "category": "cinema",
+      "name": "FafÃ¡ de BelÃ©m celebra 50 anos de carreira no Cine Joia, em SÃ£o Paulo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Anne Hathaway enfrenta dinossauros em 'O Fim da Rua'",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "New Order anuncia show extra na capital paulista em novembro",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -105,15 +228,13 @@
       "link": ""
     },
     {
-      "name": "Bean to Bar Chocolate Week reÃºne cursos e feira de chocolates",
-      "category": "bar",
+      "name": "ExposiÃ§Ã£o sobre Tom Jobim destaca preocupaÃ§Ã£o com o meio ambiente",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "feira"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -131,6 +252,31 @@
       "link": ""
     },
     {
+      "name": "João Gomes, Fafá de Belém, comédias, festivais gastronômicos, novo filme de Anne Hathaway: veja o que fazer em SP",
+      "category": "cinema",
+      "desc": "João Gomes, Fafá de Belém, comédias, festivais gastronômicos, novo filme de Anne Hathaway: veja o que fazer em SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/14/joao-gomes-fafa-de-belem-comedias-festivais-gastronomicos-novo-filme-de-anne-hathaway-veja-o-que-fazer-em-sp.ghtml"
+    },
+    {
+      "name": "Festival SPIM estreia em SP com mais de 20 shows e conferência gratuita para fortalecer a música independente",
+      "category": "show",
+      "desc": "Festival SPIM estreia em SP com mais de 20 shows e conferência gratuita para fortalecer a música independente",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia",
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/13/festival-spim-estreia-em-sp-com-mais-de-20-shows-e-conferencia-gratuita-para-fortalecer-a-musica-independente.ghtml"
+    },
+    {
       "name": "Osesp faz concerto com trilhas de grandes filmes brasileiros: 'O Auto da Compadecida', 'Carandiru' e 'O Agente Secreto' estão na lista",
       "category": "cinema",
       "desc": "Osesp faz concerto com trilhas de grandes filmes brasileiros: 'O Auto da Compadecida', 'Carandiru' e 'O Agente Secreto' ",
@@ -140,30 +286,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/12/osesp-faz-concerto-com-trilhas-de-grandes-filmes-brasileiros-o-auto-da-compadecida-carandiru-e-o-agente-secreto-estao-na-lista.ghtml"
-    },
-    {
-      "name": "Festival Filmes Incríveis encerra 3ª edição na quarta com novo longa de Gus Van Sant seguido de coquetel no Cine Belas Artes",
-      "category": "cinema",
-      "desc": "Festival Filmes Incríveis encerra 3ª edição na quarta com novo longa de Gus Van Sant seguido de coquetel no Cine Belas A",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/11/festival-filmes-incriveis-encerra-3a-edicao-na-quarta-com-novo-longa-de-gus-van-sant-seguido-de-coquetel-no-cine-belas-artes.ghtml"
-    },
-    {
-      "name": "Fenômeno argentino Milo J faz shows em São Paulo em setembro",
-      "category": "show",
-      "desc": "Fenômeno argentino Milo J faz shows em São Paulo em setembro",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/noticia/2026/08/10/fenomeno-argentino-milo-j-faz-shows-em-sao-paulo-em-setembro.ghtml"
     }
   ]
 }
