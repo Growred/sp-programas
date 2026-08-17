@@ -1,5 +1,5 @@
 {
-  "updated_at": "14/08/2026 as 11:41",
+  "updated_at": "17/08/2026 as 11:23",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -160,7 +160,78 @@
       "link": "https://bileto.sympla.com.br/event/123301?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Hadassa o Musical",
+      "name": "Proibido Para Menores de 18 Anos no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122615?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Inaugurando o espaço imerviso, quadros da modernista ganham versões tridimensionais para toque, fotos e interação com o público",
+      "category": "bar",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja restaurantes novos e tradicionais para visitar na Paulista",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Cinemas da Paulista atraem pÃºblico com curadoria e preÃ§os acessÃ­veis",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Teatros na Paulista tÃªm musical em homenagem a Bibi Ferreira",
+      "category": "musical",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro",
+        "musical"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "O almoÃ§o no Tari foi uma delÃ­cia. Mas nÃ£o dÃ¡ para recomendar para qualquer paladar. Ã preciso estar preparado para o cardÃ¡pio que provoca e que nÃ£o entrega sabores fÃ¡ceis em receitas que aconchegam. Vai entregar gastronomia de alto nÃ­vel, feita para paladares iniciados ou que queiram aumentar seu repertÃ³rio.",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Musical sobre Gilberto Gil usa o imaginÃ¡rio da tropicÃ¡lia",
       "category": "musical",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -169,11 +240,11 @@
       "tags": [
         "musical"
       ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124247?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "Evento acontece no shopping Pátio Higienópolis, na região central da cidade, em 29 de agosto; repertório reúne clássicos de Bach e Beethoven",
+      "name": "Com novo espaÃ§o de exposiÃ§Ãµes, avenida Paulista se firma como epicentro cultural",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -184,72 +255,32 @@
       "link": ""
     },
     {
-      "name": "FafÃ¡ de BelÃ©m celebra 50 anos de carreira no Cine Joia, em SÃ£o Paulo",
+      "name": "Liberdade recebe festival gratuito neste fim de semana em celebração ao Ano da Cultura Brasil-China",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Anne Hathaway enfrenta dinossauros em 'O Fim da Rua'",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "New Order anuncia show extra na capital paulista em novembro",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Ã um dos pratos mais emblemÃ¡ticos do Chon Kou: literalmente um ninho de batata palha caseira com lulas, camarÃ£o, frango, carne e legumes em molho de soja. Sobre isso tudo, alguns ovos de codorna cozidos. Fica muito bonitinho. E Ã© gostoso.",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ExposiÃ§Ã£o sobre Tom Jobim destaca preocupaÃ§Ã£o com o meio ambiente",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Outback lanÃ§a tÃ¡buas que combinam a tradicional costela com massas e vegetais",
-      "category": "evento",
-      "desc": "",
+      "desc": "Liberdade recebe festival gratuito neste fim de semana em celebração ao Ano da Cultura Brasil-China",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "italiano"
+        "gratuito",
+        "festival"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/14/liberdade-recebe-festival-gratuito-neste-fim-de-semana-em-celebracao-ao-ano-da-cultura-brasil-china.ghtml"
+    },
+    {
+      "name": "'Um depoimento real': peça inspirada em casos reais discute violência contra crianças em apresentações gratuitas na FIESP",
+      "category": "evento",
+      "desc": "'Um depoimento real': peça inspirada em casos reais discute violência contra crianças em apresentações gratuitas na FIES",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil",
+        "teatro"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/14/um-depoimento-real-peca-inspirada-em-casos-reais-discute-violencia-contra-criancas-em-apresentacoes-gratuitas-na-fiesp.ghtml"
     },
     {
       "name": "João Gomes, Fafá de Belém, comédias, festivais gastronômicos, novo filme de Anne Hathaway: veja o que fazer em SP",
@@ -261,31 +292,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/14/joao-gomes-fafa-de-belem-comedias-festivais-gastronomicos-novo-filme-de-anne-hathaway-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Festival SPIM estreia em SP com mais de 20 shows e conferência gratuita para fortalecer a música independente",
-      "category": "show",
-      "desc": "Festival SPIM estreia em SP com mais de 20 shows e conferência gratuita para fortalecer a música independente",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia",
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/13/festival-spim-estreia-em-sp-com-mais-de-20-shows-e-conferencia-gratuita-para-fortalecer-a-musica-independente.ghtml"
-    },
-    {
-      "name": "Osesp faz concerto com trilhas de grandes filmes brasileiros: 'O Auto da Compadecida', 'Carandiru' e 'O Agente Secreto' estão na lista",
-      "category": "cinema",
-      "desc": "Osesp faz concerto com trilhas de grandes filmes brasileiros: 'O Auto da Compadecida', 'Carandiru' e 'O Agente Secreto' ",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/12/osesp-faz-concerto-com-trilhas-de-grandes-filmes-brasileiros-o-auto-da-compadecida-carandiru-e-o-agente-secreto-estao-na-lista.ghtml"
     }
   ]
 }
