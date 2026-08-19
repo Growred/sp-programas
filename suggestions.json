@@ -1,5 +1,5 @@
 {
-  "updated_at": "17/08/2026 as 11:23",
+  "updated_at": "19/08/2026 as 11:23",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -44,6 +44,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O Que Tem na Cozinha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Echoes: O melhor do Pink Floyd",
@@ -136,6 +147,17 @@
       "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Zaccai Curtis",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123301?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "O Nome do Tango no TEATRO ESTÚDIO",
       "category": "evento",
       "desc": "",
@@ -149,32 +171,8 @@
       "link": "https://bileto.sympla.com.br/event/125019?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Zaccai Curtis",
+      "name": "Assinante premium do jornal tem direito a voucher de promoção 2 por 1 em mais de cem locais; conheça estabelecimentos em diferentes regiões",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123301?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Proibido Para Menores de 18 Anos no TEATRO ESTÚDIO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122615?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Inaugurando o espaço imerviso, quadros da modernista ganham versões tridimensionais para toque, fotos e interação com o público",
-      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -184,7 +182,7 @@
       "link": ""
     },
     {
-      "name": "Veja restaurantes novos e tradicionais para visitar na Paulista",
+      "name": "Veja 13 restaurantes para comer bem sem gastar muito em SÃ£o Paulo",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -195,8 +193,8 @@
       "link": ""
     },
     {
-      "name": "Cinemas da Paulista atraem pÃºblico com curadoria e preÃ§os acessÃ­veis",
-      "category": "cinema",
+      "name": "Roteiro apresenta 23 bares que abriram nos Ãºltimos meses em SP",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -206,16 +204,13 @@
       "link": ""
     },
     {
-      "name": "Teatros na Paulista tÃªm musical em homenagem a Bibi Ferreira",
-      "category": "musical",
+      "name": "Descubra 25 restaurantes com comida de diferentes paÃ­ses em SP",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "teatro",
-        "musical"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -231,21 +226,19 @@
       "link": ""
     },
     {
-      "name": "Musical sobre Gilberto Gil usa o imaginÃ¡rio da tropicÃ¡lia",
-      "category": "musical",
+      "name": "Onde tomar um bom cafÃ© em SÃ£o Paulo: veja endereÃ§os para conhecer",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "musical"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Com novo espaÃ§o de exposiÃ§Ãµes, avenida Paulista se firma como epicentro cultural",
-      "category": "evento",
+      "name": "Roteiro lista 26 endereÃ§os para comer comida asiÃ¡tica em SÃ£o Paulo",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -262,8 +255,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "gratuito",
-        "festival"
+        "festival",
+        "gratuito"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/14/liberdade-recebe-festival-gratuito-neste-fim-de-semana-em-celebracao-ao-ano-da-cultura-brasil-china.ghtml"
@@ -276,8 +269,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "infantil",
-        "teatro"
+        "teatro",
+        "infantil"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/14/um-depoimento-real-peca-inspirada-em-casos-reais-discute-violencia-contra-criancas-em-apresentacoes-gratuitas-na-fiesp.ghtml"
