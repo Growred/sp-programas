@@ -1,5 +1,5 @@
 {
-  "updated_at": "19/08/2026 as 11:23",
+  "updated_at": "21/08/2026 as 11:24",
   "items": [
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -68,6 +68,17 @@
       "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Stabat Mater",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125802?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Museu da Língua  Portuguesa",
       "category": "passeio",
       "desc": "",
@@ -77,6 +88,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "VÉRTICE com Novíssimo Edgar e Wagner Antônio",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123991?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Sinatra In Concert",
@@ -136,29 +158,7 @@
       "link": "https://bileto.sympla.com.br/event/71486?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Aristo Sham",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/122798?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Zaccai Curtis",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123301?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "O Nome do Tango no TEATRO ESTÚDIO",
+      "name": "Proibido Para Menores de 18 Anos no TEATRO ESTÚDIO",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -168,10 +168,10 @@
         "teatro"
       ],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/125019?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/122615?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Assinante premium do jornal tem direito a voucher de promoção 2 por 1 em mais de cem locais; conheça estabelecimentos em diferentes regiões",
+      "name": "Longa é dirigido por Will Gluck, de 'Todos Menos Você' (2023); 'Refém por um Fio', com Bill Skarsgard, também chega às telonas",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -182,7 +182,7 @@
       "link": ""
     },
     {
-      "name": "Veja 13 restaurantes para comer bem sem gastar muito em SÃ£o Paulo",
+      "name": "Veja lista com 35 novos restaurantes para conhecer em SÃ£o Paulo",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -193,24 +193,26 @@
       "link": ""
     },
     {
-      "name": "Roteiro apresenta 23 bares que abriram nos Ãºltimos meses em SP",
+      "name": "ConheÃ§a 12 restaurantes em hotÃ©is paulistanos que valem a visita",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Michel Alcoforado apresenta derivado de 'Coisa de Rico' no teatro",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Descubra 25 restaurantes com comida de diferentes paÃ­ses em SP",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
+      "tags": [
+        "teatro"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -226,18 +228,7 @@
       "link": ""
     },
     {
-      "name": "Onde tomar um bom cafÃ© em SÃ£o Paulo: veja endereÃ§os para conhecer",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Roteiro lista 26 endereÃ§os para comer comida asiÃ¡tica em SÃ£o Paulo",
+      "name": "Lista destaca 27 restaurantes de comida brasileira em SÃ£o Paulo",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -248,43 +239,51 @@
       "link": ""
     },
     {
-      "name": "Liberdade recebe festival gratuito neste fim de semana em celebração ao Ano da Cultura Brasil-China",
-      "category": "evento",
-      "desc": "Liberdade recebe festival gratuito neste fim de semana em celebração ao Ano da Cultura Brasil-China",
+      "name": "De Bistrot de Paris a Le Deux Magots, roteiro reÃºne 21 bons restaurantes franceses em SP",
+      "category": "restaurante",
+      "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "festival",
-        "gratuito"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/14/liberdade-recebe-festival-gratuito-neste-fim-de-semana-em-celebracao-ao-ano-da-cultura-brasil-china.ghtml"
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "'Um depoimento real': peça inspirada em casos reais discute violência contra crianças em apresentações gratuitas na FIESP",
+      "name": "Doutora Pig faz 'pedicure' em javalis-africanos do Simba Safari",
       "category": "evento",
-      "desc": "'Um depoimento real': peça inspirada em casos reais discute violência contra crianças em apresentações gratuitas na FIES",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro",
-        "infantil"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/14/um-depoimento-real-peca-inspirada-em-casos-reais-discute-violencia-contra-criancas-em-apresentacoes-gratuitas-na-fiesp.ghtml"
-    },
-    {
-      "name": "João Gomes, Fafá de Belém, comédias, festivais gastronômicos, novo filme de Anne Hathaway: veja o que fazer em SP",
-      "category": "cinema",
-      "desc": "João Gomes, Fafá de Belém, comédias, festivais gastronômicos, novo filme de Anne Hathaway: veja o que fazer em SP",
+      "desc": "Doutora Pig faz 'pedicure' em javalis-africanos do Simba Safari",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/14/joao-gomes-fafa-de-belem-comedias-festivais-gastronomicos-novo-filme-de-anne-hathaway-veja-o-que-fazer-em-sp.ghtml"
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/20/doutora-pig-faz-pedicure-em-javalis-africanos-do-simba-safari.ghtml"
+    },
+    {
+      "name": "Rap e funk são literatura? Clube de leitura em SP convida público a interpretar letras com os próprios artistas",
+      "category": "show",
+      "desc": "Rap e funk são literatura? Clube de leitura em SP convida público a interpretar letras com os próprios artistas",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/20/rap-e-funk-sao-literatura-clube-de-leitura-em-sp-convida-publico-a-interpretar-letras-com-os-proprios-artistas.ghtml"
+    },
+    {
+      "name": "Samba do Bule e Nãnãna da Mangueira fazem show gratuito na Zona Norte de SP",
+      "category": "show",
+      "desc": "Samba do Bule e Nãnãna da Mangueira fazem show gratuito na Zona Norte de SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "gratuito",
+        "samba"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/19/samba-do-bule-e-nanana-da-mangueira-fazem-show-gratuito-na-zona-norte-de-sp.ghtml"
     }
   ]
 }
