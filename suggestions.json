@@ -1,6 +1,17 @@
 {
-  "updated_at": "21/08/2026 as 11:24",
+  "updated_at": "24/08/2026 as 11:26",
   "items": [
+    {
+      "name": "Tributo à Roberto Leal",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125936?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
       "category": "evento",
@@ -11,28 +22,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP (Infos na descrição)",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/117331?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "MUSEU DAS CULTURAS INDÍGENAS",
@@ -147,17 +136,6 @@
       "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Aulas Individuais",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/71486?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Proibido Para Menores de 18 Anos no TEATRO ESTÚDIO",
       "category": "evento",
       "desc": "",
@@ -171,54 +149,58 @@
       "link": "https://bileto.sympla.com.br/event/122615?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Longa é dirigido por Will Gluck, de 'Todos Menos Você' (2023); 'Refém por um Fio', com Bill Skarsgard, também chega às telonas",
+      "name": "Hadassa o Musical",
+      "category": "musical",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "musical"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124247?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Clube dos Canalhas - São Paulo - SP",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119974?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Veja lista com 35 novos restaurantes para conhecer em SÃ£o Paulo",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ConheÃ§a 12 restaurantes em hotÃ©is paulistanos que valem a visita",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Michel Alcoforado apresenta derivado de 'Coisa de Rico' no teatro",
+      "name": "Programação da cidade tem aulas grátis no vale do Anhangabaú e na Casa Sincopada; agenda ainda tem casas tradicionais de cultura nordestina",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "teatro"
+        "gratuito"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "O almoÃ§o no Tari foi uma delÃ­cia. Mas nÃ£o dÃ¡ para recomendar para qualquer paladar. Ã preciso estar preparado para o cardÃ¡pio que provoca e que nÃ£o entrega sabores fÃ¡ceis em receitas que aconchegam. Vai entregar gastronomia de alto nÃ­vel, feita para paladares iniciados ou que queiram aumentar seu repertÃ³rio.",
-      "category": "restaurante",
+      "name": "Jazz Mansion celebra dez anos com shows no Pacaembu, em SÃ£o Paulo",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "jazz"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Museu da LÃ­ngua Portuguesa revisita 20 anos da instituiÃ§Ã£o",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -228,8 +210,21 @@
       "link": ""
     },
     {
-      "name": "Lista destaca 27 restaurantes de comida brasileira em SÃ£o Paulo",
-      "category": "restaurante",
+      "name": "Mostra no IMS tem zines sobre policiais em apps de paquera",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Quando a rede do Pecorino Bar & Trattoria se vende como tradicionalmente italiana, o que vem Ã  mente Ã© uma cozinha artesanal. Na prÃ¡tica, parece seguir uma lÃ³gica industrial, prÃ³xima a uma linha de montagem. Ingredientes prÃ©-prontos Ã  espera de serem combinados no seu prato e mandados ao salÃ£o.",
+      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -239,15 +234,46 @@
       "link": ""
     },
     {
-      "name": "De Bistrot de Paris a Le Deux Magots, roteiro reÃºne 21 bons restaurantes franceses em SP",
-      "category": "restaurante",
+      "name": "CÃ©u e Chico CÃ©sar fazem shows gratuitos em aniversÃ¡rio da PUC-SP",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "gratuito"
+      ],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "C6 no Rock reÃºne TitÃ£s, Paralamas, Blitz e outros clÃ¡ssicos dos anos 1980 no parque Ibirapuera",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "rock",
+        "ao-ar-livre"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja o que fazer em SP: musical do Paulo Gustavo, Péricles+Ferrugem, festivais de rock, gastronomia, vinhos e filmes e roda de samba",
+      "category": "musical",
+      "desc": "Veja o que fazer em SP: musical do Paulo Gustavo, Péricles+Ferrugem, festivais de rock, gastronomia, vinhos e filmes e r",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "musical",
+        "samba",
+        "rock"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/21/veja-o-que-fazer-em-sp-musical-do-paulo-gustavo-periclesferrugem-festivais-de-gastronomia-vinhos-e-filmes-e-roda-de-samba.ghtml"
     },
     {
       "name": "Doutora Pig faz 'pedicure' em javalis-africanos do Simba Safari",
@@ -270,20 +296,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/20/rap-e-funk-sao-literatura-clube-de-leitura-em-sp-convida-publico-a-interpretar-letras-com-os-proprios-artistas.ghtml"
-    },
-    {
-      "name": "Samba do Bule e Nãnãna da Mangueira fazem show gratuito na Zona Norte de SP",
-      "category": "show",
-      "desc": "Samba do Bule e Nãnãna da Mangueira fazem show gratuito na Zona Norte de SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito",
-        "samba"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/19/samba-do-bule-e-nanana-da-mangueira-fazem-show-gratuito-na-zona-norte-de-sp.ghtml"
     }
   ]
 }
