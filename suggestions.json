@@ -1,17 +1,6 @@
 {
-  "updated_at": "26/08/2026 as 11:28",
+  "updated_at": "28/08/2026 as 21:18",
   "items": [
-    {
-      "name": "Tributo à Roberto Leal",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/125936?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
       "category": "evento",
@@ -22,6 +11,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "50° Retrô Mega Flash Back",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "MUSEU DAS CULTURAS INDÍGENAS",
@@ -46,18 +46,132 @@
       "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "'Rosebush Priming', novo filme de Karim Aïnouz, abre o evento; venda de ingressos para o público geral começa em 10 de setembro",
-      "category": "cinema",
+      "name": "Echoes: O melhor do Pink Floyd",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Hot Chip celebra 20 anos do Ã¡lbum 'The Warning' em show na capital",
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu da Língua  Portuguesa",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "VÉRTICE com Novíssimo Edgar e Wagner Antônio",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123991?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "DELVON LAMARR ORGAN TRIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cícero - 15 anos de Canções de Apartamento",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123857?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cordel do Fogo Encantado apresenta primeiro álbum",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125583?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Aulas Coletivas KIDS",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/113361?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O Nome do Tango no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125019?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "TOM - MÔNICA SALMASO, TECO CARDOSO & JOÃO CAMARERO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125867?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Casas investem em pratos descomplicados e área para descansar com programação de shows é caprichada com discotecagem de vinil",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -68,8 +182,21 @@
       "link": ""
     },
     {
-      "name": "ConheÃ§a filmes e sÃ©ries sobre apostas, como 'Corrida dos Bichos'",
-      "category": "cinema",
+      "name": "Mostra na regiÃ£o central cria caos de 'Alice no PaÃ­s das Maravilhas'",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Pixies anuncia show no Brasil em primeira turnÃª pela AmÃ©rica do Sul",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -79,7 +206,33 @@
       "link": ""
     },
     {
-      "name": "Cena nacional domina programaÃ§Ã£o da semana com Chico CÃ©sar e Belo",
+      "name": "Lilia Cabral e MarÃ­lia Gabriela fazem peÃ§as grÃ¡tis em teatros de SP",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "As cÃ³pias de pinturas renascentistas no teto e as mesas com tampos que imitam mÃ¡rmore na Da Michele nÃ£o colaboraram para reverter a primeira impressÃ£o. Mas a pizza, sim. Na primeira mordida, percebi que as conclusÃµes eram precipitadas.",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "pizza"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Trabalhos com tecido de Sheila Hicks ocupam Tomie Ohtake",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -90,37 +243,45 @@
       "link": ""
     },
     {
-      "name": "Quando a rede do Pecorino Bar & Trattoria se vende como tradicionalmente italiana, o que vem Ã  mente Ã© uma cozinha artesanal. Na prÃ¡tica, parece seguir uma lÃ³gica industrial, prÃ³xima a uma linha de montagem. Ingredientes prÃ©-prontos Ã  espera de serem combinados no seu prato e mandados ao salÃ£o.",
-      "category": "bar",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Nova loja de cookies artesanais, Cuki forma filas no centro",
+      "name": "Veja destaques do Festival de Teatro de SÃ£o Paulo, com Vera Holtz e Marcelo MÃ©dici",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "festival",
+        "teatro"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o no Museu da LÃ­ngua Portuguesa revisita duas dÃ©cadas de existÃªncia da instituiÃ§Ã£o",
+      "name": "Veja o que fazer em SP: The Realness Festival, show de Christian Chávez, Achiropita e João Carlos Martins",
+      "category": "show",
+      "desc": "Veja o que fazer em SP: The Realness Festival, show de Christian Chávez, Achiropita e João Carlos Martins",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/28/veja-o-que-fazer-em-sp-the-realness-festival-show-de-christian-chavez-achiropita-e-joao-carlos-martins-no-sesi.ghtml"
+    },
+    {
+      "name": "Museu do Ipiranga reúne música, teatro e oficinas grátis em programação especial do feriado de 7 de Setembro; confira",
       "category": "passeio",
-      "desc": "",
+      "desc": "Museu do Ipiranga reúne música, teatro e oficinas grátis em programação especial do feriado de 7 de Setembro; confira",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "tags": [
+        "gratuito",
+        "teatro"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/27/museu-do-ipiranga-reune-musica-teatro-e-oficinas-gratis-em-programacao-especial-do-feriado-de-7-de-setembro-confira.ghtml"
     },
     {
       "name": "Casa 1 promove Semana da Visibilidade Lésbica com mais de 20 atividades em SP; veja programação",
@@ -132,32 +293,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/24/casa-1-promove-semana-da-visibilidade-lesbica-com-mais-de-20-atividades-em-sp-veja-programacao.ghtml"
-    },
-    {
-      "name": "Veja o que fazer em SP: musical do Paulo Gustavo, Péricles+Ferrugem, festivais de rock, gastronomia, vinhos e filmes e roda de samba",
-      "category": "musical",
-      "desc": "Veja o que fazer em SP: musical do Paulo Gustavo, Péricles+Ferrugem, festivais de rock, gastronomia, vinhos e filmes e r",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "samba",
-        "musical",
-        "rock"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/21/veja-o-que-fazer-em-sp-musical-do-paulo-gustavo-periclesferrugem-festivais-de-gastronomia-vinhos-e-filmes-e-roda-de-samba.ghtml"
-    },
-    {
-      "name": "Doutora Pig faz 'pedicure' em javalis-africanos do Simba Safari",
-      "category": "evento",
-      "desc": "Doutora Pig faz 'pedicure' em javalis-africanos do Simba Safari",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/20/doutora-pig-faz-pedicure-em-javalis-africanos-do-simba-safari.ghtml"
     }
   ]
 }
