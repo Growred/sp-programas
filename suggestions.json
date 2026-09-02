@@ -1,5 +1,5 @@
 {
-  "updated_at": "31/08/2026 as 17:53",
+  "updated_at": "02/09/2026 as 14:58",
   "items": [
     {
       "name": "Tributo à Roberto Leal",
@@ -46,7 +46,130 @@
       "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Premiada em Gramado, atriz e diretora considera que a presença negra nas telonas é, hoje, mais importante que a representatividade",
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "ARENA STAR LASER",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O Que Tem na Cozinha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Echoes: O melhor do Pink Floyd",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "The Black Kings Of The Blues",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "jazz"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Caminhada contra a PIF 🐾",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126164?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Stabat Mater",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125802?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "DELVON LAMARR ORGAN TRIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Planta e Raiz - Flor de Fogo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125860?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Espetáculo usa falso documentário para tratar de política e energia; monólogo de Regina Casé retoma temporada com humor e reflexão histórica",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -57,13 +180,15 @@
       "link": ""
     },
     {
-      "name": "Geraldo Azevedo e Rincon SapiÃªncia fazem shows no Sesc em setembro",
-      "category": "sesc",
+      "name": "Grace PassÃ´ estreia na direÃ§Ã£o com 'Nosso Segredo', filme em cartaz",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "estreia"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -123,11 +248,24 @@
       "date": "",
       "hours": "",
       "tags": [
-        "teatro",
-        "festival"
+        "festival",
+        "teatro"
       ],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Peças com Débora Falabella, Lilia Cabral e Vera Holtz têm apresentações gratuitas em SP; veja como retirar ingressos",
+      "category": "evento",
+      "desc": "Peças com Débora Falabella, Lilia Cabral e Vera Holtz têm apresentações gratuitas em SP; veja como retirar ingressos",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/31/pecas-com-debora-falabella-lilia-cabral-e-vera-holtz-tem-apresentacoes-gratuitas-em-sp-veja-como-retirar-ingressos.ghtml"
     },
     {
       "name": "Veja o que fazer em SP: The Realness Festival, show de Christian Chávez, Achiropita e João Carlos Martins",
@@ -155,17 +293,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/27/museu-do-ipiranga-reune-musica-teatro-e-oficinas-gratis-em-programacao-especial-do-feriado-de-7-de-setembro-confira.ghtml"
-    },
-    {
-      "name": "Casa 1 promove Semana da Visibilidade Lésbica com mais de 20 atividades em SP; veja programação",
-      "category": "evento",
-      "desc": "Casa 1 promove Semana da Visibilidade Lésbica com mais de 20 atividades em SP; veja programação",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/24/casa-1-promove-semana-da-visibilidade-lesbica-com-mais-de-20-atividades-em-sp-veja-programacao.ghtml"
     }
   ]
 }
