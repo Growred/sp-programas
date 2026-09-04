@@ -1,5 +1,5 @@
 {
-  "updated_at": "02/09/2026 as 14:58",
+  "updated_at": "04/09/2026 as 14:47",
   "items": [
     {
       "name": "Tributo à Roberto Leal",
@@ -169,13 +169,15 @@
       "link": "https://bileto.sympla.com.br/event/125860?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Espetáculo usa falso documentário para tratar de política e energia; monólogo de Regina Casé retoma temporada com humor e reflexão histórica",
-      "category": "evento",
+      "name": "Documentário premiado 'Gonzaguinha, da Maior Liberdade' também entra em cartaz; mostra no Cinesesc exibe inéditos e clássicos em setembro",
+      "category": "sesc",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "exposicao"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -193,7 +195,18 @@
       "link": ""
     },
     {
-      "name": "De volta aos cinemas, 'Vingadores: Ultimato' tem ingressos Ã  venda",
+      "name": "Vampiros chilenos protagonizam peÃ§a do Sesc em SÃ£o Paulo",
+      "category": "sesc",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Semana do Cinema tem filmes por R$ 10, incluindo sessÃµes Imax",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -204,34 +217,8 @@
       "link": ""
     },
     {
-      "name": "Mostra na regiÃ£o central cria caos de 'Alice no PaÃ­s das Maravilhas'",
+      "name": "Faz anos que vou ao Buzina. E Ã© sempre muito bom. HambÃºrguer saboroso no ponto certo, pÃ£o macio que nÃ£o encharca com o sumo da carne, ingredientes frescos, batata frita feita como se deve e sobremesa que faz bonito.",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "As cÃ³pias de pinturas renascentistas no teto e as mesas com tampos que imitam mÃ¡rmore na Da Michele nÃ£o colaboraram para reverter a primeira impressÃ£o. Mas a pizza, sim. Na primeira mordida, percebi que as conclusÃµes eram precipitadas.",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "pizza"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Casas em SP misturam restaurante e balada com boa comida e mÃºsica",
-      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -241,58 +228,59 @@
       "link": ""
     },
     {
-      "name": "Veja destaques do Festival de Teatro de SÃ£o Paulo, com Vera Holtz e Marcelo MÃ©dici",
-      "category": "evento",
+      "name": "Machine Gun Kelly e Laufey fazem shows em SÃ£o Paulo; veja agenda",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "festival",
-        "teatro"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Peças com Débora Falabella, Lilia Cabral e Vera Holtz têm apresentações gratuitas em SP; veja como retirar ingressos",
+      "name": "Time Out Market brasileiro serÃ¡ no Conjunto Nacional com cerca de 20 restaurantes e bares",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Bienal do Livro, Maroon 5, Festa de San Gennaro e Cirque du Soleil; veja o que fazer em SP",
       "category": "evento",
-      "desc": "Peças com Débora Falabella, Lilia Cabral e Vera Holtz têm apresentações gratuitas em SP; veja como retirar ingressos",
+      "desc": "Bienal do Livro, Maroon 5, Festa de San Gennaro e Cirque du Soleil; veja o que fazer em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "teatro"
-      ],
+      "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/31/pecas-com-debora-falabella-lilia-cabral-e-vera-holtz-tem-apresentacoes-gratuitas-em-sp-veja-como-retirar-ingressos.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/04/bienal-do-livro-maroon-5-festa-de-san-gennaro-e-cirque-du-soleil-veja-o-que-fazer-em-sp.ghtml"
     },
     {
-      "name": "Veja o que fazer em SP: The Realness Festival, show de Christian Chávez, Achiropita e João Carlos Martins",
-      "category": "show",
-      "desc": "Veja o que fazer em SP: The Realness Festival, show de Christian Chávez, Achiropita e João Carlos Martins",
+      "name": "Bienal do Livro de SP começa nesta sexta com programação noturna e cashback de 100%",
+      "category": "evento",
+      "desc": "Bienal do Livro de SP começa nesta sexta com programação noturna e cashback de 100%",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "festival"
-      ],
+      "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/28/veja-o-que-fazer-em-sp-the-realness-festival-show-de-christian-chavez-achiropita-e-joao-carlos-martins-no-sesi.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/03/bienal-do-livro-de-sp-comeca-nesta-sexta-com-programacao-noturna-e-cashback-de-100percent.ghtml"
     },
     {
-      "name": "Museu do Ipiranga reúne música, teatro e oficinas grátis em programação especial do feriado de 7 de Setembro; confira",
-      "category": "passeio",
-      "desc": "Museu do Ipiranga reúne música, teatro e oficinas grátis em programação especial do feriado de 7 de Setembro; confira",
+      "name": "Edifício Copan reabre visitas à cobertura com vista panorâmica do Centro de SP por R$ 50",
+      "category": "evento",
+      "desc": "Edifício Copan reabre visitas à cobertura com vista panorâmica do Centro de SP por R$ 50",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "gratuito",
-        "teatro"
-      ],
+      "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/08/27/museu-do-ipiranga-reune-musica-teatro-e-oficinas-gratis-em-programacao-especial-do-feriado-de-7-de-setembro-confira.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/03/edificio-copan-reabre-visitas-a-cobertura-com-vista-panoramica-do-centro-de-sp-por-r-50.ghtml"
     }
   ]
 }
