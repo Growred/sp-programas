@@ -1,5 +1,5 @@
 {
-  "updated_at": "07/09/2026 as 16:16",
+  "updated_at": "09/09/2026 as 15:00",
   "items": [
     {
       "name": "Tributo à Roberto Leal",
@@ -11,6 +11,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/125936?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "SERGINHO LACERDA EM SÃO MATEUS/SP - VIDA DE PAI - STAND UP COMEDY",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126651?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -46,18 +57,133 @@
       "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Conceição Evaristo, Carla Madeira e Pedro Bandeira participam de encontros; programação se divide em 12 espaços oficiais e 269 expositores",
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "ARENA STAR LASER",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Echoes: O melhor do Pink Floyd",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "The Black Kings Of The Blues",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "jazz"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Stabat Mater",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125802?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Planta e Raiz - Flor de Fogo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125860?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "RÁDIO NACIONAL - 80 EM ALTA FREQUÊNCIA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/112356?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cícero - 15 anos de Canções de Apartamento",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123857?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cordel do Fogo Encantado apresenta primeiro álbum",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125583?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cantores trazem pop, rock, jazz e eletrônico de fora para a capital paulista; Laufey também se apresenta na cidade",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "jazz",
+        "rock"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Veja dicas para aproveitar a Bienal do Livro, que comeÃ§a nesta sexta",
+      "name": "Veja dicas para aproveitar a Bienal do Livro em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -79,8 +205,8 @@
       "link": ""
     },
     {
-      "name": "Museu do Ipiranga tem visitas guiadas grÃ¡tis no 7 de Setembro",
-      "category": "passeio",
+      "name": "ExposiÃ§Ã£o em SP sobre a cultura coreana explica as origens do k-pop",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -101,7 +227,7 @@
       "link": ""
     },
     {
-      "name": "Masp atualiza exposiÃ§Ã£o sobre a histÃ³ria da AmÃ©rica Latina",
+      "name": "'Na Sala dos Espelhos' chega Ã  Biblioteca MÃ¡rio de Andrade",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -112,17 +238,41 @@
       "link": ""
     },
     {
-      "name": "Machine Gun Kelly e Laufey fazem shows em SÃ£o Paulo; veja agenda musical",
-      "category": "musical",
+      "name": "Masp atualiza exposiÃ§Ã£o sobre a histÃ³ria da AmÃ©rica Latina com obras dos paÃ­ses da regiÃ£o",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "musical"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Sesc celebra 80 anos com três dias de programação gratuita; veja atividades e horários",
+      "category": "sesc",
+      "desc": "Sesc celebra 80 anos com três dias de programação gratuita; veja atividades e horários",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/09/sesc-celebra-80-anos-com-tres-dias-de-programacao-gratuita-veja-atividades-e-horarios.ghtml"
+    },
+    {
+      "name": "Paulo Miklos anuncia show em SP de novo álbum solo, que mistura rock, MPB e sertanejo",
+      "category": "show",
+      "desc": "Paulo Miklos anuncia show em SP de novo álbum solo, que mistura rock, MPB e sertanejo",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "sertanejo",
+        "MPB",
+        "rock"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/08/paulo-miklos-anuncia-show-em-sp-de-novo-album-solo-que-mistura-rock-mpb-e-sertanejo.ghtml"
     },
     {
       "name": "Semana do cinema 2ª edição: ingressos a partir de R$ 10 em todo o Brasil",
@@ -134,33 +284,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/07/semana-do-cinema-2a-edicao-ingressos-a-partir-de-r-10-em-todo-o-brasil.ghtml"
-    },
-    {
-      "name": "Em alta na MPB, Jota.Pê faz um dos últimos shows da turnê em SP",
-      "category": "show",
-      "desc": "Em alta na MPB, Jota.Pê faz um dos últimos shows da turnê em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "MPB"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/noticia/2026/09/05/em-alta-na-mpb-jotape-faz-um-dos-ultimos-shows-da-turne-em-sao-paulo.ghtml"
-    },
-    {
-      "name": "Alceu Valença e Orquestra Ouro Preto fazem show gratuito no Parque Ibirapuera",
-      "category": "show",
-      "desc": "Alceu Valença e Orquestra Ouro Preto fazem show gratuito no Parque Ibirapuera",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito",
-        "ao-ar-livre"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/05/alceu-valenca-e-orquestra-ouro-preto-fazem-show-gratuito-no-parque-ibirapuera.ghtml"
     }
   ]
 }
