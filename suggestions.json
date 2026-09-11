@@ -1,5 +1,5 @@
 {
-  "updated_at": "09/09/2026 as 15:00",
+  "updated_at": "11/09/2026 as 14:50",
   "items": [
     {
       "name": "Tributo à Roberto Leal",
@@ -44,6 +44,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/124142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Rubel & Orquestra - Pearl. Casas. Palavras. Beleza.",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/122003?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "MUSEU DAS CULTURAS INDÍGENAS",
@@ -125,6 +136,17 @@
       "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "DELVON LAMARR ORGAN TRIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Planta e Raiz - Flor de Fogo",
       "category": "evento",
       "desc": "",
@@ -147,43 +169,54 @@
       "link": "https://bileto.sympla.com.br/event/112356?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Cícero - 15 anos de Canções de Apartamento",
-      "category": "evento",
+      "name": "Histórias de assassinos reais e fictícios fisgam o público com atmosfera de tensão e ganham espaço em atividades variadas pela cidade",
+      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123857?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "Cordel do Fogo Encantado apresenta primeiro álbum",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/125583?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Cantores trazem pop, rock, jazz e eletrônico de fora para a capital paulista; Laufey também se apresenta na cidade",
+      "name": "Alceu ValenÃ§a faz show grÃ¡tis com Orquestra Ouro Preto no Ibirapuera",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Sesc celebra 80 anos com shows de Elba Ramalho, Silva e agenda grÃ¡tis",
+      "category": "sesc",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Folha terÃ¡ primeiro festival de gastronomia no parque Villa-Lobos",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
       "tags": [
-        "jazz",
-        "rock"
+        "festival",
+        "ao-ar-livre"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Veja dicas para aproveitar a Bienal do Livro em SÃ£o Paulo",
+      "name": "Quando o cliente entra pela primeira vez no pequeno salÃ£o do Nomo, nÃ£o imagina a cozinha autoral de peso que estÃ¡ prestes a conhecer. O ambiente Ã© elegante, mas nÃ£o intimidador. Os pratos tÃªm apresentaÃ§Ãµes bonitas, mas singelas.",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -194,7 +227,7 @@
       "link": ""
     },
     {
-      "name": "Ismael Nery surge em autorretratos em corpo de mulher e Jesus",
+      "name": "ExposiÃ§Ã£o propÃµe imersÃ£o na mente de serial killers com morbidez visual",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -205,8 +238,8 @@
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o em SP sobre a cultura coreana explica as origens do k-pop",
-      "category": "evento",
+      "name": "PetÃ­ reabre no Museu de Arte Moderna com cardÃ¡pio para cafÃ©, almoÃ§o e lanche da tarde",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -216,37 +249,30 @@
       "link": ""
     },
     {
-      "name": "Faz anos que vou ao Buzina. E Ã© sempre muito bom. HambÃºrguer saboroso no ponto certo, pÃ£o macio que nÃ£o encharca com o sumo da carne, ingredientes frescos, batata frita feita como se deve e sobremesa que faz bonito.",
-      "category": "evento",
-      "desc": "",
+      "name": "Coala Festival, volta de Simaria aos palcos, Festival Sesc 80 anos, mais Bienal; veja o que fazer em SP",
+      "category": "sesc",
+      "desc": "Coala Festival, volta de Simaria aos palcos, Festival Sesc 80 anos, mais Bienal; veja o que fazer em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/11/coala-festival-volta-de-simaria-aos-palcos-festival-sesc-80-anos-mais-bienal-veja-o-que-fazer-em-sp.ghtml"
     },
     {
-      "name": "'Na Sala dos Espelhos' chega Ã  Biblioteca MÃ¡rio de Andrade",
+      "name": "Após recuperação de obras roubadas, Biblioteca Mário de Andrade recebe exposição de Henri Matisse",
       "category": "evento",
-      "desc": "",
+      "desc": "Após recuperação de obras roubadas, Biblioteca Mário de Andrade recebe exposição de Henri Matisse",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Masp atualiza exposiÃ§Ã£o sobre a histÃ³ria da AmÃ©rica Latina com obras dos paÃ­ses da regiÃ£o",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "tags": [
+        "exposicao"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/10/apos-recuperacao-de-obras-roubadas-biblioteca-mario-de-andrade-recebe-exposicao-de-henri-matisse.ghtml"
     },
     {
       "name": "Sesc celebra 80 anos com três dias de programação gratuita; veja atividades e horários",
@@ -258,32 +284,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/09/sesc-celebra-80-anos-com-tres-dias-de-programacao-gratuita-veja-atividades-e-horarios.ghtml"
-    },
-    {
-      "name": "Paulo Miklos anuncia show em SP de novo álbum solo, que mistura rock, MPB e sertanejo",
-      "category": "show",
-      "desc": "Paulo Miklos anuncia show em SP de novo álbum solo, que mistura rock, MPB e sertanejo",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "sertanejo",
-        "MPB",
-        "rock"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/08/paulo-miklos-anuncia-show-em-sp-de-novo-album-solo-que-mistura-rock-mpb-e-sertanejo.ghtml"
-    },
-    {
-      "name": "Semana do cinema 2ª edição: ingressos a partir de R$ 10 em todo o Brasil",
-      "category": "cinema",
-      "desc": "Semana do cinema 2ª edição: ingressos a partir de R$ 10 em todo o Brasil",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/07/semana-do-cinema-2a-edicao-ingressos-a-partir-de-r-10-em-todo-o-brasil.ghtml"
     }
   ]
 }
