@@ -1,5 +1,5 @@
 {
-  "updated_at": "14/09/2026 as 16:46",
+  "updated_at": "16/09/2026 as 15:19",
   "items": [
     {
       "name": "Tributo à Roberto Leal",
@@ -24,17 +24,6 @@
       "link": "https://bileto.sympla.com.br/event/126651?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "50° Retrô Mega Flash Back",
       "category": "evento",
       "desc": "",
@@ -46,30 +35,155 @@
       "link": "https://bileto.sympla.com.br/event/124142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Histórias de assassinos reais e fictícios fisgam o público com atmosfera de tensão e ganham espaço em atividades variadas pela cidade",
-      "category": "bar",
+      "name": "MUSEU DAS CULTURAS INDÍGENAS",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Alceu ValenÃ§a faz show grÃ¡tis com Orquestra Ouro Preto no Ibirapuera",
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Echoes: O melhor do Pink Floyd",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "The Black Kings Of The Blues",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "jazz"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Stabat Mater",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125802?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Sinatra In Concert",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Gisela Mabel: Piano Solo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126968?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "DELVON LAMARR ORGAN TRIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Planta e Raiz - Flor de Fogo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125860?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "RÁDIO NACIONAL - 80 EM ALTA FREQUÊNCIA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/112356?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cícero - 15 anos de Canções de Apartamento",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123857?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "50 Top Pizza avalia qualidade dos ingredientes, serviço e recepção ao cliente; Leggera ocupa o 6º lugar e lidera entre as casas nacionais",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "pizza"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Sesc celebra 80 anos com shows de Elba Ramalho, Silva e agenda grÃ¡tis",
-      "category": "sesc",
+      "name": "Veja onde assistir Ã s vencedoras, como 'O Segredo de Widow's Bay'",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -79,16 +193,24 @@
       "link": ""
     },
     {
-      "name": "Folha terÃ¡ primeiro festival de gastronomia no parque Villa-Lobos",
-      "category": "restaurante",
+      "name": "BK' celebra dez anos do lanÃ§amento do Ã¡lbum 'Castelos e RuÃ­nas' em SP",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "festival",
-        "ao-ar-livre"
-      ],
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Bolo de chocolate de 'Matilda' vira febre em SP 30 anos apÃ³s o filme",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -104,7 +226,18 @@
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o propÃµe imersÃ£o na mente de serial killers com morbidez visual",
+      "name": "Milo J faz show no Brasil e defende identidade: 'a Argentina Ã© marrom'",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja como comprar ingressos para a peÃ§a de 'Bluey', que faz nova temporada na cidade",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -115,15 +248,30 @@
       "link": ""
     },
     {
-      "name": "PetÃ­ reabre no Museu de Arte Moderna com cardÃ¡pio para cafÃ©, almoÃ§o e lanche da tarde",
-      "category": "passeio",
-      "desc": "",
+      "name": "Feira gratuita da USP reúne informações sobre profissões, cursos e vestibular em setembro",
+      "category": "evento",
+      "desc": "Feira gratuita da USP reúne informações sobre profissões, cursos e vestibular em setembro",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "tags": [
+        "feira"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/16/feira-gratuita-da-usp-reune-informacoes-sobre-profissoes-cursos-e-vestibular-em-setembro.ghtml"
+    },
+    {
+      "name": "Evento gratuito reúne Beth Goulart e especialistas sobre saúde do cérebro em SP; veja programação",
+      "category": "evento",
+      "desc": "Evento gratuito reúne Beth Goulart e especialistas sobre saúde do cérebro em SP; veja programação",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "gratuito"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/14/evento-gratuito-reune-beth-goulart-e-especialistas-sobre-saude-do-cerebro-em-sp-veja-programacao.ghtml"
     },
     {
       "name": "Coala Festival, volta de Simaria aos palcos, Festival Sesc 80 anos, mais Bienal; veja o que fazer em SP",
@@ -137,30 +285,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/11/coala-festival-volta-de-simaria-aos-palcos-festival-sesc-80-anos-mais-bienal-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Após recuperação de obras roubadas, Biblioteca Mário de Andrade recebe exposição de Henri Matisse",
-      "category": "evento",
-      "desc": "Após recuperação de obras roubadas, Biblioteca Mário de Andrade recebe exposição de Henri Matisse",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/10/apos-recuperacao-de-obras-roubadas-biblioteca-mario-de-andrade-recebe-exposicao-de-henri-matisse.ghtml"
-    },
-    {
-      "name": "Sesc celebra 80 anos com três dias de programação gratuita; veja atividades e horários",
-      "category": "sesc",
-      "desc": "Sesc celebra 80 anos com três dias de programação gratuita; veja atividades e horários",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/09/sesc-celebra-80-anos-com-tres-dias-de-programacao-gratuita-veja-atividades-e-horarios.ghtml"
     }
   ]
 }
