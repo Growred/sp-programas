@@ -1,5 +1,5 @@
 {
-  "updated_at": "18/09/2026 as 14:47",
+  "updated_at": "21/09/2026 as 16:47",
   "items": [
     {
       "name": "Tributo à Roberto Leal",
@@ -24,17 +24,6 @@
       "link": "https://bileto.sympla.com.br/event/126651?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "50° Retrô Mega Flash Back",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "MUSEU DAS CULTURAS INDÍGENAS",
       "category": "passeio",
       "desc": "",
@@ -46,21 +35,143 @@
       "link": "https://bileto.sympla.com.br/event/95807?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Feira temática acontece no fina deste mês; roteiro mostra 13 endereços para provar receitas tradicionais e releituras na capital paulista",
+      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118193?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Echoes: O melhor do Pink Floyd",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "The Black Kings Of The Blues",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "exposicao",
-        "feira"
+        "jazz"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Veja onde assistir Ã s vencedoras, como 'O Segredo de Widow's Bay'",
+      "name": "Museu do Futebol",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Stabat Mater",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125802?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu da Língua  Portuguesa",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Sinatra In Concert",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "LAURYN HILL por AMANDA MARIA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cultura Inglesa Festival - Show Agnes Nunes",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126933?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "DELVON LAMARR ORGAN TRIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Planta e Raiz - Flor de Fogo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125860?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "'Finalmente consigo fazer o que eu quero', diz ator, que transforma livro 'A Gente Mira no Amor e Acerta na Solidão' em seu primeiro monólogo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -71,7 +182,7 @@
       "link": ""
     },
     {
-      "name": "Semana Paulista de DanÃ§a tem balÃ© de Dom Quixote e entradas grÃ¡tis",
+      "name": "Copan recebe visitas guiadas tambÃ©m Ã s sextas e aos domingos",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -82,15 +193,24 @@
       "link": ""
     },
     {
-      "name": "Veja pizzarias brasileiras que estÃ£o entre as melhores pizzas do mundo",
-      "category": "restaurante",
+      "name": "Le Cordon Bleu reabre cafÃ© com novo cardÃ¡pio e salÃ£o redecorado",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "pizza"
-      ],
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Padocaria elege as melhores padarias de SÃ£o Paulo de 2026",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -106,22 +226,8 @@
       "link": ""
     },
     {
-      "name": "Musical baseado no livro 'Feliz Ano Velho' estreia na capital paulista",
-      "category": "musical",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "musical",
-        "estreia"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Bolo de chocolate de 'Matilda' vira febre em SÃ£o Paulo 30 anos apÃ³s lanÃ§amento do filme",
-      "category": "cinema",
+      "name": "Veja o que fazer na RepÃºblica, um dos bairros mais legais do mundo",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -129,6 +235,44 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Baixista britÃ¢nico Peter Hook toca Ã¡lbuns do Joy Division em SÃ£o Paulo; veja como comprar",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Festival gratuito em SP exibe filme sobre Clementina de Jesus e reúne 21 produções de cineastas 60+",
+      "category": "cinema",
+      "desc": "Festival gratuito em SP exibe filme sobre Clementina de Jesus e reúne 21 produções de cineastas 60+",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival",
+        "gratuito"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/18/festival-gratuito-em-sp-exibe-filme-sobre-clementina-de-jesus-e-reune-21-producoes-de-cineastas-60.ghtml"
+    },
+    {
+      "name": "Padre Júlio Lancellotti é homenageado em exposição fotográfica sobre trabalho com população de rua",
+      "category": "evento",
+      "desc": "Padre Júlio Lancellotti é homenageado em exposição fotográfica sobre trabalho com população de rua",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/18/padre-julio-lancellotti-e-homenageado-em-exposicao-fotografica-sobre-trabalho-com-populacao-de-rua.ghtml"
     },
     {
       "name": "São Paulo Oktoberfest 2026, Virada Esportiva, shows de Roberto Carlos, Marcelo Falcão e Nação Zumbi; veja o que fazer em SP",
@@ -140,28 +284,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/18/sao-paulo-oktoberfest-2026-virada-esportiva-shows-de-roberto-carlos-marcelo-falcao-e-nacao-zumbi-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Open Air Brasil volta a SP com ‘Michael’, ‘A Odisseia’, ‘Akira’ e ‘O Diabo Veste Prada 2’; veja programação",
-      "category": "evento",
-      "desc": "Open Air Brasil volta a SP com ‘Michael’, ‘A Odisseia’, ‘Akira’ e ‘O Diabo Veste Prada 2’; veja programação",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/16/open-air-brasil-volta-a-sp-com-michael-a-odisseia-akira-e-o-diabo-veste-prada-2-veja-programacao.ghtml"
-    },
-    {
-      "name": "Curumin canta Cassiano em projeto que coloca artistas contemporâneos em contato com lendas da música brasileira",
-      "category": "evento",
-      "desc": "Curumin canta Cassiano em projeto que coloca artistas contemporâneos em contato com lendas da música brasileira",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/16/curumin-canta-cassiano-em-projeto-que-coloca-artistas-contemporaneos-em-contato-com-lendas-da-musica-brasileira.ghtml"
     }
   ]
 }
