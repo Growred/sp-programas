@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/09/2026 as 16:47",
+  "updated_at": "23/09/2026 as 15:17",
   "items": [
     {
       "name": "Tributo à Roberto Leal",
@@ -11,6 +11,19 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/125936?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Amantes do Teatro – A Comédia  São Paulo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127359?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "SERGINHO LACERDA EM SÃO MATEUS/SP - VIDA DE PAI - STAND UP COMEDY",
@@ -44,6 +57,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O Que Tem na Cozinha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -149,35 +173,15 @@
       "link": "https://bileto.sympla.com.br/event/126933?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "DELVON LAMARR ORGAN TRIO",
+      "name": "Artista exibe em traje resíduos gerados ao longo de seis dias; crianças e adultos são convidados a rever hábitos cotidianos",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Planta e Raiz - Flor de Fogo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/125860?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "'Finalmente consigo fazer o que eu quero', diz ator, que transforma livro 'A Gente Mira no Amor e Acerta na Solidão' em seu primeiro monólogo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
+      "tags": [
+        "infantil"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -193,7 +197,7 @@
       "link": ""
     },
     {
-      "name": "Le Cordon Bleu reabre cafÃ© com novo cardÃ¡pio e salÃ£o redecorado",
+      "name": "Johnny Massaro Ã© guia turÃ­stico de uma viagem pelo coraÃ§Ã£o em peÃ§a",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -215,8 +219,8 @@
       "link": ""
     },
     {
-      "name": "O ambiente Ã© agradÃ¡vel, e o balcÃ£o da cozinha que dÃ¡ para o salÃ£o Ã© bonito. HÃ¡ ajustes a fazer, o que Ã© compreensÃ­vel para uma casa que abriu em marÃ§o deste ano. Para quem mora ou trabalha na regiÃ£o, certamente Ã© um lugar para colocar no radar.",
-      "category": "evento",
+      "name": "Fui em busca nÃ£o de alta gastronomia, de pratos elaborados com insumos de pequenos produtores ou algo que o valha. Eu sÃ³ queria voltar a pedir o couvert (R$ 38), o filetto allegro (R$ 79) e o medalhÃ£o Ã  piamontese (R$ 95) que fizeram minha alegria na adolescÃªncia, na gravidez, na primeira infÃ¢ncia do meu filho.",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -248,6 +252,17 @@
       "link": ""
     },
     {
+      "name": "Violências do colonialismo se repetem no presente, diz artista portuguesa Grada Kilomba, que traz obra de Inhotim para SP",
+      "category": "evento",
+      "desc": "Violências do colonialismo se repetem no presente, diz artista portuguesa Grada Kilomba, que traz obra de Inhotim para S",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/22/violencias-do-colonialismo-se-repetem-no-presente-diz-artista-portuguesa-grada-kilomba-que-traz-obra-de-inhotim-para-sp.ghtml"
+    },
+    {
       "name": "Festival gratuito em SP exibe filme sobre Clementina de Jesus e reúne 21 produções de cineastas 60+",
       "category": "cinema",
       "desc": "Festival gratuito em SP exibe filme sobre Clementina de Jesus e reúne 21 produções de cineastas 60+",
@@ -273,17 +288,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/18/padre-julio-lancellotti-e-homenageado-em-exposicao-fotografica-sobre-trabalho-com-populacao-de-rua.ghtml"
-    },
-    {
-      "name": "São Paulo Oktoberfest 2026, Virada Esportiva, shows de Roberto Carlos, Marcelo Falcão e Nação Zumbi; veja o que fazer em SP",
-      "category": "show",
-      "desc": "São Paulo Oktoberfest 2026, Virada Esportiva, shows de Roberto Carlos, Marcelo Falcão e Nação Zumbi; veja o que fazer em",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/18/sao-paulo-oktoberfest-2026-virada-esportiva-shows-de-roberto-carlos-marcelo-falcao-e-nacao-zumbi-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
