@@ -1,6 +1,17 @@
 {
-  "updated_at": "23/09/2026 as 15:17",
+  "updated_at": "25/09/2026 as 15:43",
   "items": [
+    {
+      "name": "51° Retrô Mega Flash Back FESTA DO BRANCO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127599?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
     {
       "name": "Tributo à Roberto Leal",
       "category": "evento",
@@ -127,17 +138,6 @@
       "link": "https://bileto.sympla.com.br/event/125802?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Museu da Língua  Portuguesa",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/90834?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Sinatra In Concert",
       "category": "show",
       "desc": "",
@@ -147,17 +147,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "LAURYN HILL por AMANDA MARIA",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Cultura Inglesa Festival - Show Agnes Nunes",
@@ -173,20 +162,56 @@
       "link": "https://bileto.sympla.com.br/event/126933?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Artista exibe em traje resíduos gerados ao longo de seis dias; crianças e adultos são convidados a rever hábitos cotidianos",
+      "name": "LAURYN HILL por AMANDA MARIA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Selo Infinity Vision é lançado pela Disney para indicar exibições de qualidade; certificado vira alternativa ao Imax, que se destacou com 'A Odisseia'",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Duda Beat e DemÃ´nios da Garoa fazem shows gratuitos em SÃ£o Paulo",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "gratuito"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Ballet ParaisÃ³polis estreia coreografia no Teatro SÃ©rgio Cardoso",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "infantil"
+        "teatro",
+        "estreia"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Copan recebe visitas guiadas tambÃ©m Ã s sextas e aos domingos",
+      "name": "ExposiÃ§Ã£o retrata vida e produÃ§Ã£o de Luis Fernando Verissimo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -197,40 +222,33 @@
       "link": ""
     },
     {
-      "name": "Johnny Massaro Ã© guia turÃ­stico de uma viagem pelo coraÃ§Ã£o em peÃ§a",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Padocaria elege as melhores padarias de SÃ£o Paulo de 2026",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Fui em busca nÃ£o de alta gastronomia, de pratos elaborados com insumos de pequenos produtores ou algo que o valha. Eu sÃ³ queria voltar a pedir o couvert (R$ 38), o filetto allegro (R$ 79) e o medalhÃ£o Ã  piamontese (R$ 95) que fizeram minha alegria na adolescÃªncia, na gravidez, na primeira infÃ¢ncia do meu filho.",
+      "name": "Na hora de pedir a conta aconteceu algo inesperado. NÃ³s dois olhamos com cobiÃ§a para a marguerita (R$ 80) que chegava fumegante Ã  mesa ao lado. No final da visita, ficou a constataÃ§Ã£o de que as entradas da Carlos realmente merecem ser exploradas. Mas Ã© pela pizza que a gente vai sempre voltar.",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "pizza"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Veja o que fazer na RepÃºblica, um dos bairros mais legais do mundo",
+      "name": "Quincho, Komah e Lena estarÃ£o em festival gastronÃ´mico da Folha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Iron Maiden celebra 50 anos de carreira com loja pop-up e escape room em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -241,15 +259,15 @@
       "link": ""
     },
     {
-      "name": "Baixista britÃ¢nico Peter Hook toca Ã¡lbuns do Joy Division em SÃ£o Paulo; veja como comprar",
+      "name": "Samuel Rosa  e Joyce Alane na Sala SP, Vanessa da Mata, Tasha & Tracie,  Fernando & Sorocaba e mais: veja o que fazer em SP",
       "category": "evento",
-      "desc": "",
+      "desc": "Samuel Rosa  e Joyce Alane na Sala SP, Vanessa da Mata, Tasha & Tracie,  Fernando & Sorocaba e mais: veja o que fazer em",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/25/samuel-rosa-e-joyce-alane-na-sala-sp-vanessa-da-mata-tasha-and-tracie-fernando-and-sorocaba-e-mais-veja-o-que-fazer-em-sp.ghtml"
     },
     {
       "name": "Violências do colonialismo se repetem no presente, diz artista portuguesa Grada Kilomba, que traz obra de Inhotim para SP",
@@ -270,24 +288,11 @@
       "date": "",
       "hours": "",
       "tags": [
-        "festival",
-        "gratuito"
+        "gratuito",
+        "festival"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/18/festival-gratuito-em-sp-exibe-filme-sobre-clementina-de-jesus-e-reune-21-producoes-de-cineastas-60.ghtml"
-    },
-    {
-      "name": "Padre Júlio Lancellotti é homenageado em exposição fotográfica sobre trabalho com população de rua",
-      "category": "evento",
-      "desc": "Padre Júlio Lancellotti é homenageado em exposição fotográfica sobre trabalho com população de rua",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/18/padre-julio-lancellotti-e-homenageado-em-exposicao-fotografica-sobre-trabalho-com-populacao-de-rua.ghtml"
     }
   ]
 }
