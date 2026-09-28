@@ -1,5 +1,5 @@
 {
-  "updated_at": "25/09/2026 as 15:43",
+  "updated_at": "28/09/2026 as 18:27",
   "items": [
     {
       "name": "51° Retrô Mega Flash Back FESTA DO BRANCO",
@@ -22,19 +22,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/125936?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Amantes do Teatro – A Comédia  São Paulo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/127359?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "SERGINHO LACERDA EM SÃO MATEUS/SP - VIDA DE PAI - STAND UP COMEDY",
@@ -138,15 +125,15 @@
       "link": "https://bileto.sympla.com.br/event/125802?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Sinatra In Concert",
-      "category": "show",
+      "name": "LAURYN HILL por AMANDA MARIA",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/118618?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Cultura Inglesa Festival - Show Agnes Nunes",
@@ -162,7 +149,7 @@
       "link": "https://bileto.sympla.com.br/event/126933?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "LAURYN HILL por AMANDA MARIA",
+      "name": "DELVON LAMARR ORGAN TRIO",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -170,10 +157,32 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Selo Infinity Vision é lançado pela Disney para indicar exibições de qualidade; certificado vira alternativa ao Imax, que se destacou com 'A Odisseia'",
+      "name": "Planta e Raiz - Flor de Fogo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125860?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Divididas em seis tempos, opções são oferecidas durante o jantar; combos promocionais incluem uma garrafa de Sal Rosso, o vinho da casa",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Patties lanÃ§a chocolate inspirado em guloseima da Turma da MÃ´nica",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -184,35 +193,19 @@
       "link": ""
     },
     {
-      "name": "Duda Beat e DemÃ´nios da Garoa fazem shows gratuitos em SÃ£o Paulo",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Ballet ParaisÃ³polis estreia coreografia no Teatro SÃ©rgio Cardoso",
+      "name": "Gostou de 'A HipÃ³tese do Amor'? ConheÃ§a outros quatro romances",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "teatro",
-        "estreia"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o retrata vida e produÃ§Ã£o de Luis Fernando Verissimo",
-      "category": "evento",
+      "name": "Alulu Paranhos apresenta 'PÃµe EsperanÃ§a Nisso' no Sesc Pompeia",
+      "category": "sesc",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -248,8 +241,8 @@
       "link": ""
     },
     {
-      "name": "Iron Maiden celebra 50 anos de carreira com loja pop-up e escape room em SÃ£o Paulo",
-      "category": "evento",
+      "name": "Salas com supertela e alta potÃªncia sonora se transformam em chamariz para cinemas de SP",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -257,6 +250,19 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Festival Breakfast Weekend reúne opções diversas de café da manhã a partir de R$ 39,90 na cidade de SP",
+      "category": "restaurante",
+      "desc": "Festival Breakfast Weekend reúne opções diversas de café da manhã a partir de R$ 39,90 na cidade de SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/25/festival-breakfast-weekend-reune-opcoes-diversas-de-cafe-da-manha-a-partir-de-r-3990-na-cidade-de-sp.ghtml"
     },
     {
       "name": "Samuel Rosa  e Joyce Alane na Sala SP, Vanessa da Mata, Tasha & Tracie,  Fernando & Sorocaba e mais: veja o que fazer em SP",
@@ -279,20 +285,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/22/violencias-do-colonialismo-se-repetem-no-presente-diz-artista-portuguesa-grada-kilomba-que-traz-obra-de-inhotim-para-sp.ghtml"
-    },
-    {
-      "name": "Festival gratuito em SP exibe filme sobre Clementina de Jesus e reúne 21 produções de cineastas 60+",
-      "category": "cinema",
-      "desc": "Festival gratuito em SP exibe filme sobre Clementina de Jesus e reúne 21 produções de cineastas 60+",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito",
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/18/festival-gratuito-em-sp-exibe-filme-sobre-clementina-de-jesus-e-reune-21-producoes-de-cineastas-60.ghtml"
     }
   ]
 }
