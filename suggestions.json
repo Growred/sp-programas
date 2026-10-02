@@ -1,5 +1,5 @@
 {
-  "updated_at": "30/09/2026 as 16:39",
+  "updated_at": "02/10/2026 as 16:29",
   "items": [
     {
       "name": "51° Retrô Mega Flash Back FESTA DO BRANCO",
@@ -59,6 +59,17 @@
       "link": "https://bileto.sympla.com.br/event/126651?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Trio Callas",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Plínio Fernandes",
       "category": "evento",
       "desc": "",
@@ -68,28 +79,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/123302?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Sessões de Skate, Patins e Scooter na Pista do 21  Rajas Skatepark",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/71195?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Echoes: O melhor do Pink Floyd",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124093?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "The Black Kings Of The Blues",
@@ -138,17 +127,6 @@
       "link": "https://bileto.sympla.com.br/event/114737?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Museu do Futebol",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/96110?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Stabat Mater",
       "category": "evento",
       "desc": "",
@@ -173,43 +151,80 @@
       "link": "https://bileto.sympla.com.br/event/126933?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Evento reúne 20 entre os melhores restaurantes de São Paulo no parque Villa-Lobos; Blue Note assina curadoria musical da programação",
-      "category": "musical",
+      "name": "Tasha e Tracie apresentam: Serena e Vênus",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127677?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "DELVON LAMARR ORGAN TRIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Bom Retiro atrai novo público após alta de k-dramas e k-pop na pandemia enquanto BTS esgota 250 mil ingressos para shows em outubro",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Festival de cinema gratuito exibe 'Matilda' com bolo de chocolate",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "ao-ar-livre",
-        "musical"
+        "festival",
+        "gratuito"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Patties lanÃ§a chocolate inspirado em guloseima da Turma da MÃ´nica",
+      "name": "Festival Nordestino ocupa o CTN com pratos tÃ­picos e show de Tierry",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Mostra gratuita na Paulista destaca seis polos da cerÃ¢mica do JapÃ£o",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "exposicao"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Gostou de 'A HipÃ³tese do Amor'? ConheÃ§a outros quatro romances",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Imigrantes venezuelanos trazem a gastronomia de seu paÃ­s a SÃ£o Paulo",
+      "name": "Senti falta da identidade vibrante e potente de Carmen VirgÃ­nia nas receitas do restaurante, aberto no comeÃ§o do ano em Pinheiros. Toques autorais que, assim como o altar na porta, provocassem e surpreendessem.",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -220,20 +235,7 @@
       "link": ""
     },
     {
-      "name": "Na hora de pedir a conta aconteceu algo inesperado. NÃ³s dois olhamos com cobiÃ§a para a marguerita (R$ 80) que chegava fumegante Ã  mesa ao lado. No final da visita, ficou a constataÃ§Ã£o de que as entradas da Carlos realmente merecem ser exploradas. Mas Ã© pela pizza que a gente vai sempre voltar.",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "pizza"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Quincho, Komah e Lena estarÃ£o em festival gastronÃ´mico da Folha",
+      "name": "Make Hommus e Brisa do Baru participam de festival da Folha",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -246,8 +248,8 @@
       "link": ""
     },
     {
-      "name": "Salas com supertela e alta potÃªncia sonora se transformam em chamariz para cinemas de SP",
-      "category": "cinema",
+      "name": "ExposiÃ§Ã£o no Museu Afro Brasil, na regiÃ£o sul, reflete sobre beleza e lutas de afro-brasileiros",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -255,6 +257,17 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Chitãozinho & Xororó, O Céu da Língua, Os Garotin, Halloween da Pabllo e festivais de cinema; veja o que fazer em SP",
+      "category": "cinema",
+      "desc": "Chitãozinho & Xororó, O Céu da Língua, Os Garotin, Halloween da Pabllo e festivais de cinema; veja o que fazer em SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/02/chitaozinho-and-xororo-o-ceu-da-lingua-os-garotin-halloween-da-pabllo-e-festivais-de-cinema-veja-o-que-fazer-em-sp.ghtml"
     },
     {
       "name": "Festival Breakfast Weekend reúne opções diversas de café da manhã a partir de R$ 39,90 na cidade de SP",
@@ -279,17 +292,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/25/samuel-rosa-e-joyce-alane-na-sala-sp-vanessa-da-mata-tasha-and-tracie-fernando-and-sorocaba-e-mais-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Violências do colonialismo se repetem no presente, diz artista portuguesa Grada Kilomba, que traz obra de Inhotim para SP",
-      "category": "evento",
-      "desc": "Violências do colonialismo se repetem no presente, diz artista portuguesa Grada Kilomba, que traz obra de Inhotim para S",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/22/violencias-do-colonialismo-se-repetem-no-presente-diz-artista-portuguesa-grada-kilomba-que-traz-obra-de-inhotim-para-sp.ghtml"
     }
   ]
 }
