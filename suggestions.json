@@ -1,5 +1,5 @@
 {
-  "updated_at": "05/10/2026 as 19:30",
+  "updated_at": "07/10/2026 as 17:40",
   "items": [
     {
       "name": "51° Retrô Mega Flash Back FESTA DO BRANCO",
@@ -48,31 +48,64 @@
       "link": "https://bileto.sympla.com.br/event/127359?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Trilogia da Noite Escura da Alma, dirigido por Helder Mariani, reúne três monólogos com presentações que acontecem às terças-feiras, às 19h",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "'O Iluminado' e 'O Estranho Mundo de Jack' ganham exibiÃ§Ãµes grÃ¡tis",
+      "name": "Trio Callas",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Festival Nordestino ocupa o CTN com pratos tÃ­picos e show de Tierry",
+      "name": "SERGINHO LACERDA EM SÃO MATEUS/SP - VIDA DE PAI - STAND UP COMEDY",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126651?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "The Black Kings Of The Blues",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "jazz"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "LAURYN HILL por AMANDA MARIA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "HALLOWEEN JUNKIE BOX",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/114737?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cultura Inglesa Festival - Show Agnes Nunes",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -81,35 +114,79 @@
       "tags": [
         "festival"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126933?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Mostra gratuita na Paulista destaca seis polos da cerÃ¢mica do JapÃ£o",
+      "name": "Gisela Mabel: Piano Solo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126968?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "DELVON LAMARR ORGAN TRIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/124852?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Planta e Raiz - Flor de Fogo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125860?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "LINO KRIZZ",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/115333?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "John Mayer Tribute - NEW LIGHT",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127144?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Patrimônio será restaurado pelo grupo Tokyo em investimento de R$ 25 milhões e terá sessões de clássicos e peças de teatro na programação",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "exposicao"
+        "teatro"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Senti falta da identidade vibrante e potente de Carmen VirgÃ­nia nas receitas do restaurante, aberto no comeÃ§o do ano em Pinheiros. Toques autorais que, assim como o altar na porta, provocassem e surpreendessem.",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Saiko leva sandos, sanduÃ­ches ao estilo japonÃªs, a festival da Folha",
+      "name": "Carmo Dalla Vecchia apresenta peÃ§as no festival Satyrianas",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -122,8 +199,22 @@
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o no Museu Afro Brasil, na regiÃ£o sul, reflete sobre beleza e lutas de afro-brasileiros",
-      "category": "passeio",
+      "name": "Vladimir Brichta estreia primeiro solo no Teatro Vivo, na regiÃ£o oste",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia",
+        "teatro"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Super-ricos e patriarcado sÃ£o tema de novo filme de Karim AÃ¯nouz",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -131,6 +222,68 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Sofisticado. Caro. Com os melhores e mais frescos frutos do mar servidos no Rio. Esses sÃ£o alguns dos comentÃ¡rios sobre o Satyricon feitos no boca a boca hÃ¡ dÃ©cadas pelos cariocas. Uma reputaÃ§Ã£o construÃ­da bem antes de as resenhas (publis ou espontÃ¢neas) existirem na internet.",
+      "category": "bar",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Pizzas da Veridiana e petiscos do Sururu estarÃ£o em festival da Folha",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "pizza",
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Maestro JoÃ£o Carlos Martins e Gabriel Chalita apresentam 'O Pianista e o Poeta' no Teatro FAAP",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Após 70 anos fechado, Cine Rosário será reaberto no Edifício Martinelli, no Centro de SP",
+      "category": "evento",
+      "desc": "Após 70 anos fechado, Cine Rosário será reaberto no Edifício Martinelli, no Centro de SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/07/apos-70-anos-fechado-cine-rosario-sera-reaberto-no-edificio-martinelli-no-centro-de-sp.ghtml"
+    },
+    {
+      "name": "50ª Mostra Internacional de Cinema de SP tem 380 filmes; veja a lista",
+      "category": "cinema",
+      "desc": "50ª Mostra Internacional de Cinema de SP tem 380 filmes; veja a lista",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/06/50a-mostra-internacional-de-cinema-de-sp-tem-380-filmes-veja-a-lista.ghtml"
     },
     {
       "name": "Chitãozinho & Xororó, O Céu da Língua, Os Garotin, Halloween da Pabllo e festivais de cinema; veja o que fazer em SP",
@@ -142,30 +295,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/02/chitaozinho-and-xororo-o-ceu-da-lingua-os-garotin-halloween-da-pabllo-e-festivais-de-cinema-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Festival Breakfast Weekend reúne opções diversas de café da manhã a partir de R$ 39,90 na cidade de SP",
-      "category": "restaurante",
-      "desc": "Festival Breakfast Weekend reúne opções diversas de café da manhã a partir de R$ 39,90 na cidade de SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/25/festival-breakfast-weekend-reune-opcoes-diversas-de-cafe-da-manha-a-partir-de-r-3990-na-cidade-de-sp.ghtml"
-    },
-    {
-      "name": "Samuel Rosa  e Joyce Alane na Sala SP, Vanessa da Mata, Tasha & Tracie,  Fernando & Sorocaba e mais: veja o que fazer em SP",
-      "category": "evento",
-      "desc": "Samuel Rosa  e Joyce Alane na Sala SP, Vanessa da Mata, Tasha & Tracie,  Fernando & Sorocaba e mais: veja o que fazer em",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/09/25/samuel-rosa-e-joyce-alane-na-sala-sp-vanessa-da-mata-tasha-and-tracie-fernando-and-sorocaba-e-mais-veja-o-que-fazer-em-sp.ghtml"
     }
   ]
 }
