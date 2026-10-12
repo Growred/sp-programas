@@ -1,5 +1,5 @@
 {
-  "updated_at": "09/10/2026 as 17:19",
+  "updated_at": "12/10/2026 as 20:06",
   "items": [
     {
       "name": "51° Retrô Mega Flash Back FESTA DO BRANCO",
@@ -48,42 +48,159 @@
       "link": "https://bileto.sympla.com.br/event/127359?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Dois endereços brasileiros figuram na lista internacional; também paulistano, Tan Tan ficou na 35ª posição, descendo 11 lugares",
+      "name": "MAGIA DUO 2026 apresenta Alice no País das Maravilhas",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127377?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Spotify estreia evento em SÃ£o Paulo com Ludmilla e podcasts ao vivo",
+      "name": "The Grinch",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128272?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Trio Callas",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "SERGINHO LACERDA EM SÃO MATEUS/SP - VIDA DE PAI - STAND UP COMEDY",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126651?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Plínio Fernandes",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123302?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "The Black Kings Of The Blues",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "estreia"
+        "jazz"
       ],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Leggero, novo restaurante do grupo Fasano, aposta em menu saboroso",
-      "category": "restaurante",
+      "name": "LAURYN HILL por AMANDA MARIA",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "HALLOWEEN JUNKIE BOX",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/114737?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cultura Inglesa Festival - Show Agnes Nunes",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126933?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Gisela Mabel: Piano Solo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126968?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Martin y Una Sofía",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128352?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Personagens queridos são atrações de peças, filmes e shows na cidade enquanto exposições completam programação infantil no feriado",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil",
+        "teatro"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o em homenagem a MarÃ­lia MendonÃ§a Ã© inaugurada no MIS",
+      "name": "Saiba como garantir ingressos para a 50Âª Mostra de Cinema de SP",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "No menu do D.O.M, tradiÃ§Ã£o Ã© repensar ingredientes nacional",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -94,13 +211,26 @@
       "link": ""
     },
     {
-      "name": "Sofisticado. Caro. Com os melhores e mais frescos frutos do mar servidos no Rio. Esses sÃ£o alguns dos comentÃ¡rios sobre o Satyricon feitos no boca a boca hÃ¡ dÃ©cadas pelos cariocas. Uma reputaÃ§Ã£o construÃ­da bem antes de as resenhas (publis ou espontÃ¢neas) existirem na internet.",
-      "category": "bar",
+      "name": "Ã frente do ExÃ­mia, MÃ¡rcio Silva gosta dos bastidores do processo",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "No salÃ£o, o Marmotta lembra um diner americano. Na calÃ§ada, remete aos cafÃ©s de Paris. Na cozinha, faz pratos italianos. Mas nÃ£o pense que vai encontrar receitas que seguem rigorosamente a tradiÃ§Ã£o por ali. A refeiÃ§Ã£o guarda algumas surpresas.",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "italiano"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -112,22 +242,37 @@
       "date": "",
       "hours": "",
       "tags": [
-        "musical",
+        "festival",
+        "musical"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Silvero Pereira canta Belchior no festival Nordeste em Cena, na regiÃ£o central da capital",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
         "festival"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Confira agenda de shows da semana, com som pop de Zayn e Robbie Williams na cidade",
+      "name": "Festival Nordestino do CTN tem shows, gastronomia e atrações culturais com entrada gratuita em SP",
       "category": "show",
-      "desc": "",
+      "desc": "Festival Nordestino do CTN tem shows, gastronomia e atrações culturais com entrada gratuita em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/09/festival-nordestino-do-ctn-tem-shows-gastronomia-e-atracoes-culturais-com-entrada-gratuita-em-sp.ghtml"
     },
     {
       "name": "3ª Mostrinha leva estreias do cinema infantil a 27 espaços de regiões periféricas de SP",
@@ -137,8 +282,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "infantil",
-        "estreia"
+        "estreia",
+        "infantil"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/09/3a-mostrinha-leva-estreias-do-cinema-infantil-a-27-espacos-de-regioes-perifericas-de-sp.ghtml"
@@ -153,22 +298,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/09/a-musica-nao-esta-separada-da-politica-diz-duo-espanhol-iseo-and-dodosound-que-se-apresenta-nesta-sexta-em-sp.ghtml"
-    },
-    {
-      "name": "Veja o que fazer em SP no Dia das Crianças: Ladybug, Cirque du Soleil, shows e teatros gratuitos, festivais e atividades em parques",
-      "category": "show",
-      "desc": "Veja o que fazer em SP no Dia das Crianças: Ladybug, Cirque du Soleil, shows e teatros gratuitos, festivais e atividades",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito",
-        "infantil",
-        "teatro",
-        "ao-ar-livre"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/09/veja-o-que-fazer-em-sp-no-dia-das-criancas-ladybug-cirque-du-soleil-shows-e-teatros-gratuitos-festivais-e-atividades-em-parques.ghtml"
     }
   ]
 }
