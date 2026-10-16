@@ -1,17 +1,6 @@
 {
-  "updated_at": "14/10/2026 as 15:42",
+  "updated_at": "16/10/2026 as 15:12",
   "items": [
-    {
-      "name": "51° Retrô Mega Flash Back FESTA DO BRANCO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/127599?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
       "category": "evento",
@@ -48,8 +37,146 @@
       "link": "https://bileto.sympla.com.br/event/127359?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Travis Scott é destaque da sexta (19), The Killers se apresenta no sábado (20) e Charli XCX fecha o domingo (21), em março de 2027",
+      "name": "MAGIA DUO 2026 apresenta Alice no País das Maravilhas",
       "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127377?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Brasil Contemporâneo -  Fernando Schuler & Martha Gabriel.",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127810?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Trio Callas",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "SERGINHO LACERDA EM SÃO MATEUS/SP - VIDA DE PAI - STAND UP COMEDY",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126651?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Plínio Fernandes",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123302?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "The Black Kings Of The Blues",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "jazz"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "LAURYN HILL por AMANDA MARIA",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "BLUES BEATLES",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "jazz"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/114218?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Cultura Inglesa Festival - Show Agnes Nunes",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126933?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Gisela Mabel: Piano Solo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/126968?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Martin y Una Sofía",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128352?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Nyron Higor // Convida Jadsa e Russo Passapusso",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128499?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Longas 'O Outro Lado das Redes' e 'Musk', filmes sobre os empresários Mark Zuckerberg e Elon Musk, também estão na seleção 50ª edição",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -59,40 +186,39 @@
       "link": ""
     },
     {
-      "name": "ConheÃ§a Amendoim, filhote de anta que nasceu no Simba Safari",
+      "name": "Festival traz documentÃ¡rio sobre vida de Fernanda Montenegro",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Filmes nacionais da Mostra tÃªm ConceiÃ§Ã£o Evaristo e Jair Bolsonaro",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Longas da Mostrinha mesclam fantasia com dilemas da infÃ¢ncia",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Paula Lima leva caldeirÃ£o musical danÃ§ante para festival da folha",
-      "category": "musical",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival",
-        "musical"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Feira gastronÃ´mica reÃºne receitas e chefs franceses no MercadÃ£o",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira"
-      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -110,64 +236,70 @@
       "link": ""
     },
     {
-      "name": "Jorge Ben Jor faz show 'Alquimia Popular Brasileira' em SÃ£o Paulo",
-      "category": "show",
+      "name": "Veja onde assistir aos filmes da 50Âª Mostra de Cinema Internacional",
+      "category": "cinema",
       "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Ã frente do ExÃ­mia, 20Âº melhor bar do mundo em ranking, MÃ¡rcio Silva gosta dos bastidores",
-      "category": "bar",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Festival Nordestino do CTN tem shows, gastronomia e atrações culturais com entrada gratuita em SP",
-      "category": "show",
-      "desc": "Festival Nordestino do CTN tem shows, gastronomia e atrações culturais com entrada gratuita em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
+        "exposicao"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Com mar de opÃ§Ãµes, saiba o que ver na Mostra de SP a partir do seu gosto cinematogrÃ¡fico",
+      "category": "cinema",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja o que fazer em SP: 50ª Mostra de Cinema, Viradinha, shows de Pitty e Barão Vermelho, Baile da Pocah e festival árabe",
+      "category": "cinema",
+      "desc": "Veja o que fazer em SP: 50ª Mostra de Cinema, Viradinha, shows de Pitty e Barão Vermelho, Baile da Pocah e festival árab",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao",
         "festival"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/09/festival-nordestino-do-ctn-tem-shows-gastronomia-e-atracoes-culturais-com-entrada-gratuita-em-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/16/veja-o-que-fazer-em-sp-50a-mostra-de-cinema-viradinha-shows-de-pitty-e-barao-vermelho-baile-da-pocah-e-festival-arabe.ghtml"
     },
     {
-      "name": "3ª Mostrinha leva estreias do cinema infantil a 27 espaços de regiões periféricas de SP",
+      "name": "Cine Belas Artes estreia Matinê de Domingo com filme e bate-papo sobre relacionamentos em SP",
       "category": "cinema",
-      "desc": "3ª Mostrinha leva estreias do cinema infantil a 27 espaços de regiões periféricas de SP",
+      "desc": "Cine Belas Artes estreia Matinê de Domingo com filme e bate-papo sobre relacionamentos em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "estreia",
-        "infantil"
+        "estreia"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/09/3a-mostrinha-leva-estreias-do-cinema-infantil-a-27-espacos-de-regioes-perifericas-de-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/15/cine-belas-artes-estreia-matine-de-domingo-com-filme-e-bate-papo-sobre-relacionamentos-em-sp.ghtml"
     },
     {
-      "name": "'A música não está separada da política', diz duo espanhol Iseo & Dodosound, que se apresenta nesta sexta em SP",
+      "name": "Exposição sobre automobilismo reúne mais de 150 itens históricos no Shopping Vila Olímpia, em SP",
       "category": "evento",
-      "desc": "'A música não está separada da política', diz duo espanhol Iseo & Dodosound, que se apresenta nesta sexta em SP",
+      "desc": "Exposição sobre automobilismo reúne mais de 150 itens históricos no Shopping Vila Olímpia, em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "exposicao"
+      ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/09/a-musica-nao-esta-separada-da-politica-diz-duo-espanhol-iseo-and-dodosound-que-se-apresenta-nesta-sexta-em-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/15/exposicao-sobre-automobilismo-reune-mais-de-150-itens-historicos-no-shopping-vila-olimpia-em-sp.ghtml"
     }
   ]
 }
