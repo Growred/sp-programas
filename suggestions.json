@@ -1,5 +1,5 @@
 {
-  "updated_at": "19/10/2026 as 17:19",
+  "updated_at": "21/10/2026 as 15:49",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -35,6 +35,30 @@
       ],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/127359?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Luther King o Musical",
+      "category": "musical",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "musical"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128912?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Kades On Stage",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128894?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "MAGIA DUO 2026 apresenta Alice no País das Maravilhas",
@@ -94,6 +118,19 @@
       "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "TRIBUTO À LEGIÃO URBANA - MONTE CASTELO, MUITO ALÉM DO ACÚSTICO no TEATRO SANTA CRUZ",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128835?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "BLUES BEATLES",
       "category": "evento",
       "desc": "",
@@ -142,43 +179,8 @@
       "link": "https://bileto.sympla.com.br/event/128352?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Toninho Horta Quarteto",
+      "name": "Músico terá novidades, como regravação de 'Noves Fora' em dueto com Fagner, que compôs a faixa com Belchior; Blue Note assina a curadoria",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/128565?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "BLUES JAM",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "jazz"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/114220?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "SERIAL FUNKERS",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/115339?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Longas 'O Outro Lado das Redes' e 'Musk', filmes sobre os empresários Mark Zuckerberg e Elon Musk, também estão na seleção 50ª edição",
-      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -188,39 +190,37 @@
       "link": ""
     },
     {
-      "name": "Festival traz documentÃ¡rio sobre vida de Fernanda Montenegro",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Filmes nacionais da Mostra tÃªm ConceiÃ§Ã£o Evaristo e Jair Bolsonaro",
-      "category": "cinema",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Longas da Mostrinha mesclam fantasia com dilemas da infÃ¢ncia",
+      "name": "EspetÃ¡culo tem como estrela pessoa que sopra texto para os atores",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Vinte chefs da ItÃ¡lia cozinham em diversos endereÃ§os de SÃ£o Paulo",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "NathÃ¡lia Timberg Ã© atriz que luta por teatro em peÃ§a em SÃ£o Paulo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -238,15 +238,13 @@
       "link": ""
     },
     {
-      "name": "Veja onde assistir aos filmes da 50Âª Mostra de Cinema Internacional",
-      "category": "cinema",
+      "name": "Nando Reis e Tim Bernardes fazem shows em SÃ£o Paulo em dezembro",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "exposicao"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -262,6 +260,19 @@
       ],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Primavera Sound anuncia shows em SP antes de festival em Interlagos; veja atrações",
+      "category": "show",
+      "desc": "Primavera Sound anuncia shows em SP antes de festival em Interlagos; veja atrações",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/19/primavera-sound-anuncia-shows-em-sp-antes-de-festival-em-interlagos-veja-atracoes.ghtml"
     },
     {
       "name": "Museu das Favelas realiza evento gratuito com feira de empreendedores, oficinas e shows no Centro de SP",
@@ -289,20 +300,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/16/exposicao-em-sp-transforma-seda-em-arte-e-homenageia-mulheres-da-bauhaus.ghtml"
-    },
-    {
-      "name": "Veja o que fazer em SP: 50ª Mostra de Cinema, Viradinha, shows de Pitty e Barão Vermelho, Baile da Pocah e festival árabe",
-      "category": "cinema",
-      "desc": "Veja o que fazer em SP: 50ª Mostra de Cinema, Viradinha, shows de Pitty e Barão Vermelho, Baile da Pocah e festival árab",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao",
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/16/veja-o-que-fazer-em-sp-50a-mostra-de-cinema-viradinha-shows-de-pitty-e-barao-vermelho-baile-da-pocah-e-festival-arabe.ghtml"
     }
   ]
 }
