@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/10/2026 as 15:49",
+  "updated_at": "23/10/2026 as 15:38",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -81,6 +81,19 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/127810?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Amália no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128729?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Trio Callas",
@@ -168,78 +181,21 @@
       "link": "https://bileto.sympla.com.br/event/126968?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Martin y Una Sofía",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/128352?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Músico terá novidades, como regravação de 'Noves Fora' em dueto com Fagner, que compôs a faixa com Belchior; Blue Note assina a curadoria",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "EspetÃ¡culo tem como estrela pessoa que sopra texto para os atores",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Vinte chefs da ItÃ¡lia cozinham em diversos endereÃ§os de SÃ£o Paulo",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "NathÃ¡lia Timberg Ã© atriz que luta por teatro em peÃ§a em SÃ£o Paulo",
+      "name": "Herança de imigrantes japoneses convive com pratos de outros países nos bairros locais; unidades do Aizomê e Mocotó chegam à região",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "teatro"
+        "japones"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "No salÃ£o, o Marmotta lembra um diner americano. Na calÃ§ada, remete aos cafÃ©s de Paris. Na cozinha, faz pratos italianos. Mas nÃ£o pense que vai encontrar receitas que seguem rigorosamente a tradiÃ§Ã£o por ali. A refeiÃ§Ã£o guarda algumas surpresas.",
+      "name": "ExposiÃ§Ã£o recria cenÃ¡rios da vida de Tom ZÃ© em celebraÃ§Ã£o aos 90 anos",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "italiano"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Nando Reis e Tim Bernardes fazem shows em SÃ£o Paulo em dezembro",
-      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -249,7 +205,7 @@
       "link": ""
     },
     {
-      "name": "Com mar de opÃ§Ãµes, saiba o que ver na Mostra de SP a partir do seu gosto cinematogrÃ¡fico",
+      "name": "Novos filmes chegam para os Ãºltimos dias da 50Âª Mostra de SP",
       "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -262,44 +218,84 @@
       "link": ""
     },
     {
-      "name": "Primavera Sound anuncia shows em SP antes de festival em Interlagos; veja atrações",
-      "category": "show",
-      "desc": "Primavera Sound anuncia shows em SP antes de festival em Interlagos; veja atrações",
+      "name": "Bar Belle Ãpoque faz drinques e petiscos com sotaque paraense",
+      "category": "bar",
+      "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/19/primavera-sound-anuncia-shows-em-sp-antes-de-festival-em-interlagos-veja-atracoes.ghtml"
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
     },
     {
-      "name": "Museu das Favelas realiza evento gratuito com feira de empreendedores, oficinas e shows no Centro de SP",
-      "category": "show",
-      "desc": "Museu das Favelas realiza evento gratuito com feira de empreendedores, oficinas e shows no Centro de SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "feira",
-        "gratuito"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/17/museu-das-favelas-realiza-evento-gratuito-com-feira-de-empreendedores-oficinas-e-shows-no-centro-de-sp.ghtml"
-    },
-    {
-      "name": "Exposição em SP transforma seda em arte e homenageia mulheres da Bauhaus",
+      "name": "Sempre que vou ao Esquina do Souza da Vila Leopoldina prometo que da prÃ³xima vez vou pedir sÃ³ coxinha. DÃ¡ Ã¡gua na boca ver as porÃ§Ãµes dela, que passam aos montes nas bandejas dos garÃ§ons. Nas trÃªs unidades, Ã© famosa a combinaÃ§Ã£o desse salgado com uma das receitas de caipirinha da casa.",
       "category": "evento",
-      "desc": "Exposição em SP transforma seda em arte e homenageia mulheres da Bauhaus",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Melhor novidade do ano, Casa Rios participa do Folha Gourmet",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "ExposiÃ§Ã£o fotogrÃ¡fica de Abbas Kiarostami no MIS projeta fascÃ­nio do diretor por escadas",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja o que fazer em SP: Inimigos da HP, tributo a Elvis Presley, Halloween e Breakfast Weekend",
+      "category": "evento",
+      "desc": "Veja o que fazer em SP: Inimigos da HP, tributo a Elvis Presley, Halloween e Breakfast Weekend",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/23/veja-o-que-fazer-em-sp-inimigos-da-hp-tributo-a-elvis-presley-halloween-e-breakfast-weekend.ghtml"
+    },
+    {
+      "name": "Exposição imersiva revela bastidores dos figurinos de Carnaval, teatro e grandes artistas em SP",
+      "category": "evento",
+      "desc": "Exposição imersiva revela bastidores dos figurinos de Carnaval, teatro e grandes artistas em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
+        "teatro",
         "exposicao"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/16/exposicao-em-sp-transforma-seda-em-arte-e-homenageia-mulheres-da-bauhaus.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/22/exposicao-imersiva-revela-bastidores-dos-figurinos-de-carnaval-teatro-e-grandes-artistas-em-sp.ghtml"
+    },
+    {
+      "name": "Dois restaurantes de SP estão entre os 100 melhores do mundo em 2026; veja a lista",
+      "category": "restaurante",
+      "desc": "Dois restaurantes de SP estão entre os 100 melhores do mundo em 2026; veja a lista",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/21/dois-restaurantes-de-sp-estao-entre-os-100-melhores-do-mundo-em-2026-veja-a-lista.ghtml"
     }
   ]
 }
