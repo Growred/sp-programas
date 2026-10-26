@@ -1,5 +1,5 @@
 {
-  "updated_at": "23/10/2026 as 15:38",
+  "updated_at": "26/10/2026 as 17:07",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -48,17 +48,6 @@
       ],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/128912?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Kades On Stage",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/128894?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "MAGIA DUO 2026 apresenta Alice no País das Maravilhas",
@@ -181,20 +170,18 @@
       "link": "https://bileto.sympla.com.br/event/126968?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Herança de imigrantes japoneses convive com pratos de outros países nos bairros locais; unidades do Aizomê e Mocotó chegam à região",
+      "name": "Martin y Una Sofía",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "japones"
-      ],
-      "source": "Guia Folha",
-      "link": ""
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128352?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "ExposiÃ§Ã£o recria cenÃ¡rios da vida de Tom ZÃ© em celebraÃ§Ã£o aos 90 anos",
+      "name": "Menu inclui pratos como o tostex de pastrami, o tartare de salmão e bagels; serviço ocorre na delicatéssen do grupo de sexta a domingo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -205,15 +192,24 @@
       "link": ""
     },
     {
-      "name": "Novos filmes chegam para os Ãºltimos dias da 50Âª Mostra de SP",
-      "category": "cinema",
+      "name": "SP recebe eventos temÃ¡ticos do BTS na semana do show do grupo",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "exposicao"
-      ],
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja como chegar aos shows da banda Iron Maiden em SÃ£o Paulo",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -240,7 +236,7 @@
       "link": ""
     },
     {
-      "name": "Melhor novidade do ano, Casa Rios participa do Folha Gourmet",
+      "name": "SaÃºde ganha novidades e reforÃ§a vocaÃ§Ã£o gastronÃ´mica na regiÃ£o sul",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -262,13 +258,15 @@
       "link": ""
     },
     {
-      "name": "Veja o que fazer em SP: Inimigos da HP, tributo a Elvis Presley, Halloween e Breakfast Weekend",
-      "category": "evento",
-      "desc": "Veja o que fazer em SP: Inimigos da HP, tributo a Elvis Presley, Halloween e Breakfast Weekend",
+      "name": "Veja o que fazer em SP: última semana da Mostra de Cinema, Ana Carolina, tributo a Elvis Presley e Queen e Breakfast Weekend",
+      "category": "cinema",
+      "desc": "Veja o que fazer em SP: última semana da Mostra de Cinema, Ana Carolina, tributo a Elvis Presley e Queen e Breakfast Wee",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "exposicao"
+      ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/23/veja-o-que-fazer-em-sp-inimigos-da-hp-tributo-a-elvis-presley-halloween-e-breakfast-weekend.ghtml"
     },
@@ -280,8 +278,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "teatro",
-        "exposicao"
+        "exposicao",
+        "teatro"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/22/exposicao-imersiva-revela-bastidores-dos-figurinos-de-carnaval-teatro-e-grandes-artistas-em-sp.ghtml"
