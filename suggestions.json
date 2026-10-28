@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/10/2026 as 17:07",
+  "updated_at": "28/10/2026 as 16:59",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -61,6 +61,19 @@
       "link": "https://bileto.sympla.com.br/event/127377?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Acesso no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/129186?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Brasil Contemporâneo -  Fernando Schuler & Martha Gabriel.",
       "category": "evento",
       "desc": "",
@@ -85,6 +98,17 @@
       "link": "https://bileto.sympla.com.br/event/128729?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "O Jogo Duro do Amor",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/129108?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Trio Callas",
       "category": "evento",
       "desc": "",
@@ -94,19 +118,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "The Black Kings Of The Blues",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "jazz"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "LAURYN HILL por AMANDA MARIA",
@@ -170,29 +181,21 @@
       "link": "https://bileto.sympla.com.br/event/126968?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Martin y Una Sofía",
+      "name": "Evento gratuito contará com 245 selos e 50% de desconto mínimo nas obras; feira acontece de 25 a 29 de novembro, na Cidade Universitária",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/128352?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Menu inclui pratos como o tostex de pastrami, o tartare de salmão e bagels; serviço ocorre na delicatéssen do grupo de sexta a domingo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
+      "tags": [
+        "feira",
+        "gratuito"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "SP recebe eventos temÃ¡ticos do BTS na semana do show do grupo",
+      "name": "Simple Plan vem ao Brasil para shows em SÃ£o Paulo, Curitiba e Rio",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -203,24 +206,28 @@
       "link": ""
     },
     {
-      "name": "Veja como chegar aos shows da banda Iron Maiden em SÃ£o Paulo",
-      "category": "show",
+      "name": "Gosta de comida japonesa? Sando e guioza estÃ£o no menu do evento",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "japones"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Bar Belle Ãpoque faz drinques e petiscos com sotaque paraense",
-      "category": "bar",
+      "name": "The Pussycat Dolls estreia no Brasil com a turnÃª 'PCD Forever'",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "estreia"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -236,7 +243,20 @@
       "link": ""
     },
     {
-      "name": "SaÃºde ganha novidades e reforÃ§a vocaÃ§Ã£o gastronÃ´mica na regiÃ£o sul",
+      "name": "Experimente azeites brasileiros premiados no festival da Folha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Z Deli comeÃ§a a servir cafÃ© da manhÃ£ com pratos judaicos e clÃ¡ssicos de Nova York em SÃ£o Paulo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -247,15 +267,17 @@
       "link": ""
     },
     {
-      "name": "ExposiÃ§Ã£o fotogrÃ¡fica de Abbas Kiarostami no MIS projeta fascÃ­nio do diretor por escadas",
+      "name": "Cidade de SP tem clubes de leitura gratuitos com obras como 'Torto Arado' e encontro com autores; veja como participar",
       "category": "evento",
-      "desc": "",
+      "desc": "Cidade de SP tem clubes de leitura gratuitos com obras como 'Torto Arado' e encontro com autores; veja como participar",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "tags": [
+        "gratuito"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/26/cidade-de-sp-tem-clubes-de-leitura-gratuitos-com-obras-como-torto-arado-e-encontro-com-autores-veja-como-participar.ghtml"
     },
     {
       "name": "Veja o que fazer em SP: última semana da Mostra de Cinema, Ana Carolina, tributo a Elvis Presley e Queen e Breakfast Weekend",
@@ -283,17 +305,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/22/exposicao-imersiva-revela-bastidores-dos-figurinos-de-carnaval-teatro-e-grandes-artistas-em-sp.ghtml"
-    },
-    {
-      "name": "Dois restaurantes de SP estão entre os 100 melhores do mundo em 2026; veja a lista",
-      "category": "restaurante",
-      "desc": "Dois restaurantes de SP estão entre os 100 melhores do mundo em 2026; veja a lista",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/21/dois-restaurantes-de-sp-estao-entre-os-100-melhores-do-mundo-em-2026-veja-a-lista.ghtml"
     }
   ]
 }
