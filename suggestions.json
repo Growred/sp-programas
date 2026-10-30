@@ -1,5 +1,5 @@
 {
-  "updated_at": "28/10/2026 as 16:59",
+  "updated_at": "30/10/2026 as 16:56",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -22,6 +22,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/125936?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "A Caixa Preta – Versão Demo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/129309?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Amantes do Teatro – A Comédia  São Paulo",
@@ -85,19 +96,6 @@
       "link": "https://bileto.sympla.com.br/event/127810?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Amália no TEATRO ESTÚDIO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/128729?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "O Jogo Duro do Amor",
       "category": "evento",
       "desc": "",
@@ -131,6 +129,19 @@
       "link": "https://bileto.sympla.com.br/event/127142?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "The Black Kings Of The Blues",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "jazz"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "TRIBUTO À LEGIÃO URBANA - MONTE CASTELO, MUITO ALÉM DO ACÚSTICO no TEATRO SANTA CRUZ",
       "category": "evento",
       "desc": "",
@@ -142,19 +153,6 @@
       ],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/128835?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "BLUES BEATLES",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "jazz"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/114218?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Cultura Inglesa Festival - Show Agnes Nunes",
@@ -181,21 +179,20 @@
       "link": "https://bileto.sympla.com.br/event/126968?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Evento gratuito contará com 245 selos e 50% de desconto mínimo nas obras; feira acontece de 25 a 29 de novembro, na Cidade Universitária",
-      "category": "evento",
+      "name": "Primeira edição do Festival do Cinema Brasileiro dá desconto em ingressos; redes como Cinemark, Cinépolis, Cinesystem e UCI participam da ação",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "feira",
-        "gratuito"
+        "festival"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Simple Plan vem ao Brasil para shows em SÃ£o Paulo, Curitiba e Rio",
+      "name": "Pitbull, voz de hits como 'Timber', anuncia show em SP em 2027",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -206,34 +203,8 @@
       "link": ""
     },
     {
-      "name": "Gosta de comida japonesa? Sando e guioza estÃ£o no menu do evento",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "japones"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "The Pussycat Dolls estreia no Brasil com a turnÃª 'PCD Forever'",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Sempre que vou ao Esquina do Souza da Vila Leopoldina prometo que da prÃ³xima vez vou pedir sÃ³ coxinha. DÃ¡ Ã¡gua na boca ver as porÃ§Ãµes dela, que passam aos montes nas bandejas dos garÃ§ons. Nas trÃªs unidades, Ã© famosa a combinaÃ§Ã£o desse salgado com uma das receitas de caipirinha da casa.",
-      "category": "evento",
+      "name": "Halloween tem 'PÃ¢nico' e 'ObsessÃ£o' de volta aos cinemas por R$ 12",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -243,7 +214,7 @@
       "link": ""
     },
     {
-      "name": "Experimente azeites brasileiros premiados no festival da Folha",
+      "name": "Prove nacho al pastor e outros sabores latinos no festival da Folha",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -256,7 +227,7 @@
       "link": ""
     },
     {
-      "name": "Z Deli comeÃ§a a servir cafÃ© da manhÃ£ com pratos judaicos e clÃ¡ssicos de Nova York em SÃ£o Paulo",
+      "name": "Gostoso sentar em uma das mesas da calÃ§ada do Plin, na Santa CecÃ­lia. LÃ¡ comeÃ§amos provando as gostosas e carnudas alcachofras no espeto (R$ 82).  Elas sÃ£o tostadas com tarÃª de pÃ© de galinha e vÃªm com uma porÃ§Ã£o generosa de maionese de manteiga queimada, bottarga e cebolinha francesa.",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -265,6 +236,28 @@
       "tags": [],
       "source": "Guia Folha",
       "link": ""
+    },
+    {
+      "name": "Veja onde comprar e encomendar doces para o Halloween em SP",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Festas de Halloween, Zeca ao lado de Alcione e Jorge Aragão, Iza com Jota.pê e Pussycat Dolls: veja o que fazer em SP",
+      "category": "evento",
+      "desc": "Festas de Halloween, Zeca ao lado de Alcione e Jorge Aragão, Iza com Jota.pê e Pussycat Dolls: veja o que fazer em SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/30/festas-de-halloween-zeca-ao-lado-de-alcione-e-jorge-aragao-iza-com-jotape-e-pussycat-dolls-veja-o-que-fazer-em-sp.ghtml"
     },
     {
       "name": "Cidade de SP tem clubes de leitura gratuitos com obras como 'Torto Arado' e encontro com autores; veja como participar",
@@ -291,20 +284,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/23/veja-o-que-fazer-em-sp-inimigos-da-hp-tributo-a-elvis-presley-halloween-e-breakfast-weekend.ghtml"
-    },
-    {
-      "name": "Exposição imersiva revela bastidores dos figurinos de Carnaval, teatro e grandes artistas em SP",
-      "category": "evento",
-      "desc": "Exposição imersiva revela bastidores dos figurinos de Carnaval, teatro e grandes artistas em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao",
-        "teatro"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/22/exposicao-imersiva-revela-bastidores-dos-figurinos-de-carnaval-teatro-e-grandes-artistas-em-sp.ghtml"
     }
   ]
 }
