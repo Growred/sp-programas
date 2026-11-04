@@ -1,5 +1,5 @@
 {
-  "updated_at": "02/11/2026 as 20:37",
+  "updated_at": "04/11/2026 as 18:28",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -151,7 +151,18 @@
       "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Museu da Imaginação",
+      "name": "Plínio Fernandes",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123302?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Museu de Arte Sacra de São Paulo",
       "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -159,23 +170,10 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/116303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/85130?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "The Black Kings Of The Blues",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "jazz"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/116983?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Receitas clÃ¡ssicas de Alex Atala sÃ£o pratos servidos no Folha Gourmet",
+      "name": "Arroz de polvo, pastel de leitão e bourguignon de alcachofra estarão no evento da capital paulista, que acontece dias 7, 8, 14 e 15 de novembro",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -186,33 +184,43 @@
       "link": ""
     },
     {
-      "name": "IntÃ©rprete de David Bowie, AndrÃ© Frateschi leva rock ao festival",
-      "category": "show",
+      "name": "Experimente o premiado queijo da fazenda Atalaia no Folha Gourmet",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Veja as opÃ§Ãµes vegetarianas, sem glÃºten e lactose do Folha Gourmet",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Prove galinhada e pÃ£o de queijo com pastrami no festival da Folha",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "rock",
         "festival"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Folha traz azeites brasileiros consagrados e mais produtos a SP",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Gostoso sentar em uma das mesas da calÃ§ada do Plin, na Santa CecÃ­lia. LÃ¡ comeÃ§amos provando as gostosas e carnudas alcachofras no espeto (R$ 82).  Elas sÃ£o tostadas com tarÃª de pÃ© de galinha e vÃªm com uma porÃ§Ã£o generosa de maionese de manteiga queimada, bottarga e cebolinha francesa.",
-      "category": "evento",
+      "name": "Tantas novidades, porÃ©m, reforÃ§am a importÃ¢ncia afetiva, gastronÃ´mica e cultural dos restaurantes de bairro, aqueles frequentados hÃ¡ dÃ©cadas por vizinhos e moradores, com cardÃ¡pio quase imutÃ¡vel e serviÃ§o atencioso. Ã o caso do Lareira Original.",
+      "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
