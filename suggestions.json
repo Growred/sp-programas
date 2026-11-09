@@ -1,5 +1,5 @@
 {
-  "updated_at": "06/11/2026 as 17:48",
+  "updated_at": "09/11/2026 as 21:17",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -68,17 +68,6 @@
       "link": "https://bileto.sympla.com.br/event/129309?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "UM FAX PARA COLOMBO COM DENISE STOKLOS",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/129489?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Amantes do Teatro – A Comédia  São Paulo",
       "category": "evento",
       "desc": "",
@@ -103,7 +92,7 @@
       "link": "https://bileto.sympla.com.br/event/107843?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Hadassa o Musical",
+      "name": "Luther King o Musical",
       "category": "musical",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -113,7 +102,7 @@
         "musical"
       ],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/124247?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/128912?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "MAGIA DUO 2026 apresenta Alice no País das Maravilhas",
@@ -173,42 +162,42 @@
       "link": "https://bileto.sympla.com.br/event/129108?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Vinte restaurantes e bares premiados participam do evento, além de produtores artesanais brasileiros; garanta entradas promocionais",
-      "category": "restaurante",
+      "name": "Trio Callas",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Alex Atala e Arthur Paek falam sobre comida no Folha Gourmet",
-      "category": "restaurante",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "ConheÃ§a o espaÃ§o do festival, que terÃ¡ shows e Ã¡reas de churrasco",
+      "name": "Músico cantou clássicos do rock; evento continua sábado e domingo com Alex Atala e Luiz Filipe Souza, que integram programação de debates",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "festival"
+        "rock"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Festival da Folha leva panorama da mesa paulistana ao Villa-Lobos",
+      "name": "Evento tem pipoca de pÃ£o de queijo e pato com molho de refrigerante",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Pratos com influÃªncias asiÃ¡ticas fazem sucesso no festival da Folha",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -217,6 +206,17 @@
       "tags": [
         "festival"
       ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "SanduÃ­che japonÃªs, leitoa com curau e bao de polvo agradam pÃºblico",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -250,8 +250,8 @@
       "date": "",
       "hours": "",
       "tags": [
-        "festival",
-        "gratuito"
+        "gratuito",
+        "festival"
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/06/festival-gratuito-no-pacaembu-ira-ze-ramalho-daniel-e-inauguracao-da-arvore-de-natal-do-villa-lobos-veja-o-que-fazer-em-sp.ghtml"
