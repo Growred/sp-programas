@@ -1,5 +1,5 @@
 {
-  "updated_at": "09/11/2026 as 21:17",
+  "updated_at": "11/11/2026 as 18:22",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -22,17 +22,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/125936?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "O Que Tem na Cozinha",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -105,6 +94,17 @@
       "link": "https://bileto.sympla.com.br/event/128912?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Palazzo Verde",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/117081?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "MAGIA DUO 2026 apresenta Alice no País das Maravilhas",
       "category": "evento",
       "desc": "",
@@ -114,17 +114,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/127377?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "ANNA, VOCÊ PODE FICAR",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/129463?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Acesso no TEATRO ESTÚDIO",
@@ -140,17 +129,6 @@
       "link": "https://bileto.sympla.com.br/event/129186?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Brasil Contemporâneo -  Fernando Schuler & Martha Gabriel.",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/127810?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "O Jogo Duro do Amor",
       "category": "evento",
       "desc": "",
@@ -160,6 +138,19 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/129108?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Amália no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128729?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Trio Callas",
@@ -173,15 +164,24 @@
       "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Músico cantou clássicos do rock; evento continua sábado e domingo com Alex Atala e Luiz Filipe Souza, que integram programação de debates",
-      "category": "show",
+      "name": "Museu de Arte Sacra de São Paulo",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "rock"
-      ],
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/85130?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Evento gastronômico, que reuniu endereços paulistanos já premiados no sábado e no domingo, continua no próximo final de semana",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -210,7 +210,7 @@
       "link": ""
     },
     {
-      "name": "SanduÃ­che japonÃªs, leitoa com curau e bao de polvo agradam pÃºblico",
+      "name": "SanduÃ­che japonÃªs de camarÃ£o e bao de polvo agradam pÃºblico",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -243,6 +243,19 @@
       "link": ""
     },
     {
+      "name": "Vão Livre do MASP: programação gratuita em novembro tem show de Paola Ribeiro cantando Björk, cinema, espetáculo infantil e mais",
+      "category": "cinema",
+      "desc": "Vão Livre do MASP: programação gratuita em novembro tem show de Paola Ribeiro cantando Björk, cinema, espetáculo infanti",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "infantil"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/10/vao-livre-do-masp-programacao-gratuita-em-novembro.ghtml"
+    },
+    {
       "name": "Festival gratuito no Pacaembu, IRA!, Zé Ramalho, Daniel e inauguração da árvore de Natal do Villa-Lobos: veja o que fazer em SP",
       "category": "evento",
       "desc": "Festival gratuito no Pacaembu, IRA!, Zé Ramalho, Daniel e inauguração da árvore de Natal do Villa-Lobos: veja o que faze",
@@ -266,17 +279,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/05/gp-de-sao-paulo-de-f1-tera-shows-desfile-de-carros-historicos-e-homenagem-a-barrichello-veja-a-programacao.ghtml"
-    },
-    {
-      "name": "Tuju é eleito o 16º melhor restaurante do mundo em ranking internacional; g1 visitou a casa em SP",
-      "category": "restaurante",
-      "desc": "Tuju é eleito o 16º melhor restaurante do mundo em ranking internacional; g1 visitou a casa em SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/05/tuju-e-eleito-o-16o-melhor-restaurante-do-mundo-em-ranking-internacional-g1-visitou-a-casa-em-sp.ghtml"
     }
   ]
 }
