@@ -1,5 +1,5 @@
 {
-  "updated_at": "11/11/2026 as 18:22",
+  "updated_at": "13/11/2026 as 18:22",
   "items": [
     {
       "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
@@ -94,6 +94,17 @@
       "link": "https://bileto.sympla.com.br/event/128912?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Kades On Stage",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/128894?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "Palazzo Verde",
       "category": "evento",
       "desc": "",
@@ -114,6 +125,19 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/127377?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O Nome do Tango no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/125019?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Acesso no TEATRO ESTÚDIO",
@@ -153,30 +177,8 @@
       "link": "https://bileto.sympla.com.br/event/128729?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Trio Callas",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Museu de Arte Sacra de São Paulo",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/85130?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Evento gastronômico, que reuniu endereços paulistanos já premiados no sábado e no domingo, continua no próximo final de semana",
-      "category": "evento",
+      "name": "Evento continua no sábado e no domingo com shows de Paula Lima e Simoninha; haverá debates com Alex Atala, Arthur Paek e Zeca Camargo",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -186,13 +188,15 @@
       "link": ""
     },
     {
-      "name": "Evento tem pipoca de pÃ£o de queijo e pato com molho de refrigerante",
-      "category": "evento",
+      "name": "PÃºblico conhece restaurantes e se diverte com shows no festival",
+      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "festival"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -210,24 +214,28 @@
       "link": ""
     },
     {
-      "name": "SanduÃ­che japonÃªs de camarÃ£o e bao de polvo agradam pÃºblico",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "SaÃ­ da Ãºltima visita ao Sal Gastronomia pensando em como o chef Henrique FogaÃ§a reagiria se algum participante do MasterChef oferecesse aos jurados o steak tartare que comi no restaurante dele.",
+      "name": "Festival da Folha tem debate com o chef Luiz Filipe Souza, do Evvai",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "festival"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Pouco se fala da BrÃ¡z Elettrica. Uma injustiÃ§a. Autointitulada \"lado B da BrÃ¡z\", ela carrega o charme da modÃ©stia e faz uma das pizzas mais saborosas da cidade. A massa, inclusive, Ã© mais gostosa e elÃ¡stica que a da irmÃ£ tradicional. E os preÃ§os sÃ£o mais em conta do que os cobrados por outras casas.",
+      "category": "restaurante",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "pizza"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -243,6 +251,32 @@
       "link": ""
     },
     {
+      "name": "Mariah Carey, Belo, Gustavo Mioto, festivais de cinema e teatro, tributos a Bee Gees e Ozzy Osbourne: veja o que fazer em SP",
+      "category": "cinema",
+      "desc": "Mariah Carey, Belo, Gustavo Mioto, festivais de cinema e teatro, tributos a Bee Gees e Ozzy Osbourne: veja o que fazer e",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/13/mariah-carey-belo-gustavo-mioto-festivais-de-cinema-e-teatro-tributos-a-bee-gees-e-ozzy-osbourne-veja-o-que-fazer-em-sp.ghtml"
+    },
+    {
+      "name": "Alexandre Pires faz show gratuito em Santana de Parnaíba; veja programação do aniversário de 446 anos da cidade",
+      "category": "show",
+      "desc": "Alexandre Pires faz show gratuito em Santana de Parnaíba; veja programação do aniversário de 446 anos da cidade",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "gratuito"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/13/alexandre-pires-faz-show-gratuito-em-santana-de-parnaiba-veja-programacao-do-aniversario-de-446-anos-da-cidade.ghtml"
+    },
+    {
       "name": "Vão Livre do MASP: programação gratuita em novembro tem show de Paola Ribeiro cantando Björk, cinema, espetáculo infantil e mais",
       "category": "cinema",
       "desc": "Vão Livre do MASP: programação gratuita em novembro tem show de Paola Ribeiro cantando Björk, cinema, espetáculo infanti",
@@ -254,31 +288,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/10/vao-livre-do-masp-programacao-gratuita-em-novembro.ghtml"
-    },
-    {
-      "name": "Festival gratuito no Pacaembu, IRA!, Zé Ramalho, Daniel e inauguração da árvore de Natal do Villa-Lobos: veja o que fazer em SP",
-      "category": "evento",
-      "desc": "Festival gratuito no Pacaembu, IRA!, Zé Ramalho, Daniel e inauguração da árvore de Natal do Villa-Lobos: veja o que faze",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito",
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/06/festival-gratuito-no-pacaembu-ira-ze-ramalho-daniel-e-inauguracao-da-arvore-de-natal-do-villa-lobos-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "GP de São Paulo de F1 terá shows, desfile de carros históricos e homenagem a Barrichello; veja a programação",
-      "category": "show",
-      "desc": "GP de São Paulo de F1 terá shows, desfile de carros históricos e homenagem a Barrichello; veja a programação",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/05/gp-de-sao-paulo-de-f1-tera-shows-desfile-de-carros-historicos-e-homenagem-a-barrichello-veja-a-programacao.ghtml"
     }
   ]
 }
