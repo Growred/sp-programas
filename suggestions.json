@@ -1,17 +1,6 @@
 {
-  "updated_at": "13/11/2026 as 18:22",
+  "updated_at": "16/11/2026 as 20:48",
   "items": [
-    {
-      "name": "YOGATERIA SOLIDÁRIA - Vencendo a PIF",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/117331?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
     {
       "name": "Tributo à Roberto Leal",
       "category": "evento",
@@ -22,6 +11,17 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/125936?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "O Que Tem na Cozinha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/96122?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "ARENA STAR LASER - Shopping Metrô Santa Cruz",
@@ -153,7 +153,20 @@
       "link": "https://bileto.sympla.com.br/event/129186?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "O Jogo Duro do Amor",
+      "name": "RITA LEE, UMA AUTOBIOGRAFIA MUSICAL - 2026",
+      "category": "musical",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "musical"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116591?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Trio Callas",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -161,23 +174,10 @@
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/129108?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Amália no TEATRO ESTÚDIO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/128729?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Evento continua no sábado e no domingo com shows de Paula Lima e Simoninha; haverá debates com Alex Atala, Arthur Paek e Zeca Camargo",
+      "name": "Último dia de evento começou com sol e teve mesa com Alex Atala e Arthur Paek; Simoninha fez show com sucessos brasileiros",
       "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -188,38 +188,34 @@
       "link": ""
     },
     {
-      "name": "PÃºblico conhece restaurantes e se diverte com shows no festival",
-      "category": "show",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Pratos com influÃªncias asiÃ¡ticas fazem sucesso no festival da Folha",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "festival"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Festival da Folha tem debate com o chef Luiz Filipe Souza, do Evvai",
+      "name": "Atala, Paek e Zeca Camargo falam sobre a comida na era das redes",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Show de Simoninha encerra com festa primeira ediÃ§Ã£o do evento",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Domingo ensolarado atraiu o pÃºblico para o festival da Folha desde cedo",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
       "tags": [
         "festival"
       ],
@@ -227,7 +223,7 @@
       "link": ""
     },
     {
-      "name": "Pouco se fala da BrÃ¡z Elettrica. Uma injustiÃ§a. Autointitulada \"lado B da BrÃ¡z\", ela carrega o charme da modÃ©stia e faz uma das pizzas mais saborosas da cidade. A massa, inclusive, Ã© mais gostosa e elÃ¡stica que a da irmÃ£ tradicional. E os preÃ§os sÃ£o mais em conta do que os cobrados por outras casas.",
+      "name": "Pouco se fala da BrÃ¡z Elettrica. Uma injustiÃ§a. Autointitulada \"lado B da BrÃ¡z\", ela carrega o charme da modÃ©stia e faz uma das pizzas mais saborosas da cidade. A massa, inclusive, Ã© mais gostosa e elÃ¡stica que a da irmÃ£ tradicional",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -240,7 +236,7 @@
       "link": ""
     },
     {
-      "name": "Coxinha de frango defumado exalta sabor brasileiro em evento culinÃ¡rio",
+      "name": "Veja cenas da conversa com Alex Atala, Arthur Paek e Zeca Camargo",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -251,43 +247,43 @@
       "link": ""
     },
     {
-      "name": "Mariah Carey, Belo, Gustavo Mioto, festivais de cinema e teatro, tributos a Bee Gees e Ozzy Osbourne: veja o que fazer em SP",
-      "category": "cinema",
-      "desc": "Mariah Carey, Belo, Gustavo Mioto, festivais de cinema e teatro, tributos a Bee Gees e Ozzy Osbourne: veja o que fazer e",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/13/mariah-carey-belo-gustavo-mioto-festivais-de-cinema-e-teatro-tributos-a-bee-gees-e-ozzy-osbourne-veja-o-que-fazer-em-sp.ghtml"
-    },
-    {
-      "name": "Alexandre Pires faz show gratuito em Santana de Parnaíba; veja programação do aniversário de 446 anos da cidade",
+      "name": "Paulistano apaixonado por música cria mapa colaborativo com rodas de samba que acontecem em São Paulo",
       "category": "show",
-      "desc": "Alexandre Pires faz show gratuito em Santana de Parnaíba; veja programação do aniversário de 446 anos da cidade",
+      "desc": "Paulistano apaixonado por música cria mapa colaborativo com rodas de samba que acontecem em São Paulo",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "gratuito"
+        "samba"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/13/alexandre-pires-faz-show-gratuito-em-santana-de-parnaiba-veja-programacao-do-aniversario-de-446-anos-da-cidade.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/15/paulistano-apaixonado-por-musica-cria-mapa-colaborativo-com-rodas-de-samba-que-acontecem-em-sao-paulo.ghtml"
     },
     {
-      "name": "Vão Livre do MASP: programação gratuita em novembro tem show de Paola Ribeiro cantando Björk, cinema, espetáculo infantil e mais",
-      "category": "cinema",
-      "desc": "Vão Livre do MASP: programação gratuita em novembro tem show de Paola Ribeiro cantando Björk, cinema, espetáculo infanti",
+      "name": "Árvore de Natal de 55 metros de altura é inaugurada no Parque Villa-Lobos, Zona Oeste de SP",
+      "category": "passeio",
+      "desc": "Árvore de Natal de 55 metros de altura é inaugurada no Parque Villa-Lobos, Zona Oeste de SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "infantil"
+        "ao-ar-livre"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/10/vao-livre-do-masp-programacao-gratuita-em-novembro.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/14/arvore-de-natal-de-55-metros-de-altura-e-inaugurada-no-parque-villa-lobos-zona-oeste-de-sp.ghtml"
+    },
+    {
+      "name": "Diretores de 'Jim Queen' vêm a SP para pré-estreia no Belas Artes com concurso de sósias e prêmio de 20 ingressos",
+      "category": "evento",
+      "desc": "Diretores de 'Jim Queen' vêm a SP para pré-estreia no Belas Artes com concurso de sósias e prêmio de 20 ingressos",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/13/diretores-de-jim-queen-vem-a-sp-para-pre-estreia-no-belas-artes-com-concurso-de-sosias-e-premio-de-20-ingressos.ghtml"
     }
   ]
 }
