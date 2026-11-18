@@ -1,6 +1,17 @@
 {
-  "updated_at": "16/11/2026 as 20:48",
+  "updated_at": "18/11/2026 as 19:14",
   "items": [
+    {
+      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP (Infos na descrição)",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
     {
       "name": "Tributo à Roberto Leal",
       "category": "evento",
@@ -127,19 +138,6 @@
       "link": "https://bileto.sympla.com.br/event/127377?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "O Nome do Tango no TEATRO ESTÚDIO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/125019?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "Acesso no TEATRO ESTÚDIO",
       "category": "evento",
       "desc": "",
@@ -153,54 +151,43 @@
       "link": "https://bileto.sympla.com.br/event/129186?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "RITA LEE, UMA AUTOBIOGRAFIA MUSICAL - 2026",
-      "category": "musical",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "musical"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/116591?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Trio Callas",
-      "category": "evento",
+      "name": "Museu de Arte Sacra de São Paulo",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/123303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/85130?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Último dia de evento começou com sol e teve mesa com Alex Atala e Arthur Paek; Simoninha fez show com sucessos brasileiros",
-      "category": "show",
+      "name": "Tour convencional - Inside The Star Jacareí - SP  (Infos na descrição)",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/101459?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Atala, Paek e Zeca Camargo falam sobre a comida na era das redes",
+      "name": "No parque Villa-Lobos, nomes como Alex Atala, Luiz Filipe Souza, Telma Shimizu e Arthur Paek abordaram diferentes aspectos da gastronomia",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "ao-ar-livre"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Show de Simoninha encerra com festa primeira ediÃ§Ã£o do evento",
-      "category": "show",
+      "name": "Herdeiro do tradicional Bar do Luiz Fernandes Ã© concierge de boteco",
+      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -210,7 +197,7 @@
       "link": ""
     },
     {
-      "name": "Domingo ensolarado atraiu o pÃºblico para o festival da Folha desde cedo",
+      "name": "Folha Gourmet Festival pÃµe Ã  mesa os sabores e os encontros de SP",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -219,6 +206,17 @@
       "tags": [
         "festival"
       ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "PÃºblico prova novos pratos e vÃª de perto artistas no evento da Folha",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -247,6 +245,31 @@
       "link": ""
     },
     {
+      "name": "Maurício Meirelles, Paul Cabannes e Baptista Miranda apresentam show que reúne humor de três continentes em SP, nesta quarta",
+      "category": "show",
+      "desc": "Maurício Meirelles, Paul Cabannes e Baptista Miranda apresentam show que reúne humor de três continentes em SP, nesta qu",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/18/mauricio-meirelles-paul-cabannes-e-baptista-miranda-apresentam-show-que-reune-humor-de-tres-continentes-em-sp-nesta-quarta.ghtml"
+    },
+    {
+      "name": "Seu Jorge, Jota.Pê e Rincon Sapiência fazem shows gratuitos no Festival Consciência Negra em SP; veja programação",
+      "category": "show",
+      "desc": "Seu Jorge, Jota.Pê e Rincon Sapiência fazem shows gratuitos no Festival Consciência Negra em SP; veja programação",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "gratuito",
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/17/seu-jorge-jotape-e-rincon-sapiencia-fazem-shows-gratuitos-no-festival-consciencia-negra-em-sp-veja-programacao.ghtml"
+    },
+    {
       "name": "Paulistano apaixonado por música cria mapa colaborativo com rodas de samba que acontecem em São Paulo",
       "category": "show",
       "desc": "Paulistano apaixonado por música cria mapa colaborativo com rodas de samba que acontecem em São Paulo",
@@ -258,32 +281,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/15/paulistano-apaixonado-por-musica-cria-mapa-colaborativo-com-rodas-de-samba-que-acontecem-em-sao-paulo.ghtml"
-    },
-    {
-      "name": "Árvore de Natal de 55 metros de altura é inaugurada no Parque Villa-Lobos, Zona Oeste de SP",
-      "category": "passeio",
-      "desc": "Árvore de Natal de 55 metros de altura é inaugurada no Parque Villa-Lobos, Zona Oeste de SP",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "ao-ar-livre"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/14/arvore-de-natal-de-55-metros-de-altura-e-inaugurada-no-parque-villa-lobos-zona-oeste-de-sp.ghtml"
-    },
-    {
-      "name": "Diretores de 'Jim Queen' vêm a SP para pré-estreia no Belas Artes com concurso de sósias e prêmio de 20 ingressos",
-      "category": "evento",
-      "desc": "Diretores de 'Jim Queen' vêm a SP para pré-estreia no Belas Artes com concurso de sósias e prêmio de 20 ingressos",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "estreia"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/13/diretores-de-jim-queen-vem-a-sp-para-pre-estreia-no-belas-artes-com-concurso-de-sosias-e-premio-de-20-ingressos.ghtml"
     }
   ]
 }
