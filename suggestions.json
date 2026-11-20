@@ -1,5 +1,5 @@
 {
-  "updated_at": "18/11/2026 as 19:14",
+  "updated_at": "20/11/2026 as 18:57",
   "items": [
     {
       "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP (Infos na descrição)",
@@ -116,17 +116,6 @@
       "link": "https://bileto.sympla.com.br/event/128894?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Palazzo Verde",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/117081?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "MAGIA DUO 2026 apresenta Alice no País das Maravilhas",
       "category": "evento",
       "desc": "",
@@ -136,6 +125,19 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/127377?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Epifania no TEATRO ESTÚDIO",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/127008?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Acesso no TEATRO ESTÚDIO",
@@ -151,36 +153,40 @@
       "link": "https://bileto.sympla.com.br/event/129186?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Museu de Arte Sacra de São Paulo",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/85130?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Tour convencional - Inside The Star Jacareí - SP  (Infos na descrição)",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/101459?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "No parque Villa-Lobos, nomes como Alex Atala, Luiz Filipe Souza, Telma Shimizu e Arthur Paek abordaram diferentes aspectos da gastronomia",
-      "category": "restaurante",
+      "name": "Outra Revolução dos Bichos no TEATRO ESTÚDIO",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "ao-ar-livre"
+        "teatro"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/110581?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "RITA LEE, UMA AUTOBIOGRAFIA MUSICAL - 2026",
+      "category": "musical",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "musical"
+      ],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116591?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Apresentações acontecem em palco na avenida São João, na região central; programação do evento reúne ainda atrações de teatro e artes",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "teatro"
       ],
       "source": "Guia Folha",
       "link": ""
@@ -197,14 +203,14 @@
       "link": ""
     },
     {
-      "name": "Folha Gourmet Festival pÃµe Ã  mesa os sabores e os encontros de SP",
-      "category": "evento",
+      "name": "'Jogos Vorazes - Amanhecer na Colheita' estreia nos cinemas",
+      "category": "cinema",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "festival"
+        "estreia"
       ],
       "source": "Guia Folha",
       "link": ""
@@ -245,6 +251,30 @@
       "link": ""
     },
     {
+      "name": "Veja o que fazer em SP: Festival Consciência Negra, Caetano Veloso, ExpoCannabis, Orgulho Nerd e Monobloco",
+      "category": "evento",
+      "desc": "Veja o que fazer em SP: Festival Consciência Negra, Caetano Veloso, ExpoCannabis, Orgulho Nerd e Monobloco",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "festival"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/20/veja-o-que-fazer-em-sp-festival-consciencia-negra-expocannabis-orgulho-nerd-e-monobloco.ghtml"
+    },
+    {
+      "name": "Hot Chip volta a SP neste domingo para show que celebra 20 anos de álbum; INKY abre apresentação após dez anos longe dos palcos",
+      "category": "show",
+      "desc": "Hot Chip volta a SP neste domingo para show que celebra 20 anos de álbum; INKY abre apresentação após dez anos longe dos",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/19/hot-chip-volta-a-sp-neste-domingo-para-show-que-celebra-20-anos-de-album-inky-abre-apresentacao-apos-dez-anos-longe-dos-palcos.ghtml"
+    },
+    {
       "name": "Maurício Meirelles, Paul Cabannes e Baptista Miranda apresentam show que reúne humor de três continentes em SP, nesta quarta",
       "category": "show",
       "desc": "Maurício Meirelles, Paul Cabannes e Baptista Miranda apresentam show que reúne humor de três continentes em SP, nesta qu",
@@ -254,33 +284,6 @@
       "tags": [],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/18/mauricio-meirelles-paul-cabannes-e-baptista-miranda-apresentam-show-que-reune-humor-de-tres-continentes-em-sp-nesta-quarta.ghtml"
-    },
-    {
-      "name": "Seu Jorge, Jota.Pê e Rincon Sapiência fazem shows gratuitos no Festival Consciência Negra em SP; veja programação",
-      "category": "show",
-      "desc": "Seu Jorge, Jota.Pê e Rincon Sapiência fazem shows gratuitos no Festival Consciência Negra em SP; veja programação",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito",
-        "festival"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/17/seu-jorge-jotape-e-rincon-sapiencia-fazem-shows-gratuitos-no-festival-consciencia-negra-em-sp-veja-programacao.ghtml"
-    },
-    {
-      "name": "Paulistano apaixonado por música cria mapa colaborativo com rodas de samba que acontecem em São Paulo",
-      "category": "show",
-      "desc": "Paulistano apaixonado por música cria mapa colaborativo com rodas de samba que acontecem em São Paulo",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "samba"
-      ],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/15/paulistano-apaixonado-por-musica-cria-mapa-colaborativo-com-rodas-de-samba-que-acontecem-em-sao-paulo.ghtml"
     }
   ]
 }
