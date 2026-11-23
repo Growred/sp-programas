@@ -1,17 +1,6 @@
 {
-  "updated_at": "20/11/2026 as 18:57",
+  "updated_at": "23/11/2026 as 22:27",
   "items": [
-    {
-      "name": "Tour Interno com Harmonização  -  Inside The Star - Jacareí-SP (Infos na descrição)",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/119183?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
     {
       "name": "Tributo à Roberto Leal",
       "category": "evento",
@@ -68,19 +57,6 @@
       "link": "https://bileto.sympla.com.br/event/129309?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Amantes do Teatro – A Comédia  São Paulo",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/127359?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
       "name": "ARENA STAR LASER",
       "category": "evento",
       "desc": "",
@@ -116,6 +92,17 @@
       "link": "https://bileto.sympla.com.br/event/128894?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Palazzo Verde",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/117081?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "MAGIA DUO 2026 apresenta Alice no País das Maravilhas",
       "category": "evento",
       "desc": "",
@@ -125,19 +112,6 @@
       "tags": [],
       "source": "Sympla",
       "link": "https://bileto.sympla.com.br/event/127377?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Epifania no TEATRO ESTÚDIO",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "teatro"
-      ],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/127008?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "Acesso no TEATRO ESTÚDIO",
@@ -166,76 +140,92 @@
       "link": "https://bileto.sympla.com.br/event/110581?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "RITA LEE, UMA AUTOBIOGRAFIA MUSICAL - 2026",
-      "category": "musical",
+      "name": "Museu de Arte Sacra de São Paulo",
+      "category": "passeio",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "musical"
-      ],
+      "tags": [],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/116591?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/85130?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Apresentações acontecem em palco na avenida São João, na região central; programação do evento reúne ainda atrações de teatro e artes",
+      "name": "YOGateria (Yoga com Gatinhos) + Hora do Churu",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "teatro"
-      ],
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/85262?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "MUSEU DAS ILUSÕES SP  SHOPPING SP MARKET",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/104934?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
+      "name": "Sancionada em julho, lei que veta a produção e a venda do ingrediente começa a valer em janeiro; Les Présidents serve receita até terça (24)",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Herdeiro do tradicional Bar do Luiz Fernandes Ã© concierge de boteco",
+      "name": "Hector Babenco ganha exposiÃ§Ã£o que recria cela de 'Carandiru'",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Novo Cuurva aposta em cafÃ©s preparados com espÃ©cie canÃ©fora",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Twig Twig, bar das donas do Sede261, une sushi, brasa e vinhos",
       "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "'Jogos Vorazes - Amanhecer na Colheita' estreia nos cinemas",
-      "category": "cinema",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
       "tags": [
-        "estreia"
+        "japones"
       ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "PÃºblico prova novos pratos e vÃª de perto artistas no evento da Folha",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Pouco se fala da BrÃ¡z Elettrica. Uma injustiÃ§a. Autointitulada \"lado B da BrÃ¡z\", ela carrega o charme da modÃ©stia e faz uma das pizzas mais saborosas da cidade. A massa, inclusive, Ã© mais gostosa e elÃ¡stica que a da irmÃ£ tradicional",
+      "name": "Uma das melhores lÃ­nguas de SÃ£o Paulo fica embaixo de um viaduto. O Box 62 Ã© bem pouco (ou nada) parecido com um restaurante convencional. Como o nome evidencia, o lugar Ã© realmente um box, daqueles de mercadÃ£o.",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "pizza"
-      ],
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -251,6 +241,30 @@
       "link": ""
     },
     {
+      "name": "28ª Festa do Livro da USP reúne 245 editoras com descontos de pelo menos 50%",
+      "category": "evento",
+      "desc": "28ª Festa do Livro da USP reúne 245 editoras com descontos de pelo menos 50%",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/23/28a-festa-do-livro-da-usp-reune-245-editoras-com-descontos-de-pelo-menos-50percent.ghtml"
+    },
+    {
+      "name": "Experiência gastronômica imersiva com mágica e menu de cinco etapas estreia na América Latina em hotel de SP",
+      "category": "evento",
+      "desc": "Experiência gastronômica imersiva com mágica e menu de cinco etapas estreia na América Latina em hotel de SP",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "estreia"
+      ],
+      "source": "G1 Guia SP",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/22/experiencia-gastronomica-imersiva-com-magica-e-menu-de-cinco-etapas-estreia-na-america-latina-em-hotel-de-sp.ghtml"
+    },
+    {
       "name": "Veja o que fazer em SP: Festival Consciência Negra, Caetano Veloso, ExpoCannabis, Orgulho Nerd e Monobloco",
       "category": "evento",
       "desc": "Veja o que fazer em SP: Festival Consciência Negra, Caetano Veloso, ExpoCannabis, Orgulho Nerd e Monobloco",
@@ -262,28 +276,6 @@
       ],
       "source": "G1 Guia SP",
       "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/20/veja-o-que-fazer-em-sp-festival-consciencia-negra-expocannabis-orgulho-nerd-e-monobloco.ghtml"
-    },
-    {
-      "name": "Hot Chip volta a SP neste domingo para show que celebra 20 anos de álbum; INKY abre apresentação após dez anos longe dos palcos",
-      "category": "show",
-      "desc": "Hot Chip volta a SP neste domingo para show que celebra 20 anos de álbum; INKY abre apresentação após dez anos longe dos",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/19/hot-chip-volta-a-sp-neste-domingo-para-show-que-celebra-20-anos-de-album-inky-abre-apresentacao-apos-dez-anos-longe-dos-palcos.ghtml"
-    },
-    {
-      "name": "Maurício Meirelles, Paul Cabannes e Baptista Miranda apresentam show que reúne humor de três continentes em SP, nesta quarta",
-      "category": "show",
-      "desc": "Maurício Meirelles, Paul Cabannes e Baptista Miranda apresentam show que reúne humor de três continentes em SP, nesta qu",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/18/mauricio-meirelles-paul-cabannes-e-baptista-miranda-apresentam-show-que-reune-humor-de-tres-continentes-em-sp-nesta-quarta.ghtml"
     }
   ]
 }
