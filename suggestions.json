@@ -1,5 +1,5 @@
 {
-  "updated_at": "23/11/2026 as 22:27",
+  "updated_at": "25/11/2026 as 20:22",
   "items": [
     {
       "name": "Tributo à Roberto Leal",
@@ -127,7 +127,7 @@
       "link": "https://bileto.sympla.com.br/event/129186?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Outra Revolução dos Bichos no TEATRO ESTÚDIO",
+      "name": "Amália no TEATRO ESTÚDIO",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
@@ -137,18 +137,7 @@
         "teatro"
       ],
       "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/110581?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Museu de Arte Sacra de São Paulo",
-      "category": "passeio",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/85130?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+      "link": "https://bileto.sympla.com.br/event/128729?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
       "name": "YOGateria (Yoga com Gatinhos) + Hora do Churu",
@@ -173,48 +162,62 @@
       "link": "https://bileto.sympla.com.br/event/104934?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Sancionada em julho, lei que veta a produção e a venda do ingrediente começa a valer em janeiro; Les Présidents serve receita até terça (24)",
+      "name": "LARA:  EM CENA",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Guia Folha",
-      "link": ""
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/130656?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "Hector Babenco ganha exposiÃ§Ã£o que recria cela de 'Carandiru'",
+      "name": "Evento gratuito contará com 245 selos e 50% de desconto mínimo nas obras; feira começa nesta quarta (25) e acontece até 29 de novembro",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Novo Cuurva aposta em cafÃ©s preparados com espÃ©cie canÃ©fora",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Twig Twig, bar das donas do Sede261, une sushi, brasa e vinhos",
-      "category": "bar",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "japones"
+        "gratuito",
+        "feira"
       ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Lauryn Hill e Wyclef Jean fazem show dos 30 anos de 'The Score'",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Casa MÃ¡rio de Andrade recebe mostra dedicada Ã  'MacunaÃ­ma'",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [
+        "exposicao"
+      ],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "Ãrvore do Ibirapuera pode ser visitada a partir de 5 de dezembro",
+      "category": "show",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
       "source": "Guia Folha",
       "link": ""
     },
@@ -241,41 +244,39 @@
       "link": ""
     },
     {
-      "name": "28ª Festa do Livro da USP reúne 245 editoras com descontos de pelo menos 50%",
+      "name": "Guarulhos oferece aulas gratuitas de pilates, dança e alongamento para pessoas com 60 anos ou mais",
       "category": "evento",
-      "desc": "28ª Festa do Livro da USP reúne 245 editoras com descontos de pelo menos 50%",
+      "desc": "Guarulhos oferece aulas gratuitas de pilates, dança e alongamento para pessoas com 60 anos ou mais",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/23/28a-festa-do-livro-da-usp-reune-245-editoras-com-descontos-de-pelo-menos-50percent.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/25/guarulhos-oferece-aulas-gratuitas-de-pilates-danca-e-alongamento-para-pessoas-com-60-anos-ou-mais.ghtml"
     },
     {
-      "name": "Experiência gastronômica imersiva com mágica e menu de cinco etapas estreia na América Latina em hotel de SP",
-      "category": "evento",
-      "desc": "Experiência gastronômica imersiva com mágica e menu de cinco etapas estreia na América Latina em hotel de SP",
+      "name": "Jota Quest, Frejat e Art Popular fazem shows gratuitos em Santo André",
+      "category": "show",
+      "desc": "Jota Quest, Frejat e Art Popular fazem shows gratuitos em Santo André",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "estreia"
+        "gratuito"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/22/experiencia-gastronomica-imersiva-com-magica-e-menu-de-cinco-etapas-estreia-na-america-latina-em-hotel-de-sp.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/25/jota-quest-frejat-e-art-popular-fazem-shows-gratuitos-em-santo-andre.ghtml"
     },
     {
-      "name": "Veja o que fazer em SP: Festival Consciência Negra, Caetano Veloso, ExpoCannabis, Orgulho Nerd e Monobloco",
-      "category": "evento",
-      "desc": "Veja o que fazer em SP: Festival Consciência Negra, Caetano Veloso, ExpoCannabis, Orgulho Nerd e Monobloco",
+      "name": "Chitãozinho & Xororó e Jorge & Mateus anunciam show em SP em turnê que terá sabor de despedida e retorno",
+      "category": "show",
+      "desc": "Chitãozinho & Xororó e Jorge & Mateus anunciam show em SP em turnê que terá sabor de despedida e retorno",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [
-        "festival"
-      ],
+      "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/20/veja-o-que-fazer-em-sp-festival-consciencia-negra-expocannabis-orgulho-nerd-e-monobloco.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/25/chitaozinho-and-xororo-e-jorge-and-mateus-anunciam-show-em-sp-em-turne-que-tera-sabor-de-despedida-e-retorno.ghtml"
     }
   ]
 }
