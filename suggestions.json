@@ -1,5 +1,5 @@
 {
-  "updated_at": "25/11/2026 as 20:22",
+  "updated_at": "27/11/2026 as 19:47",
   "items": [
     {
       "name": "Tributo à Roberto Leal",
@@ -140,6 +140,17 @@
       "link": "https://bileto.sympla.com.br/event/128729?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
+      "name": "Black Friday Válido até 28/02/27 - Museu da Imaginação",
+      "category": "passeio",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Sympla",
+      "link": "https://bileto.sympla.com.br/event/116303?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
+    },
+    {
       "name": "YOGateria (Yoga com Gatinhos) + Hora do Churu",
       "category": "evento",
       "desc": "",
@@ -162,33 +173,19 @@
       "link": "https://bileto.sympla.com.br/event/104934?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
     },
     {
-      "name": "LARA:  EM CENA",
+      "name": "Degustação às cegas com especialistas e jornalistas da Folha avaliou 57 produtos em seis categorias",
       "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
-      "source": "Sympla",
-      "link": "https://bileto.sympla.com.br/event/130656?mp_rloc=S%C3%A3o+Paulo&mp_rtil=Todos+os+eventos+em+S%C3%A3o+Paulo"
-    },
-    {
-      "name": "Evento gratuito contará com 245 selos e 50% de desconto mínimo nas obras; feira começa nesta quarta (25) e acontece até 29 de novembro",
-      "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "gratuito",
-        "feira"
-      ],
       "source": "Guia Folha",
       "link": ""
     },
     {
-      "name": "Lauryn Hill e Wyclef Jean fazem show dos 30 anos de 'The Score'",
-      "category": "show",
+      "name": "VersÃµes com dulÃ§or equilibrado se destacam entre recheios irregulares",
+      "category": "evento",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -198,21 +195,8 @@
       "link": ""
     },
     {
-      "name": "Casa MÃ¡rio de Andrade recebe mostra dedicada Ã  'MacunaÃ­ma'",
+      "name": "Receitas de chocolate com notas cÃ­tricas se sobressaem em teste",
       "category": "evento",
-      "desc": "",
-      "address": "Sao Paulo, SP",
-      "date": "",
-      "hours": "",
-      "tags": [
-        "exposicao"
-      ],
-      "source": "Guia Folha",
-      "link": ""
-    },
-    {
-      "name": "Ãrvore do Ibirapuera pode ser visitada a partir de 5 de dezembro",
-      "category": "show",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
@@ -222,13 +206,26 @@
       "link": ""
     },
     {
-      "name": "Uma das melhores lÃ­nguas de SÃ£o Paulo fica embaixo de um viaduto. O Box 62 Ã© bem pouco (ou nada) parecido com um restaurante convencional. Como o nome evidencia, o lugar Ã© realmente um box, daqueles de mercadÃ£o.",
+      "name": "Panetones com frutas equilibradas e massa macia agradam jurados",
+      "category": "evento",
+      "desc": "",
+      "address": "Sao Paulo, SP",
+      "date": "",
+      "hours": "",
+      "tags": [],
+      "source": "Guia Folha",
+      "link": ""
+    },
+    {
+      "name": "A ideia do Lina, restaurante que logo na porta tem a assinatura dos chefs Felipe Bronze e Bia Limoni, Ã© boa: onde a pasta encontra a brasa. Fazia tempo que queria provar as receitas de lÃ¡, mas toda vez que eu tentava fazer reserva, para noites de sexta ou sÃ¡bado, a agenda do restaurante jÃ¡ estava lotada.",
       "category": "restaurante",
       "desc": "",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
-      "tags": [],
+      "tags": [
+        "italiano"
+      ],
       "source": "Guia Folha",
       "link": ""
     },
@@ -244,39 +241,40 @@
       "link": ""
     },
     {
-      "name": "Guarulhos oferece aulas gratuitas de pilates, dança e alongamento para pessoas com 60 anos ou mais",
+      "name": "Shopping de SP faz programação de Natal especial para pets",
       "category": "evento",
-      "desc": "Guarulhos oferece aulas gratuitas de pilates, dança e alongamento para pessoas com 60 anos ou mais",
+      "desc": "Shopping de SP faz programação de Natal especial para pets",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/25/guarulhos-oferece-aulas-gratuitas-de-pilates-danca-e-alongamento-para-pessoas-com-60-anos-ou-mais.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/27/shopping-de-sp-faz-programacao-de-natal-especial-para-pets.ghtml"
     },
     {
-      "name": "Jota Quest, Frejat e Art Popular fazem shows gratuitos em Santo André",
+      "name": "Shows de Wesley Safadão, Joelma e Sidney Magal, festival de K-pop, circo e feiras gratuitas: veja o que fazer em SP",
       "category": "show",
-      "desc": "Jota Quest, Frejat e Art Popular fazem shows gratuitos em Santo André",
+      "desc": "Shows de Wesley Safadão, Joelma e Sidney Magal, festival de K-pop, circo e feiras gratuitas: veja o que fazer em SP",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [
-        "gratuito"
+        "feira",
+        "festival"
       ],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/25/jota-quest-frejat-e-art-popular-fazem-shows-gratuitos-em-santo-andre.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/27/shows-de-wesley-safadao-joelma-e-sidney-magal-festival-de-k-pop-circo-e-feiras-gratuitas-veja-o-que-fazer-em-sp.ghtml"
     },
     {
-      "name": "Chitãozinho & Xororó e Jorge & Mateus anunciam show em SP em turnê que terá sabor de despedida e retorno",
-      "category": "show",
-      "desc": "Chitãozinho & Xororó e Jorge & Mateus anunciam show em SP em turnê que terá sabor de despedida e retorno",
+      "name": "Copa de Museus: instituições culturais de SP disputam campeonato de futebol; veja como assistir aos jogos",
+      "category": "passeio",
+      "desc": "Copa de Museus: instituições culturais de SP disputam campeonato de futebol; veja como assistir aos jogos",
       "address": "Sao Paulo, SP",
       "date": "",
       "hours": "",
       "tags": [],
       "source": "G1 Guia SP",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/25/chitaozinho-and-xororo-e-jorge-and-mateus-anunciam-show-em-sp-em-turne-que-tera-sabor-de-despedida-e-retorno.ghtml"
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/26/copa-de-museus-instituicoes-culturais-de-sp-disputam-campeonato-de-futebol-veja-como-assistir-aos-jogos.ghtml"
     }
   ]
 }
